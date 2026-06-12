@@ -700,10 +700,111 @@
             .sim-event { grid-template-columns:38px 1fr; font-size:12px; }
         }
 
-        /* ─── MOBILE COLUMN LAYOUT ─── */
+        /* ─── MOBILE DRAFT LAYOUT (SIDE-BY-SIDE) ─── */
         @media (max-width:899px) {
-            #pitch-container { padding:6px; }
-            #pitch { max-width:min(90%, 38.5dvh); }
+            #app-main {
+                flex-direction: row-reverse;
+            }
+            #sidebar {
+                flex: 0 0 170px;
+                border-top: none;
+                border-right: 2px solid var(--card-border);
+                border-left: none;
+            }
+            #pitch-container {
+                flex: 1;
+                padding: 8px;
+            }
+            #pitch {
+                height: 100%;
+                max-height: calc(100dvh - 100px);
+                width: auto;
+                aspect-ratio: 70/100;
+                max-width: min(100%, calc((100dvh - 100px) * 0.7));
+            }
+            .slot {
+                width: clamp(26px, 8vw, 42px) !important;
+                height: clamp(26px, 8vw, 42px) !important;
+            }
+            .slot.filled .slot-name {
+                font-size: 6px !important;
+                max-width: 95%;
+            }
+            .slot.filled .slot-rating {
+                font-size: 11px !important;
+            }
+            .slot.filled .slot-pos-small {
+                font-size: 5px !important;
+            }
+            .slot.empty .slot-pos {
+                font-size: 8px !important;
+            }
+            #pitch::before {
+                width: 60px !important;
+                height: 60px !important;
+            }
+            #roll-section {
+                padding: 8px;
+            }
+            #roll-btn {
+                padding: 8px 4px;
+                font-size: 11px;
+                letter-spacing: 1.5px;
+            }
+            .action-row {
+                margin-top: 4px;
+                gap: 4px;
+            }
+            .action-row button {
+                padding: 6px 2px;
+                font-size: 8px;
+                letter-spacing: 0.5px;
+            }
+            #rolled-team-display {
+                margin-top: 6px;
+                padding: 6px;
+            }
+            #rolled-team-display .drawn-label {
+                font-size: 8px;
+            }
+            #rtd-name {
+                font-size: 13px;
+            }
+            #rtd-year {
+                font-size: 11px;
+            }
+            #rtd-count {
+                font-size: 8px;
+                margin-top: 2px;
+            }
+            #roster-section {
+                flex: 1;
+                overflow-y: auto;
+                min-height: 0;
+            }
+            .roster-header {
+                font-size: 10px;
+                padding: 6px 8px;
+            }
+            .roster-item {
+                padding: 6px 8px;
+            }
+            .roster-item .ri-name {
+                font-size: 10px;
+            }
+            .roster-item .ri-pos {
+                font-size: 9px;
+            }
+            .roster-item .ri-rating {
+                font-size: 13px;
+            }
+            #history-section {
+                display: none;
+            }
+            #instructions-bar {
+                padding: 4px 12px;
+                font-size: 10px;
+            }
         }
 
         /* ─── BROADCAST SCOREBOARD ─── */
@@ -828,20 +929,6 @@
             .stat-block { padding:1px 6px; }
             .stat-block .stat-value { font-size:14px; }
             .stat-block .stat-label { font-size:7px; }
-            #pitch-container { padding:2px; }
-            #pitch { max-width:min(90%, 34dvh); }
-            #roll-section { padding:8px 12px; }
-            #roll-btn { padding:8px; font-size:11px; }
-            #history-section { display:none; }
-            #instructions-bar { padding:4px 12px; font-size:10px; }
-            .slot { width:clamp(28px,9vw,56px) !important; height:clamp(28px,9vw,56px) !important; }
-            .slot.filled .slot-name { font-size:clamp(5px,1vw,7px); }
-            .slot.filled .slot-rating { font-size:clamp(10px,2.5vw,16px); }
-            .slot.filled .slot-pos-small { font-size:clamp(4px,0.8vw,6px); }
-            .slot.empty .slot-pos { font-size:clamp(7px,1.5vw,10px); }
-            .roster-item { padding:6px 12px; }
-            .roster-item .ri-name { font-size:12px; }
-            .roster-item .ri-rating { font-size:15px; }
             .broadcast-bar { border-radius:4px; }
             .bc-team { padding:6px 10px; font-size:clamp(9px,2vw,13px); }
             .bc-score-box { padding:6px 10px; min-width:50px; }
@@ -851,15 +938,8 @@
         }
         @media (max-height:500px) {
             #app-header { padding:2px 10px; }
-            #pitch-container { padding:2px; }
-            #pitch { max-width:min(80%, 28dvh); }
             #instructions-bar { display:none; }
             #history-section { display:none; }
-            .slot { width:clamp(22px,7vw,40px) !important; height:clamp(22px,7vw,40px) !important; }
-            .slot.empty .slot-pos { font-size:7px; }
-            .slot.filled .slot-rating { font-size:clamp(8px,2vw,14px); }
-            .slot.filled .slot-name { font-size:5px; }
-            #roll-section { padding:4px 8px; }
         }
 
         .hidden-ui { display:none !important; }
@@ -1269,6 +1349,8 @@
         let gamePhase = 'setup';    // setup | idle | roster | placing | simulation | complete
         let diabolicaMode = false;  // Diabolical Mode state (ON/OFF)
         let oopActive = false;      // active OOP state when deadlock occurs
+        let movingSourceSlotId = null;
+        let previousGamePhase = 'idle';
         const SIM_SPEED_DELAYS = { slow:500, normal:250, fast:120, ultra:60 };
         const TOURNAMENT_STAGES = [
             { id:'group1', label:'Groups Match 1', type:'group', target:-8 },
@@ -1811,7 +1893,44 @@
         }
 
         function onSlotClick(slotId) {
-            if (gamePhase !== 'placing' || !selectedPlayer) return;
+            if (gamePhase === 'moving') {
+                const el = $('slot-' + slotId);
+                if (el.classList.contains('highlight')) {
+                    const player = filledSlots[movingSourceSlotId];
+                    delete filledSlots[movingSourceSlotId];
+                    filledSlots[slotId] = player;
+                    updateSlotVisual(movingSourceSlotId, false);
+                    updateSlotVisual(slotId, true);
+                    clearHighlights();
+                    movingSourceSlotId = null;
+                    gamePhase = previousGamePhase || 'idle';
+                    updateInstructions('Giocatore spostato.');
+                    updateStats();
+                } else {
+                    clearHighlights();
+                    movingSourceSlotId = null;
+                    gamePhase = previousGamePhase || 'idle';
+                    updateInstructions('Spostamento annullato.');
+                }
+                return;
+            }
+
+            if (gamePhase !== 'placing' || !selectedPlayer) {
+                if (filledSlots[slotId]) {
+                    const player = filledSlots[slotId];
+                    const compat = getCompatibleSlots(player);
+                    if (compat.length > 0) {
+                        previousGamePhase = gamePhase;
+                        gamePhase = 'moving';
+                        movingSourceSlotId = slotId;
+                        highlightSlots(compat);
+                        updateInstructions('Sposta <strong>' + player.name + '</strong> cliccando su uno slot libero evidenziato.');
+                    } else {
+                        updateInstructions('Nessun altro ruolo compatibile disponibile per questo giocatore.');
+                    }
+                }
+                return;
+            }
 
             const el = $('slot-' + slotId);
             if (!el.classList.contains('highlight')) return;
@@ -1819,7 +1938,7 @@
             const playerToPlace = { ...selectedPlayer };
             if (oopActive) {
                 playerToPlace.isOop = true;
-                playerToPlace.original_rating = playerToPlace.overall_rating;
+                playerToPlace.original_rating = playerToPlace.original_rating || playerToPlace.overall_rating;
                 playerToPlace.overall_rating = Math.floor(playerToPlace.overall_rating / 2);
             }
 
@@ -1854,15 +1973,21 @@
         }
 
         function cancelSelection() {
-            if (gamePhase !== 'placing') return;
-            selectedPlayer = null;
-            selectedPlayerIdx = null;
-            gamePhase = 'roster';
-            clearHighlights();
-            rosterSection.querySelectorAll('.roster-item.selected').forEach(el =>
-                el.classList.remove('selected')
-            );
-            updateInstructions('Selezione annullata. Scegli un altro giocatore.');
+            if (gamePhase === 'placing') {
+                selectedPlayer = null;
+                selectedPlayerIdx = null;
+                gamePhase = 'roster';
+                clearHighlights();
+                rosterSection.querySelectorAll('.roster-item.selected').forEach(el =>
+                    el.classList.remove('selected')
+                );
+                updateInstructions('Selezione annullata. Scegli un altro giocatore.');
+            } else if (gamePhase === 'moving') {
+                clearHighlights();
+                movingSourceSlotId = null;
+                gamePhase = previousGamePhase || 'idle';
+                updateInstructions('Spostamento annullato.');
+            }
         }
 
         /* ══════════════════════════════════════════════════════════
@@ -2458,9 +2583,10 @@
             userAvg = 0;
             opponentPool = [];
             tournamentState = null;
-            currentMatch = null;
             simSpeed = 'normal';
             autoProgress = false;
+            movingSourceSlotId = null;
+            previousGamePhase = 'idle';
 
             // Reset UI
             gcOverlay.classList.remove('visible');
