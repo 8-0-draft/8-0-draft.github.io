@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_zinedine_zidane_2016",
+    "name": "Zinedine Zidane",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2017",
+    "name": "Zinedine Zidane",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2018",
+    "name": "Zinedine Zidane",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2019",
+    "name": "Zinedine Zidane",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2020",
+    "name": "Zinedine Zidane",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2021",
+    "name": "Zinedine Zidane",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2022",
+    "name": "Carlo Ancelotti",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2023",
+    "name": "Carlo Ancelotti",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2024",
+    "name": "Carlo Ancelotti",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2025",
+    "name": "Carlo Ancelotti",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2026",
+    "name": "Carlo Ancelotti",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_salvador_artigas_1957",
+    "name": "Salvador Artigas",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Sociedad",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alberto_orrmaetxea_1982",
+    "name": "Alberto Orrmaetxea",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Sociedad",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_imanol_alguacil_2024",
+    "name": "Imanol Alguacil",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Sociedad",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jagoba_arrasate_2014",
+    "name": "Jagoba Arrasate",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Sociedad de Fútbol S.A.D.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jagoba_arrasate_2014_duplicate",
+    "name": "Jagoba Arrasate",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Sociedad de FÃºtbol S.A.D.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_imanol_alguacil_2024_duplicate",
+    "name": "Imanol Alguacil",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Sociedad de Fútbol S.A.D.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rafael_benitez_1996",
+    "name": "Rafael Benitez",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Valladolid",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_luis_mendilibar_2002",
+    "name": "Jose Luis Mendilibar",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Valladolid",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_javier_clemente_2010",
+    "name": "Javier Clemente",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Valladolid",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_costa_1975",
+    "name": "Luis Costa",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Zaragoza",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_manuel_villanova_1980",
+    "name": "Manuel Villanova",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Zaragoza",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1956",
+    "name": "Miljan Miljanic",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1957",
+    "name": "Miljan Miljanic",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1960",
+    "name": "Miljan Miljanic",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1963",
+    "name": "Miljan Miljanic",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1966",
+    "name": "Miljan Miljanic",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1970",
+    "name": "Miljan Miljanic",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1973",
+    "name": "Miljan Miljanic",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_branko_stankovic_1980",
+    "name": "Branko Stankovic",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_branko_stankovic_1981",
+    "name": "Branko Stankovic",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_velibor_vasovic_1986",
+    "name": "Velibor Vasovic",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_velibor_vasovic_1987",
+    "name": "Velibor Vasovic",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_dragoslav_sekulic_1990",
+    "name": "Dragoslav Sekulic",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vladan_milojevic_2025",
+    "name": "Vladan Milojevic",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Red Star Belgrade",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pierre_dreossi_2006",
+    "name": "Pierre Dreossi",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rennes",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_retired_1994",
+    "name": "Retired",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Retired",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_enrique_omar_sivori_1956",
+    "name": "Enrique Omar Sivori",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "River Plate",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlos_timoteo_griguol_1987",
+    "name": "Carlos Timoteo Griguol",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "River Plate",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_daniel_pasarella_2006",
+    "name": "Daniel Pasarella",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "River Plate",
+    "tier": "A",
+    "overall_rating": 0
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_helmuth_johannsen_1967",
+    "name": "Helmuth Johannsen",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Braunschweig",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_otto_knefler_1970",
+    "name": "Otto Knefler",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Braunschweig",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_dragoslav_stepanovic_1996",
+    "name": "Dragoslav Stepanović",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Francoforte",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paul_osswald_1959",
+    "name": "Paul Oßwald",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Frankfurt",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gyula_lorant_1977",
+    "name": "Gyula Lóránt",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Frankfurt",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_armin_veh_2012",
+    "name": "Armin Veh",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Frankfurt",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_oliver_glasner_2023",
+    "name": "Oliver Glasner",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Frankfurt Fußball AG",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_dino_toppmoller_2026",
+    "name": "Dino Toppmöller",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Frankfurt Fußball AG",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_antonio_camacho_1994",
+    "name": "José Antonio Camacho",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Espanyol",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2010",
+    "name": "Mauricio Pochettino",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Espanyol",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_harry_catterick_1970",
+    "name": "Harry Catterick",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Everton",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1959",
+    "name": "Helenio Herrera",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ljubisa_brocic_1960",
+    "name": "Ljubiša Broćić",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rinus_michels_1973",
+    "name": "Rinus Michels",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rinus_michels_1974",
+    "name": "Rinus Michels",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_johan_cruyff_1991",
+    "name": "Johan Cruyff",
+    "year": 1991,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_johan_cruyff_1993",
+    "name": "Johan Cruyff",
+    "year": 1993,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_johan_cruyff_1994",
+    "name": "Johan Cruyff",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2009",
+    "name": "Pep Guardiola",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2010",
+    "name": "Pep Guardiola",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2011",
+    "name": "Pep Guardiola",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_tito_vilanova_2012",
+    "name": "Tito Vilanova",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_quique_costas_1994",
+    "name": "Quique Costas",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona B",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_enrique_2011",
+    "name": "Luis Enrique",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Barcelona B",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bela_sarosi_1956",
+    "name": "Béla Sárosi",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rudi_strittich_1958",
+    "name": "Rudi Strittich",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_georges_sobotka_1963",
+    "name": "Georges Sobotka",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_helmut_benthaus_1973",
+    "name": "Helmut Benthaus",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_heiko_vogel_2012",
+    "name": "Heiko Vogel",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_murat_yakin_2014",
+    "name": "Murat Yakin",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel 1893 AG",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paulo_sousa_2015",
+    "name": "Paulo Sousa",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel 1893 AG",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_raphael_wicky_2018",
+    "name": "Raphaël Wicky",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Basel 1893 AG",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2014",
+    "name": "Pep Guardiola",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2017",
+    "name": "Carlo Ancelotti",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_niko_kovac_2019",
+    "name": "Niko Kovač",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_hansi_flick_2020",
+    "name": "Hansi Flick",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_2009",
+    "name": "Louis van Gaal",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_2013",
+    "name": "Jupp Heynckes",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2014_bayern",
+    "name": "Pep Guardiola",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2015",
+    "name": "Pep Guardiola",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 2
+  }
+]

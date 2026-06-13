@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_pep_guardiola_2016",
+    "name": "Pep Guardiola",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2017",
+    "name": "Carlo Ancelotti",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_2018",
+    "name": "Jupp Heynckes",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_niko_kovac_2019",
+    "name": "Niko Kovač",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_hansi_flick_2020",
+    "name": "Hansi Flick",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_hansi_flick_2021",
+    "name": "Hansi Flick",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_julian_nagelsmann_2022",
+    "name": "Julian Nagelsmann",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_julian_nagelsmann_2023",
+    "name": "Julian Nagelsmann",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2024",
+    "name": "Thomas Tuchel",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_vincent_kompany_2025",
+    "name": "Vincent Kompany",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vincent_kompany_2026",
+    "name": "Vincent Kompany",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Bayern München",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stale_solbakken_2011",
+    "name": "Ståle Solbakken",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Copenhagen",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_benno_mohlmann_2012",
+    "name": "Benno Möhlmann",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Ingolstadt 04",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_walter_frosch_1956",
+    "name": "Walter Frosch",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Kaiserslautern",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hennes_weisweiler_1978",
+    "name": "Hennes Weisweiler",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Köln",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_georges_sobik_1956",
+    "name": "Georges Sobik",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC La Chaux-de-Fonds",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miroslav_blazevic_1988",
+    "name": "Miroslav Blažević",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Nantes",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_artur_jorge_1986",
+    "name": "Artur Jorge",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_artur_jorge_1990",
+    "name": "Artur Jorge",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_carlos_alberto_silva_1993",
+    "name": "Carlos Alberto Silva",
+    "year": 1993,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bobby_robson_1996",
+    "name": "Bobby Robson",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_fernando_santos_1999",
+    "name": "Fernando Santos",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2003",
+    "name": "José Mourinho",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jesualdo_ferreira_2008",
+    "name": "Jesualdo Ferreira",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jesualdo_ferreira_2009",
+    "name": "Jesualdo Ferreira",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_andre_villas-boas_2010",
+    "name": "André Villas-Boas",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2022",
+    "name": "Sérgio Conceição",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2024",
+    "name": "Sérgio Conceição",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_eddi_fruhwirth_1958",
+    "name": "Edi Frühwirth",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Schalke 04",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jens_keller_2013",
+    "name": "Jens Keller",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Schalke 04",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jens_keller_2014",
+    "name": "Jens Keller",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Schalke 04",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_roberto_di_matteo_2015",
+    "name": "Roberto Di Matteo",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Schalke 04",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_domenico_tedesco_2019",
+    "name": "Domenico Tedesco",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Schalke 04",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2013",
+    "name": "Mircea Lucescu",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2014",
+    "name": "Mircea Lucescu",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2015",
+    "name": "Mircea Lucescu",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paulo_fonseca_2016",
+    "name": "Paulo Fonseca",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paulo_fonseca_2018",
+    "name": "Paulo Fonseca",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luis_castro_2019",
+    "name": "Luís Castro",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_castro_2020",
+    "name": "Luís Castro",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "B",
+    "overall_rating": 1
+  }
+]

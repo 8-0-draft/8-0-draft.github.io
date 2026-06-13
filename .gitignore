@@ -19,6 +19,9 @@ __pycache__/
 # LLM Scripts (contains secrets)
 enrich_players.py
 modern_era_perfection_pipeline.py
+add_managers.py
+add_managers.py.bak
+add_managers.log
 
 # Allow final database for the game
 !final_game_database.json

@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_otto_rehhagel_1998",
+    "name": "Otto Rehhagel",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. FC Kaiserslautern",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_georg_knopfle_1964",
+    "name": "Georg Knöpfle",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. FC Köln",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernst_ocwirk_1970",
+    "name": "Ernst Ocwirk",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. FC Köln",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_heinz_kruegel_1969",
+    "name": "Heinz Krügel",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. FC Magdeburg",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_joachim_streich_1990",
+    "name": "Joachim Streich",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. FC Magdeburg",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_herbert_widmayer_1960",
+    "name": "Herbert Widmayer",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. FC Nürnberg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_herbert_widmayer_1961",
+    "name": "Herbert Widmayer",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. FC Nürnberg",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_nenad_bjelica_2024",
+    "name": "Nenad Bjelica",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1. Fußballclub Union Berlin",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_ralf_rangnick_2010",
+    "name": "Ralf Rangnick",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "1899 Hoffenheim",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hector_puricelli_1955",
+    "name": "Héctor Puricelli",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_giuseppe_viani_1957",
+    "name": "Giuseppe Viani",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_nereo_rocco_1962",
+    "name": "Nereo Rocco",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_nereo_rocco_1963",
+    "name": "Nereo Rocco",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_nereo_rocco_1968",
+    "name": "Nereo Rocco",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_arigo_sacchi_1988",
+    "name": "Arrigo Sacchi",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arigo_sacchi_1989",
+    "name": "Arrigo Sacchi",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_arigo_sacchi_1990",
+    "name": "Arrigo Sacchi",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_fabio_capello_1992",
+    "name": "Fabio Capello",
+    "year": 1992,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_fabio_capello_1993",
+    "name": "Fabio Capello",
+    "year": 1993,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_fabio_capello_1994",
+    "name": "Fabio Capello",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2002",
+    "name": "Carlo Ancelotti",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2003",
+    "name": "Carlo Ancelotti",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2004",
+    "name": "Carlo Ancelotti",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2005",
+    "name": "Carlo Ancelotti",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2006",
+    "name": "Carlo Ancelotti",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2008",
+    "name": "Carlo Ancelotti",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leonardo_2010",
+    "name": "Leonardo",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2011",
+    "name": "Massimiliano Allegri",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2012",
+    "name": "Massimiliano Allegri",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stefano_pioli_2022",
+    "name": "Stefano Pioli",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_stefano_pioli_2024",
+    "name": "Stefano Pioli",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lars_friis_2025",
+    "name": "Lars Friis",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Sparta Praha, a. s.",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_branko_stankovic_1968",
+    "name": "Branko Stanković",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AEK Athens",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marinos_ouzinidis_2019",
+    "name": "Marinos Ouzounidis",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AEK Athens",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_frank_de_boer_2013",
+    "name": "Frank de Boer",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_frank_de_boer_2014",
+    "name": "Frank de Boer",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_frank_de_boer_2015",
+    "name": "Frank de Boer",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_erik_ten_hag_2019",
+    "name": "Erik ten Hag",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_erik_ten_hag_2020",
+    "name": "Erik ten Hag",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_erik_ten_hag_2021",
+    "name": "Erik ten Hag",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "A",
+    "overall_rating": 1
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_jurgen_klopp_2021",
+    "name": "Jürgen Klopp",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2022",
+    "name": "Jürgen Klopp",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2023",
+    "name": "Jürgen Klopp",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arne_slot_2025",
+    "name": "Arne Slot",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arne_slot_2026",
+    "name": "Arne Slot",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_yury_semin_2019",
+    "name": "Yury Semin",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lokomotiv Moscow",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_unknown_1990",
+    "name": "Unknown",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lokomotive Leipzig",
+    "tier": "C",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_david_pleat_1984",
+    "name": "David Pleat",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Luton Town",
+    "tier": "C",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_paul_le_guen_2003",
+    "name": "Paul Le Guen",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paul_le_guen_2004",
+    "name": "Paul Le Guen",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gerard_houllier_2005",
+    "name": "Gérard Houllier",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gerard_houllier_2006",
+    "name": "Gérard Houllier",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alain_perrin_2008",
+    "name": "Alain Perrin",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claude_puel_2009",
+    "name": "Claude Puel",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_claude_puel_2010",
+    "name": "Claude Puel",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_remi_garde_2011",
+    "name": "Rémi Garde",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_remi_garde_2012",
+    "name": "Rémi Garde",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_genesio_2019",
+    "name": "Bruno Génésio",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lyon",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marton_bukovi_1955",
+    "name": "Márton Bukovi",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "MTK Budapest",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lajos_kovacs_1964",
+    "name": "Lajos Kovács",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "MTK Budapest",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_unknown_1963",
+    "name": "Unknown",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "MVV Maastricht",
+    "tier": "C",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_frans_korver_1988",
+    "name": "Frans Körver",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "MVV Maastricht",
+    "tier": "C",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_luis_aragones_2000",
+    "name": "Luis Aragonés",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Mallorca",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_unknown_1960",
+    "name": "Unknown",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Malmö FF",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_bob_houghton_1974",
+    "name": "Bob Houghton",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Malmö FF",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_bob_houghton_1978",
+    "name": "Bob Houghton",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Malmö FF",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_roy_hodgson_1987",
+    "name": "Roy Hodgson",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Malmö FF",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_milos_milojevic_2022",
+    "name": "Miloš Milojević",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Malmö FF",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_age_hareide_2015",
+    "name": "Åge Hareide",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Malmö Fotbollförening",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_allan_kuhn_2016",
+    "name": "Allan Kuhn",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Malmö Fotbollförening",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_mark_hughes_2009",
+    "name": "Mark Hughes",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2010",
+    "name": "Roberto Mancini",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2019",
+    "name": "Pep Guardiola",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2022",
+    "name": "Pep Guardiola",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2025",
+    "name": "Pep Guardiola",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2013",
+    "name": "Roberto Mancini",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2014",
+    "name": "Manuel Pellegrini",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2015",
+    "name": "Manuel Pellegrini",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2016",
+    "name": "Pep Guardiola",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City Football Club",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2017",
+    "name": "Pep Guardiola",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City Football Club",
+    "tier": "S",
+    "overall_rating": 2
+  }
+]

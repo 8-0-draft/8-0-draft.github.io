@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_ronny_deila_2014",
+    "name": "Ronny Deila",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "The Celtic Football Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_brendan_rodgers_2017",
+    "name": "Brendan Rodgers",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "The Celtic Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_brendan_rodgers_2018",
+    "name": "Brendan Rodgers",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "The Celtic Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_brendan_rodgers_2023",
+    "name": "Brendan Rodgers",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "The Celtic Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_brendan_rodgers_2024",
+    "name": "Brendan Rodgers",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "The Celtic Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_brendan_rodgers_2025",
+    "name": "Brendan Rodgers",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "The Celtic Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_martin_jol_2006",
+    "name": "Martin Jol",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bill_nicholson_1961",
+    "name": "Bill Nicholson",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_harry_redknapp_2010",
+    "name": "Harry Redknapp",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_harry_redknapp_2011",
+    "name": "Harry Redknapp",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_andre_villas_boas_2012",
+    "name": "André Villas-Boas",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2019",
+    "name": "Mauricio Pochettino",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2017",
+    "name": "Mauricio Pochettino",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2018",
+    "name": "Mauricio Pochettino",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2019",
+    "name": "Mauricio Pochettino",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2020",
+    "name": "José Mourinho",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ange_postecoglou_2023",
+    "name": "Ange Postecoglou",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur Football Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ange_postecoglou_2026",
+    "name": "Ange Postecoglou",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Tottenham Hotspur Football Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_tom_prahl_1994",
+    "name": "Tom Prahl",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Trelleborgs FF",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alfred_schreuder_2019",
+    "name": "Alfred Schreuder",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Turn- und Sportgemeinschaft 1899 Hoffenheim FuÃball-Spielbetriebs",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alfred_schreuder_2019",
+    "name": "Alfred Schreuder",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_giuseppe_bigogno_1957",
+    "name": "Giuseppe Bigogno",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Udinese",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_serse_cosmi_2005",
+    "name": "Serse Cosmi",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Udinese",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jef_vliers_1974",
+    "name": "Jef Vliers",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Union Saint-Gilloise",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_constantin_teasca_1981",
+    "name": "Constantin Teașcă",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Universitatea Craiova",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luis_miro_1957",
+    "name": "Luis Miró",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hector_cuper_1999",
+    "name": "Héctor Cúper",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_hector_cuper_2000",
+    "name": "Héctor Cúper",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2002",
+    "name": "Rafael Benítez",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2005",
+    "name": "Claudio Ranieri",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_quique_sanchez_flores_2006",
+    "name": "Quique Sánchez Flores",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_unai_emery_2011",
+    "name": "Unai Emery",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marcellino_2019",
+    "name": "Marcelino",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia",
+    "tier": "B",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_alfredo_di_stefano_1973",
+    "name": "Alfredo Di Stéfano",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia CF",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_unai_emery_2011",
+    "name": "Unai Emery",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia CF",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marcellino_2019",
+    "name": "Marcelino",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia Club de FÃºtbol S. A. D.",
+    "tier": "B",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_javi_gracia_2020",
+    "name": "Javi Gracia",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia Club de FÃºtbol S. A. D.",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miroslav_djukic_2013",
+    "name": "Miroslav Đukić",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pako_ayestaran_2016",
+    "name": "Pako Ayestarán",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marcellino_2019",
+    "name": "Marcelino",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "tier": "B",
+    "overall_rating": -2
+  }
+]

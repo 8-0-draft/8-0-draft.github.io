@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_luis_enrique_2025",
+    "name": "Luis Enrique",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSG",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_guus_hiddink_2006",
+    "name": "Guus Hiddink",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bram_appel_1963",
+    "name": "Bram Appel",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kees_rijvers_1975",
+    "name": "Kees Rijvers",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_guus_hiddink_1987",
+    "name": "Guus Hiddink",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_guus_hiddink_1988",
+    "name": "Guus Hiddink",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_guus_hiddink_1989",
+    "name": "Guus Hiddink",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_eric_gerets_2001",
+    "name": "Eric Gerets",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_guus_hiddink_2004",
+    "name": "Guus Hiddink",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_guus_hiddink_2006_psv",
+    "name": "Guus Hiddink",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mark_van_bommel_2019",
+    "name": "Mark van Bommel",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_peter_bosz_2024",
+    "name": "Peter Bosz",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_peter_bosz_2025",
+    "name": "Peter Bosz",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mauro_sandriani_1996",
+    "name": "Mauro Sandriani",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Padova",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_francesco_guidolin_2006",
+    "name": "Francesco Guidolin",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Palermo",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_vanderlei_luxemburgo_1994",
+    "name": "Vanderlei Luxemburgo",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Palmeiras",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vanderlei_luxemburgo_1996",
+    "name": "Vanderlei Luxemburgo",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Palmeiras",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ferenc_puskas_1970",
+    "name": "Ferenc Puskas",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Panathinaikos",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jacek_gmoch_1984",
+    "name": "Jacek Gmoch",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Panathinaikos",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_juan_ramon_rocha_1995",
+    "name": "Juan Ramon Rocha",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Panathinaikos",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_yiannis_kyrastas_2001",
+    "name": "Yiannis Kyrastas",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Panathinaikos",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_henk_ten_cate_2009",
+    "name": "Henk ten Cate",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Panathinaikos",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gerard_houllier_1988",
+    "name": "Gerard Houllier",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_artur_jorge_1993",
+    "name": "Artur Jorge",
+    "year": 1993,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_artur_jorge_1994",
+    "name": "Artur Jorge",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paul_le_guen_2009",
+    "name": "Paul Le Guen",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_antoine_kombouare_2011",
+    "name": "Antoine Kombouare",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2019",
+    "name": "Thomas Tuchel",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2022",
+    "name": "Mauricio Pochettino",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2013",
+    "name": "Carlo Ancelotti",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_laurent_blanc_2014",
+    "name": "Laurent Blanc",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_laurent_blanc_2015",
+    "name": "Laurent Blanc",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_laurent_blanc_2016",
+    "name": "Laurent Blanc",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_unai_emery_2017",
+    "name": "Unai Emery",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_unai_emery_2018",
+    "name": "Unai Emery",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2019_psg",
+    "name": "Thomas Tuchel",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2020",
+    "name": "Thomas Tuchel",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2021",
+    "name": "Mauricio Pochettino",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mauricio_pochettino_2022_psg",
+    "name": "Mauricio Pochettino",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_christophe_galtier_2023",
+    "name": "Christophe Galtier",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "B",
+    "overall_rating": 0
+  }
+]

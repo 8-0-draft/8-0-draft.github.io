@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_vladan_milojevic_2025",
+    "name": "Vladan Milojevic",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fudbalski klub Crvena zvezda Beograd",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_tito_vilanova_2013",
+    "name": "Tito Vilanova",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gerardo_martino_2014",
+    "name": "Gerardo Martino",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_enrique_2015",
+    "name": "Luis Enrique",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_luis_enrique_2016",
+    "name": "Luis Enrique",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luis_enrique_2017",
+    "name": "Luis Enrique",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2018",
+    "name": "Ernesto Valverde",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2019",
+    "name": "Ernesto Valverde",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2020",
+    "name": "Ernesto Valverde",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_ronald_koeman_2021",
+    "name": "Ronald Koeman",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_xavi_hernandez_2022",
+    "name": "Xavi Hernandez",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_xavi_hernandez_2023",
+    "name": "Xavi Hernandez",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_xavi_hernandez_2024",
+    "name": "Xavi Hernandez",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_hansi_flick_2025",
+    "name": "Hansi Flick",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_hansi_flick_2026",
+    "name": "Hansi Flick",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbol Club Barcelona",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_oleg_blokhin_2013",
+    "name": "Oleg Blokhin",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_serhiy_rebrov_2016",
+    "name": "Serhiy Rebrov",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_serhiy_rebrov_2017",
+    "name": "Serhiy Rebrov",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2021",
+    "name": "Mircea Lucescu",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2022",
+    "name": "Mircea Lucescu",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_vitor_pereira_2013",
+    "name": "Vitor Pereira",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paulo_fonseca_2014",
+    "name": "Paulo Fonseca",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_julen_lopetegui_2015",
+    "name": "Julen Lopetegui",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_nuno_espirito_santo_2016",
+    "name": "Nuno Espirito Santo",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_nuno_espirito_santo_2017",
+    "name": "Nuno Espirito Santo",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2018",
+    "name": "Sergio Conceicao",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2019",
+    "name": "Sergio Conceicao",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2021",
+    "name": "Sergio Conceicao",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2022",
+    "name": "Sergio Conceicao",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2023",
+    "name": "Sergio Conceicao",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2024",
+    "name": "Sergio Conceicao",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Futebol Clube do Porto",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jesse_marsch_2020",
+    "name": "Jesse Marsch",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fußballclub Red Bull Salzburg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_matthias_jaissle_2021",
+    "name": "Matthias Jaissle",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fußballclub Red Bull Salzburg",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_matthias_jaissle_2023",
+    "name": "Matthias Jaissle",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fußballclub Red Bull Salzburg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gerhard_struber_2024",
+    "name": "Gerhard Struber",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fußballclub Red Bull Salzburg",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_pepijn_lijnders_2025",
+    "name": "Pepijn Lijnders",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fußballclub Red Bull Salzburg",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_gerald_baumgartner_2014",
+    "name": "Gerald Baumgartner",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fußballklub Austria Wien",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_holger_hansson_1974",
+    "name": "Holger Hansson",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "GAIS",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_krunoslav_jurcic_2013",
+    "name": "Krunoslav Jurcic",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "GNK Dinamo Zagreb",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zlatko_kranjcar_2016",
+    "name": "Zlatko Kranjcar",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "GNK Dinamo Zagreb",
+    "tier": "B",
+    "overall_rating": 0
+  }
+]

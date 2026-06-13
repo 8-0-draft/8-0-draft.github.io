@@ -1,0 +1,372 @@
+[
+  {
+    "player_id": "mgr_joaquin_caparros_2003",
+    "name": "Joaquín Caparrós",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_juande_ramos_2006",
+    "name": "Juande Ramos",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_manolo_jimenez_2008",
+    "name": "Manolo Jiménez",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gregorio_manzano_2010",
+    "name": "Gregorio Manzano",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_julen_lopetegui_2022",
+    "name": "Julen Lopetegui",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_quique_sanchez_flores_2024",
+    "name": "Quique Sánchez Flores",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_manolo_cardo_1986",
+    "name": "Manolo Cardo",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla FC",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_antonio_alvarez_2010",
+    "name": "Antonio Álvarez",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla FC",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_sampaoli_2017",
+    "name": "Jorge Sampaoli",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_unai_emery_2016",
+    "name": "Unai Emery",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_eduardo_berizzo_2017",
+    "name": "Eduardo Berizzo",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_pablo_machin_2018",
+    "name": "Pablo Machín",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_julen_lopetegui_2021",
+    "name": "Julen Lopetegui",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_julen_lopetegui_2022",
+    "name": "Julen Lopetegui",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_luis_mendilibar_2023",
+    "name": "José Luis Mendilibar",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_quique_sanchez_flores_2024",
+    "name": "Quique Sánchez Flores",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_vladimir_salkov_1975",
+    "name": "Vladimir Salkov",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Shakhtar Donetsk",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2011",
+    "name": "Mircea Lucescu",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Shakhtar Donetsk",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2012",
+    "name": "Mircea Lucescu",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Shakhtar Donetsk",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paulo_fonseca_2019",
+    "name": "Paulo Fonseca",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Shakhtar Donetsk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roberto_de_zerbi_2022",
+    "name": "Roberto De Zerbi",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Shakhtar Donetsk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marino_pusic_2024",
+    "name": "Marino Pusic",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Shakhtar Donetsk",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marino_pusic_2025",
+    "name": "Marino Pusic",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Shakhtar Donetsk",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roberto_bordin_2023",
+    "name": "Roberto Bordin",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sheriff Tiraspol",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mislav_karoglan_2026",
+    "name": "Mislav Karoglan",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sheriff Tiraspol",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_janos_steiner_1966",
+    "name": "János Steiner",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Slovan Bratislava",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_michal_vican_1968",
+    "name": "Michal Vičan",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Slovan Bratislava",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_michal_vican_1972",
+    "name": "Michal Vičan",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Slovan Bratislava",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_michal_vican_1973",
+    "name": "Michal Vičan",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Slovan Bratislava",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_anton_ondrus_1980",
+    "name": "Anton Ondruš",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Slovan Bratislava",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2014",
+    "name": "Rafael Benítez",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_maurizio_sarri_2017",
+    "name": "Maurizio Sarri",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gennaro_gattuso_2020",
+    "name": "Gennaro Gattuso",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2018",
+    "name": "Carlo Ancelotti",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2019",
+    "name": "Carlo Ancelotti",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2021",
+    "name": "Luciano Spalletti",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2023",
+    "name": "Luciano Spalletti",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "A",
+    "overall_rating": 0
+  }
+]

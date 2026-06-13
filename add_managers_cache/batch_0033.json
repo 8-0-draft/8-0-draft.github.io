@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_francesco_calzona_2024",
+    "name": "Francesco Calzona",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_antonio_conte_2026",
+    "name": "Antonio Conte",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Calcio Napoli",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_maurizio_sarri_2021",
+    "name": "Maurizio Sarri",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Lazio S.p.A.",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_maurizio_sarri_2024",
+    "name": "Maurizio Sarri",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Società Sportiva Lazio S.p.A.",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ronnie_wong_man_chiu_1983",
+    "name": "Ronnie Wong Man Chiu",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "South China",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gordon_strachan_2003",
+    "name": "Gordon Strachan",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Southampton",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1965",
+    "name": "Jaroslav Vejvoda",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1966",
+    "name": "Jaroslav Vejvoda",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1967",
+    "name": "Jaroslav Vejvoda",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vaclav_jezek_1984",
+    "name": "Václav Ježek",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Prague",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lars_friis_2025",
+    "name": "Lars Friis",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_denis_neville_1959",
+    "name": "Denis Neville",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Rotterdam",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_denis_neville_1960",
+    "name": "Denis Neville",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Rotterdam",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_denis_neville_1961",
+    "name": "Denis Neville",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sparta Rotterdam",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_konstantin_beskov_1980",
+    "name": "Konstantin Beskov",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Moscow",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_oleg_romantsev_1989",
+    "name": "Oleg Romantsev",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Moscow",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_oleg_romantsev_1990",
+    "name": "Oleg Romantsev",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Moscow",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_oleg_romantsev_1995",
+    "name": "Oleg Romantsev",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Moscow",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_anton_malatinsky_1961",
+    "name": "Anton Malatinský",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Trnava",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_anton_malatinsky_1968",
+    "name": "Anton Malatinský",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Trnava",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_anton_malatinsky_1972",
+    "name": "Anton Malatinský",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Trnava",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_anton_malatinsky_1973",
+    "name": "Anton Malatinský",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Spartak Trnava",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_jesus_2013",
+    "name": "Jorge Jesus",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jorge_jesus_2014",
+    "name": "Jorge Jesus",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rui_vitoria_2015",
+    "name": "Rui Vitória",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rui_vitoria_2016",
+    "name": "Rui Vitória",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rui_vitoria_2017",
+    "name": "Rui Vitória",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rui_vitoria_2018",
+    "name": "Rui Vitória",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_lage_2019",
+    "name": "Bruno Lage",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_jesus_2020",
+    "name": "Jorge Jesus",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_roger_schmidt_2022",
+    "name": "Roger Schmidt",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_roger_schmidt_2023",
+    "name": "Roger Schmidt",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roger_schmidt_2024",
+    "name": "Roger Schmidt",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_bruno_lage_2025",
+    "name": "Bruno Lage",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_lage_2026",
+    "name": "Bruno Lage",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sport Lisboa e Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_malcolm_allison_1982",
+    "name": "Malcolm Allison",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting CP",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_manuel_jose_1986",
+    "name": "Manuel José",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting CP",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_octavio_machado_1996",
+    "name": "Octávio Machado",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting CP",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paulo_bento_2009",
+    "name": "Paulo Bento",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting CP",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ruben_amorim_2022",
+    "name": "Rúben Amorim",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting CP",
+    "tier": "A",
+    "overall_rating": 0
+  }
+]

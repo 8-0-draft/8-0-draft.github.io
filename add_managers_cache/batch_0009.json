@@ -1,0 +1,392 @@
+[
+  {
+    "player_id": "mgr_jock_stein_1971",
+    "name": "Jock Stein",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jock_stein_1973",
+    "name": "Jock Stein",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jock_stein_1977",
+    "name": "Jock Stein",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_billy_mcneill_1979",
+    "name": "Billy McNeill",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gordon_strachan_2006",
+    "name": "Gordon Strachan",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gordon_strachan_2008",
+    "name": "Gordon Strachan",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_neil_lennon_2011",
+    "name": "Neil Lennon",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_brendan_rodgers_2025",
+    "name": "Brendan Rodgers",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jock_stein_1973",
+    "name": "Jock Stein",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic FC",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alan_curbishley_2003",
+    "name": "Alan Curbishley",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Charlton Athletic",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_tommy_docherty_1961",
+    "name": "Tommy Docherty",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gianluca_vialli_1999",
+    "name": "Gianluca Vialli",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gianluca_vialli_2000",
+    "name": "Gianluca Vialli",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2002",
+    "name": "Claudio Ranieri",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2003",
+    "name": "Claudio Ranieri",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2004",
+    "name": "José Mourinho",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2006",
+    "name": "José Mourinho",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_avram_grant_2008",
+    "name": "Avram Grant",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "B",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_luiz_felipe_scolari_2009",
+    "name": "Luiz Felipe Scolari",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2010",
+    "name": "Carlo Ancelotti",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2011",
+    "name": "Carlo Ancelotti",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_roberto_di_matteo_2012",
+    "name": "Roberto Di Matteo",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2022",
+    "name": "Thomas Tuchel",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2013",
+    "name": "José Mourinho",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2014",
+    "name": "José Mourinho",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2015",
+    "name": "José Mourinho",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_guus_hiddink_2016",
+    "name": "Guus Hiddink",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_antonio_conte_2018",
+    "name": "Antonio Conte",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_frank_lampard_2020",
+    "name": "Frank Lampard",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2021",
+    "name": "Thomas Tuchel",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2022",
+    "name": "Thomas Tuchel",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_graham_potter_2023",
+    "name": "Graham Potter",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_enzo_maresca_2026",
+    "name": "Enzo Maresca",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Chelsea Football Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_diego_simeone_2014",
+    "name": "Diego Simeone",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_diego_simeone_2017",
+    "name": "Diego Simeone",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_diego_simeone_2019",
+    "name": "Diego Simeone",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_diego_simeone_2014",
+    "name": "Diego Simeone",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_diego_simeone_2015",
+    "name": "Diego Simeone",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_diego_simeone_2016",
+    "name": "Diego Simeone",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 3
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_luis_enrique_2024",
+    "name": "Luis Enrique",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_luis_enrique_2025",
+    "name": "Luis Enrique",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_luis_enrique_2026",
+    "name": "Luis Enrique",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Paris Saint-Germain Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_nevio_scala_1988",
+    "name": "Nevio Scala",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Parma",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alberto_malesani_1998",
+    "name": "Alberto Malesani",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Parma",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pietro_carmignani_2002",
+    "name": "Pietro Carmignani",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Parma",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_cesare_prandelli_2003",
+    "name": "Cesare Prandelli",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Parma",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pietro_carmignani_2005",
+    "name": "Pietro Carmignani",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Parma",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_franco_colomba_2011",
+    "name": "Franco Colomba",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Parma",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_abdulah_gegic_1963",
+    "name": "Abdulah Gegić",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_nenad_bjekovic_1986",
+    "name": "Nenad Bjeković",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_illés_spitz_1955",
+    "name": "Illés Spitz",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan Belgrade",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_illés_spitz_1956",
+    "name": "Illés Spitz",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan Belgrade",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_abdulah_gegic_1963_belgrade",
+    "name": "Abdulah Gegić",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan Belgrade",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_abdulah_gegic_1965",
+    "name": "Abdulah Gegić",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan Belgrade",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_abdulah_gegic_1966",
+    "name": "Abdulah Gegić",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan Belgrade",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stjepan_bobek_1969",
+    "name": "Stjepan Bobek",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan Belgrade",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stjepan_bobek_1970",
+    "name": "Stjepan Bobek",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Partizan Belgrade",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gregorio_perez_1997",
+    "name": "Gregorio Pérez",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Peñarol",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_aimore_moreira_1975",
+    "name": "Aimoré Moreira",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_maria_pedroto_1977",
+    "name": "José Maria Pedroto",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_maria_pedroto_1982",
+    "name": "José Maria Pedroto",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_artur_jorge_1986",
+    "name": "Artur Jorge",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_artur_jorge_1987",
+    "name": "Artur Jorge",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_artur_jorge_1990",
+    "name": "Artur Jorge",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bobby_robson_1996",
+    "name": "Bobby Robson",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_fernando_santos_1999",
+    "name": "Fernando Santos",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2003",
+    "name": "José Mourinho",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2004",
+    "name": "José Mourinho",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jesualdo_ferreira_2006",
+    "name": "Jesualdo Ferreira",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jesualdo_ferreira_2008",
+    "name": "Jesualdo Ferreira",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jesualdo_ferreira_2009",
+    "name": "Jesualdo Ferreira",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_andre_villas-boas_2010",
+    "name": "André Villas-Boas",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2019",
+    "name": "Sérgio Conceição",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_conceicao_2022",
+    "name": "Sérgio Conceição",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Porto",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gurban_gurbanov_2018",
+    "name": "Gurban Gurbanov",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Qarabag FK",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gurban_gurbanov_2026",
+    "name": "Gurban Gurbanov",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Qarabag FK",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_domenico_tedesco_2022",
+    "name": "Domenico Tedesco",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RB Leipzig",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marco_rose_2024",
+    "name": "Marco Rose",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RB Leipzig",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marco_rose_2025",
+    "name": "Marco Rose",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RB Leipzig",
+    "tier": "B",
+    "overall_rating": 1
+  }
+]

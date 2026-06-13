@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_marco_silva_2015",
+    "name": "Marco Silva",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiacos",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_leonardo_jardim_2013",
+    "name": "Leonardo Jardim",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_michel_2014",
+    "name": "Michel",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marco_silva_2015",
+    "name": "Marco Silva",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paulo_bento_2016",
+    "name": "Paulo Bento",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pedro_martins_2018",
+    "name": "Pedro Martins",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pedro_martins_2020",
+    "name": "Pedro Martins",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pedro_martins_2021",
+    "name": "Pedro Martins",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_luis_mendilibar_2026",
+    "name": "José Luis Mendilibar",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paul_le_guen_2003",
+    "name": "Paul Le Guen",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyon",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paul_le_guen_2003",
+    "name": "Paul Le Guen",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_paul_le_guen_2004",
+    "name": "Paul Le Guen",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_claude_puel_2009",
+    "name": "Claude Puel",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_claude_puel_2010",
+    "name": "Claude Puel",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_remi_garde_2011",
+    "name": "Rémi Garde",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_remi_garde_2012",
+    "name": "Rémi Garde",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_genesio_2016",
+    "name": "Bruno Génésio",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_genesio_2017",
+    "name": "Bruno Génésio",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_genesio_2019",
+    "name": "Bruno Génésio",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rudi_garcia_2020",
+    "name": "Rudi Garcia",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_peter_bosz_2021",
+    "name": "Peter Bosz",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Lyonnais",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gerard_gili_1989",
+    "name": "Gérard Gili",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Marseille",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gerard_gili_1990",
+    "name": "Gérard Gili",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Marseille",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_eric_gerets_2008",
+    "name": "Eric Gerets",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Marseille",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2012",
+    "name": "Didier Deschamps",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique Marseille",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2009",
+    "name": "Didier Deschamps",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique de Marseille",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2011",
+    "name": "Didier Deschamps",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique de Marseille",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marcelo_bielsa_2014",
+    "name": "Marcelo Bielsa",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique de Marseille",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_sampaoli_2021",
+    "name": "Jorge Sampaoli",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique de Marseille",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_igor_tudor_2023",
+    "name": "Igor Tudor",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique de Marseille",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roberto_de_zerbi_2026",
+    "name": "Roberto De Zerbi",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympique de Marseille",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sofronis_avgousti_2026",
+    "name": "Sofronis Avgousti",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Omonia Nicosia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_javier_aguirre_2004",
+    "name": "Javier Aguirre",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Osasuna",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_antonio_camacho_2010",
+    "name": "José Antonio Camacho",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Osasuna",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leonid_slutsky_2014",
+    "name": "Leonid Slutsky",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PFK CSKA Moskva",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leonid_slutsky_2015",
+    "name": "Leonid Slutsky",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PFK CSKA Moskva",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leonid_slutsky_2016",
+    "name": "Leonid Slutsky",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PFK CSKA Moskva",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_viktor_goncharenko_2017",
+    "name": "Viktor Goncharenko",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PFK CSKA Moskva",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_viktor_goncharenko_2018",
+    "name": "Viktor Goncharenko",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PFK CSKA Moskva",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_viktor_goncharenko_2019",
+    "name": "Viktor Goncharenko",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PFK CSKA Moskva",
+    "tier": "B",
+    "overall_rating": -1
+  }
+]

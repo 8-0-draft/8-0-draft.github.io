@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_lucien_favre_2020",
+    "name": "Lucien Favre",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lucien_favre_2021",
+    "name": "Lucien Favre",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_marco_rose_2022",
+    "name": "Marco Rose",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_edin_terzic_2023",
+    "name": "Edin Terzic",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_edin_terzic_2024",
+    "name": "Edin Terzic",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_nuri_sahin_2025",
+    "name": "Nuri Sahin",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_niko_kovac_2026",
+    "name": "Niko Kovac",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hennes_weisweiler_1975",
+    "name": "Hennes Weisweiler",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Mönchengladbach",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_udo_lattek_1976",
+    "name": "Udo Lattek",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Mönchengladbach",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_udo_lattek_1977",
+    "name": "Udo Lattek",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Mönchengladbach",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_1980",
+    "name": "Jupp Heynckes",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Mönchengladbach",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lucien_favre_2012",
+    "name": "Lucien Favre",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Mönchengladbach",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_dieter_hecking_2017",
+    "name": "Dieter Hecking",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_andre_schubert_2016_gladbach",
+    "name": "Andre Schubert",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_dieter_hecking_2017_gladbach",
+    "name": "Dieter Hecking",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marco_rose_2021_gladbach",
+    "name": "Marco Rose",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_jesus_2009",
+    "name": "Jorge Jesus",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Braga",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_eric_roy_2025",
+    "name": "Eric Roy",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Brest",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ebbe_skovdahl_1986",
+    "name": "Ebbe Skovdahl",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Brøndby",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ebbe_skovdahl_1986_brondby_if",
+    "name": "Ebbe Skovdahl",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Brøndby IF",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bela_guttmann_1957",
+    "name": "Bela Guttmann",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Budapest Honvéd",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_harry_potts_1960",
+    "name": "Harry Potts",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Burnley",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_harry_potts_1968",
+    "name": "Harry Potts",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Burnley",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pavel_sadyrin_1990",
+    "name": "Pavel Sadyrin",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Moscow",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leonid_slutsky_2010",
+    "name": "Leonid Slutsky",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Moscow",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leonid_slutsky_2012",
+    "name": "Leonid Slutsky",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Moscow",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_viktor_goncharenko_2019",
+    "name": "Viktor Goncharenko",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Moscow",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_krum_milev_1956",
+    "name": "Krum Milev",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Sofia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stoyan_ormandjiev_1966",
+    "name": "Stoyan Ormandjiev",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Sofia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_manol_manolov_1973",
+    "name": "Manol Manolov",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Sofia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_asparuh_nikodimov_1980",
+    "name": "Asparuh Nikodimov",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Sofia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_asparuh_nikodimov_1981",
+    "name": "Asparuh Nikodimov",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Sofia",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_dimitar_penchev_1989",
+    "name": "Dimitar Penchev",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "CSKA Sofia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_georg_buschner_1970",
+    "name": "Georg Buschner",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Carl Zeiss Jena",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_victor_fernandez_1999",
+    "name": "Victor Fernandez",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celta Vigo",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_victor_fernandez_2000",
+    "name": "Victor Fernandez",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celta Vigo",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jock_stein_1966",
+    "name": "Jock Stein",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jock_stein_1968",
+    "name": "Jock Stein",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jock_stein_1969",
+    "name": "Jock Stein",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jock_stein_1970",
+    "name": "Jock Stein",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Celtic",
+    "tier": "S",
+    "overall_rating": 3
+  }
+]

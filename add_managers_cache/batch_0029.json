@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_miguel_munoz_1966",
+    "name": "Miguel Muñoz",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1967",
+    "name": "Miguel Muñoz",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1972",
+    "name": "Miguel Muñoz",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1975",
+    "name": "Miljan Miljanić",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luis_molowny_1979",
+    "name": "Luis Molowny",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vujadin_boskov_1980",
+    "name": "Vujadin Boškov",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luis_molowny_1986",
+    "name": "Luis Molowny",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_leo_beenhakker_1987",
+    "name": "Leo Beenhakker",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_leo_beenhakker_1988",
+    "name": "Leo Beenhakker",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_john_toshack_1990",
+    "name": "John Toshack",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_valdano_1995",
+    "name": "Jorge Valdano",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arsenio_iglesias_1996",
+    "name": "Arsenio Iglesias",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_fabio_capello_1997",
+    "name": "Fabio Capello",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_1998",
+    "name": "Jupp Heynckes",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_john_toshack_1999",
+    "name": "John Toshack",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_vicente_del_bosque_2000",
+    "name": "Vicente del Bosque",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_vicente_del_bosque_2001",
+    "name": "Vicente del Bosque",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_vicente_del_bosque_2002",
+    "name": "Vicente del Bosque",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlos_queiroz_2003",
+    "name": "Carlos Queiroz",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_fabio_capello_2006",
+    "name": "Fabio Capello",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bernd_schuster_2008",
+    "name": "Bernd Schuster",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_juande_ramos_2009",
+    "name": "Juande Ramos",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2010",
+    "name": "Manuel Pellegrini",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2011",
+    "name": "José Mourinho",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2012",
+    "name": "José Mourinho",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_santiago_solari_2019",
+    "name": "Santiago Solari",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2022",
+    "name": "Carlo Ancelotti",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2024",
+    "name": "Carlo Ancelotti",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2025",
+    "name": "Carlo Ancelotti",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_juan_ramon_lopez_caro_2003",
+    "name": "Juan Ramón López Caro",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid B",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vicente_del_bosque_1988",
+    "name": "Vicente del Bosque",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Castilla",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alejandro_menendez_2010",
+    "name": "Alejandro Menéndez",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Castilla",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alberto_toril_2011",
+    "name": "Alberto Toril",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Castilla",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2014",
+    "name": "Carlo Ancelotti",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2017",
+    "name": "Zinedine Zidane",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2019",
+    "name": "Zinedine Zidane",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zinedine_zidane_2020",
+    "name": "Zinedine Zidane",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2013",
+    "name": "José Mourinho",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2014",
+    "name": "Carlo Ancelotti",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2015",
+    "name": "Rafael Benítez",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid Club de Fútbol",
+    "tier": "A",
+    "overall_rating": -1
+  }
+]

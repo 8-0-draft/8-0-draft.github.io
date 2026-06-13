@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_pep_guardiola_2018",
+    "name": "Pep Guardiola",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2019",
+    "name": "Pep Guardiola",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2020",
+    "name": "Pep Guardiola",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2021",
+    "name": "Pep Guardiola",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2022",
+    "name": "Pep Guardiola",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2023",
+    "name": "Pep Guardiola",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2024",
+    "name": "Pep Guardiola",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2025",
+    "name": "Pep Guardiola",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2026",
+    "name": "Pep Guardiola",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester City",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_matt_busby_1956",
+    "name": "Matt Busby",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_matt_busby_1957",
+    "name": "Matt Busby",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_matt_busby_1965",
+    "name": "Matt Busby",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_matt_busby_1966",
+    "name": "Matt Busby",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_matt_busby_1967",
+    "name": "Matt Busby",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_matt_busby_1968",
+    "name": "Matt Busby",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_alex_ferguson_1996",
+    "name": "Alex Ferguson",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_1997",
+    "name": "Alex Ferguson",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_1998",
+    "name": "Alex Ferguson",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_1999",
+    "name": "Alex Ferguson",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2000",
+    "name": "Alex Ferguson",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2001",
+    "name": "Alex Ferguson",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2002",
+    "name": "Alex Ferguson",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2003",
+    "name": "Alex Ferguson",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2006",
+    "name": "Alex Ferguson",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2008",
+    "name": "Alex Ferguson",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2009",
+    "name": "Alex Ferguson",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2010",
+    "name": "Alex Ferguson",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alex_ferguson_2011",
+    "name": "Alex Ferguson",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_ole_gunnar_solskjaer_2019",
+    "name": "Ole Gunnar Solskjaer",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ralf_rangnick_2022",
+    "name": "Ralf Rangnick",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_david_moyes_2013",
+    "name": "David Moyes",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_2014",
+    "name": "Louis van Gaal",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2016",
+    "name": "Jose Mourinho",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2018",
+    "name": "Jose Mourinho",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_ole_gunnar_solskjaer_2019_2",
+    "name": "Ole Gunnar Solskjaer",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ole_gunnar_solskjaer_2021",
+    "name": "Ole Gunnar Solskjaer",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_erik_ten_hag_2022",
+    "name": "Erik ten Hag",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_erik_ten_hag_2024",
+    "name": "Erik ten Hag",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Manchester United",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_darko_milanic_2018",
+    "name": "Darko Milanic",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Maribor",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_gerard_gili_1990",
+    "name": "Gerard Gili",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Marseille",
+    "tier": "B",
+    "overall_rating": 1
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "player_id": "mgr_david_wagner_2022",
+    "name": "David Wagner",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Young Boys",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_giorgio_contini_2025",
+    "name": "Giorgio Contini",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Young Boys",
+    "tier": "C",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_sergei_semak_2022",
+    "name": "Sergei Semak",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Zenit",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2012",
+    "name": "Luciano Spalletti",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Zenit Saint Petersburg",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2012",
+    "name": "Luciano Spalletti",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Zenit St. Petersburg",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergei_semak_2022",
+    "name": "Sergei Semak",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Zenit St. Petersburg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ingvar_grip_1974",
+    "name": "Ingvar Grip",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Åtvidabergs FF",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_yuri_semin_2019",
+    "name": "Yuri Semin",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lokomotiv Moscow",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marko_nikolic_2020",
+    "name": "Marko Nikolic",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lokomotiv Moscow",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1971",
+    "name": "Lajos Baróti",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpest",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1973",
+    "name": "Lajos Baróti",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpest",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1972",
+    "name": "Lajos Baróti",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpest FC",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1973",
+    "name": "Lajos Baróti",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpest FC",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bela_guttmann_1962",
+    "name": "Béla Guttmann",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpesti Dózsa",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1964",
+    "name": "Lajos Baróti",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpesti Dózsa",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1971",
+    "name": "Lajos Baróti",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpesti Dózsa",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1972",
+    "name": "Lajos Baróti",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Újpesti Dózsa",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_okan_buruk_2021",
+    "name": "Okan Buruk",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "İstanbul Başakşehir Futbol Kulübü",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jozef_mlodzianowski_1982",
+    "name": "Józef Młódzianowski",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "ŁKS Łódź",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jerzy_kopa_1982",
+    "name": "Jerzy Kopa",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Śląsk Wrocław",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_yuri_semin_2019",
+    "name": "Yuri Semin",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lokomotiv Moscow",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marko_nikolic_2020",
+    "name": "Marko Nikolic",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lokomotiv Moscow",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marko_nikolic_2021",
+    "name": "Marko Nikolic",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lokomotiv Moscow",
+    "tier": "B",
+    "overall_rating": -1
+  }
+]

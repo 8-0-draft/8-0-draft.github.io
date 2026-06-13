@@ -1,0 +1,392 @@
+[
+  {
+    "player_id": "mgr_diego_simeone_2022",
+    "name": "Diego Simeone",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_diego_simeone_2024",
+    "name": "Diego Simeone",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_diego_simeone_2025",
+    "name": "Diego Simeone",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vaclav_halama_1984",
+    "name": "Václav Halama",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Austria Vienna",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leopold_nitsch_1958",
+    "name": "Leopold Nitsch",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Austria Wien",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karl_stotz_1977",
+    "name": "Karl Stotz",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Austria Wien",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hermann_stessl_1978",
+    "name": "Hermann Stessl",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Austria Wien",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_vaclav_halama_1984_2",
+    "name": "Václav Halama",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Austria Wien",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_guy_roux_1996",
+    "name": "Guy Roux",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Auxerre",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_guy_roux_2005",
+    "name": "Guy Roux",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Auxerre",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_viktor_goncharenko_2013",
+    "name": "Viktor Goncharenko",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BATE Borisov",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_aliaksandr_yermakovich_2015",
+    "name": "Aliaksandr Yermakovich",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BATE Borisov",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_aliaksandr_yermakovich_2016",
+    "name": "Aliaksandr Yermakovich",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BATE Borisov",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jurgen_bogs_1979",
+    "name": "Jürgen Bogs",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BFC Dynamo",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jurgen_bogs_1983",
+    "name": "Jürgen Bogs",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BFC Dynamo",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_albert_sing_1958",
+    "name": "Albert Sing",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BSC Young Boys",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alexander_mandziara_1986",
+    "name": "Alexander Mandziara",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BSC Young Boys",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_david_wagner_2022",
+    "name": "David Wagner",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "BSC Young Boys",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_evzen_hadamczik_1980",
+    "name": "Evžen Hadamczik",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Banik Ostrava",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_evzen_hadamczik_1980_2",
+    "name": "Evžen Hadamczik",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Baník Ostrava",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_domenech_balmanya_1957",
+    "name": "Domènec Balmanya",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1959",
+    "name": "Helenio Herrera",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ljubisa_brocic_1960",
+    "name": "Ljubiša Broćić",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rinus_michels_1974",
+    "name": "Rinus Michels",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_joaquim_rife_1979",
+    "name": "Joaquim Rifé",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_terry_venables_1985",
+    "name": "Terry Venables",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_terry_venables_1987",
+    "name": "Terry Venables",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_1999",
+    "name": "Louis van Gaal",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_2000",
+    "name": "Louis van Gaal",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_carles_rexach_2001",
+    "name": "Carles Rexach",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_2002",
+    "name": "Louis van Gaal",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_frank_rijkaard_2005",
+    "name": "Frank Rijkaard",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_frank_rijkaard_2006",
+    "name": "Frank Rijkaard",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_frank_rijkaard_2008",
+    "name": "Frank Rijkaard",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2009",
+    "name": "Pep Guardiola",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2010",
+    "name": "Pep Guardiola",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2011",
+    "name": "Pep Guardiola",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_pep_guardiola_2012",
+    "name": "Pep Guardiola",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2019",
+    "name": "Ernesto Valverde",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "S",
+    "overall_rating": 1
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_erik_ten_hag_2019",
+    "name": "Erik ten Hag",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_erik_ten_hag_2022",
+    "name": "Erik ten Hag",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_rainer_zobel_1998",
+    "name": "Rainer Zobel",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Al Ahly",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pierre_sinibaldi_1962",
+    "name": "Pierre Sinibaldi",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Anderlecht",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pierre_sinibaldi_1965",
+    "name": "Pierre Sinibaldi",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Anderlecht",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_urbain_braems_1974",
+    "name": "Urbain Braems",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Anderlecht",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_tomislav_ivic_1981",
+    "name": "Tomislav Ivić",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Anderlecht",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paul_van_himst_1985",
+    "name": "Paul Van Himst",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Anderlecht",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arie_haan_1986",
+    "name": "Arie Haan",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Anderlecht",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arie_haan_1987",
+    "name": "Arie Haan",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Anderlecht",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_nikita_simonyan_1974",
+    "name": "Nikita Simonyan",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ararat Yerevan",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_nicolae_dobrin_1985",
+    "name": "Nicolae Dobrin",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Argeș Pitești",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karl_heinz_feldkamp_1977",
+    "name": "Karl-Heinz Feldkamp",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arminia Bielefeld",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_billy_wright_1964",
+    "name": "Billy Wright",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bertie_mee_1971",
+    "name": "Bertie Mee",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2000",
+    "name": "Arsène Wenger",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2003",
+    "name": "Arsène Wenger",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2004",
+    "name": "Arsène Wenger",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2005",
+    "name": "Arsène Wenger",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2006",
+    "name": "Arsène Wenger",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2008",
+    "name": "Arsène Wenger",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2009",
+    "name": "Arsène Wenger",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2010",
+    "name": "Arsène Wenger",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2011",
+    "name": "Arsène Wenger",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2012",
+    "name": "Arsène Wenger",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2013",
+    "name": "Arsène Wenger",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2014",
+    "name": "Arsène Wenger",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2015",
+    "name": "Arsène Wenger",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2016",
+    "name": "Arsène Wenger",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_2017",
+    "name": "Arsène Wenger",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mikel_arteta_2024",
+    "name": "Mikel Arteta",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_mikel_arteta_2025",
+    "name": "Mikel Arteta",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mikel_arteta_2026",
+    "name": "Mikel Arteta",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Arsenal Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_leonardo_jardim_2015",
+    "name": "Leonardo Jardim",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Association sportive de Monaco Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_leonardo_jardim_2017",
+    "name": "Leonardo Jardim",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Association sportive de Monaco Football Club",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_leonardo_jardim_2018",
+    "name": "Leonardo Jardim",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Association sportive de Monaco Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_leonardo_jardim_2019",
+    "name": "Leonardo Jardim",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Association sportive de Monaco Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_adi_hutter_2025",
+    "name": "Adi Hütter",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Association sportive de Monaco Football Club",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_adi_hutter_2026",
+    "name": "Adi Hütter",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Association sportive de Monaco Football Club",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2013",
+    "name": "Massimiliano Allegri",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Associazione Calcio Milan",
+    "tier": "A",
+    "overall_rating": 0
+  }
+]

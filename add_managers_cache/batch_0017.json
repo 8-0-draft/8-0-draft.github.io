@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_mario_cvitanovic_2017",
+    "name": "Mario Cvitanović",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "GNK Dinamo Zagreb",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_zoran_mamic_2020",
+    "name": "Zoran Mamić",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "GNK Dinamo Zagreb",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ante_cacic_2023",
+    "name": "Ante Čačić",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "GNK Dinamo Zagreb",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_fabio_cannavaro_2025",
+    "name": "Fabio Cannavaro",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "GNK Dinamo Zagreb",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gunduz_kilic_1962",
+    "name": "Gündüz Kılıç",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_tomislav_kaloperovic_1969",
+    "name": "Tomislav Kaloperović",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mustafa_denizli_1988",
+    "name": "Mustafa Denizli",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fatih_terim_2000",
+    "name": "Fatih Terim",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_fatih_terim_2019",
+    "name": "Fatih Terim",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2014",
+    "name": "Roberto Mancini",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fatih_terim_2019_2",
+    "name": "Fatih Terim",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_fatih_terim_2020",
+    "name": "Fatih Terim",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_fatih_terim_2013",
+    "name": "Fatih Terim",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_cesare_prandelli_2014",
+    "name": "Cesare Prandelli",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "A",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_hamza_hamzaoglu_2015",
+    "name": "Hamza Hamzaoğlu",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_jan_olde_riekerink_2016",
+    "name": "Jan Olde Riekerink",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_fatih_terim_2019_3",
+    "name": "Fatih Terim",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_fatih_terim_2020_2",
+    "name": "Fatih Terim",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_okan_buruk_2024",
+    "name": "Okan Buruk",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_okan_buruk_2026",
+    "name": "Okan Buruk",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Galatasaray Spor Kulübü",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_renzo_maggi_1956",
+    "name": "Renzo Maggi",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Genoa",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_michael_laudrup_2008",
+    "name": "Michael Laudrup",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Getafe",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_michel_2025",
+    "name": "Míchel",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Girona",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_michel_2025_2",
+    "name": "Míchel",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Girona Fútbol Club S. A. D.",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_didier_couecou_1989",
+    "name": "Didier Couécou",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Girondins Bordeaux",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jean_tigana_2010",
+    "name": "Jean Tigana",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Girondins de Bordeaux",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_helmuth_johannsen_1978",
+    "name": "Helmuth Johannsen",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Grasshopper",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_imre_kovacs_1964",
+    "name": "Imre Kovács",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Győri ETO",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_geza_kalocsay_1967",
+    "name": "Géza Kalocsay",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Górnik Zabrze",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ferenc_farsang_1969",
+    "name": "Ferenc Farsang",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Górnik Zabrze",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jan_kowalski_1974",
+    "name": "Jan Kowalski",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Górnik Zabrze",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jyrki_heliskoski_1985",
+    "name": "Jyrki Heliskoski",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "HJK Helsinki",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_tomislav_ivic_1975",
+    "name": "Tomislav Ivić",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hajduk Split",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_tomislav_ivic_1977",
+    "name": "Tomislav Ivić",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hajduk Split",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_tomislav_ivic_1979",
+    "name": "Tomislav Ivić",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hajduk Split",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stanko_poklepovic_1984",
+    "name": "Stanko Poklepović",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hajduk Split",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ivan_katalinic_1994",
+    "name": "Ivan Katalinić",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hajduk Split",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_terje_karlsen_1988",
+    "name": "Terje Karlsen",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "HamKam",
+    "tier": "D",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gunter_mahlmann_1960",
+    "name": "Günter Mahlmann",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hamburger SV",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_branko_zebec_1979",
+    "name": "Branko Zebec",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hamburger SV",
+    "tier": "B",
+    "overall_rating": 0
+  }
+]

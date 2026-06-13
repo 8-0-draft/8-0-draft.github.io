@@ -1,0 +1,352 @@
+[
+  {
+    "player_id": "mgr_xavi_hernandez_2024",
+    "name": "Xavi Hernandez",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hansi_flick_2025",
+    "name": "Hansi Flick",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_quique_costas_2002",
+    "name": "Quique Costas",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona B",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_enrique_2010",
+    "name": "Luis Enrique",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Barcelona B",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_heiko_vogel_2012",
+    "name": "Heiko Vogel",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Basel",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sami_hyypia_2014",
+    "name": "Sami Hyypia",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_heiko_herrlich_2017",
+    "name": "Heiko Herrlich",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_peter_bosz_2020",
+    "name": "Peter Bosz",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roger_schmidt_2015",
+    "name": "Roger Schmidt",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roger_schmidt_2016",
+    "name": "Roger Schmidt",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_xabi_alonso_2023",
+    "name": "Xabi Alonso",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_xabi_alonso_2025",
+    "name": "Xabi Alonso",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_xabi_alonso_2026",
+    "name": "Xabi Alonso",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer 04 Leverkusen",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_erich_ribbeck_1996",
+    "name": "Erich Ribbeck",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer Leverkusen",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_christoph_daum_1997",
+    "name": "Christoph Daum",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer Leverkusen",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_christoph_daum_2000",
+    "name": "Christoph Daum",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer Leverkusen",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_klaus_toppmoller_2001",
+    "name": "Klaus Toppmoller",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer Leverkusen",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_sami_hyypia_2012",
+    "name": "Sami Hyypia",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayer Leverkusen",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_giovanni_trapattoni_1997",
+    "name": "Giovanni Trapattoni",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_udo_lattek_1972",
+    "name": "Udo Lattek",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_udo_lattek_1973",
+    "name": "Udo Lattek",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_udo_lattek_1974",
+    "name": "Udo Lattek",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_dettmar_cramer_1975",
+    "name": "Dettmar Cramer",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_dettmar_cramer_1976",
+    "name": "Dettmar Cramer",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pal_csernai_1980",
+    "name": "Pal Csernai",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pal_csernai_1981",
+    "name": "Pal Csernai",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_udo_lattek_1985",
+    "name": "Udo Lattek",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_udo_lattek_1986",
+    "name": "Udo Lattek",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_1987",
+    "name": "Jupp Heynckes",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_1989",
+    "name": "Jupp Heynckes",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_1990",
+    "name": "Jupp Heynckes",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_erich_ribbeck_1994",
+    "name": "Erich Ribbeck",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_giovanni_trapattoni_1998",
+    "name": "Giovanni Trapattoni",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ottmar_hitzfeld_1999",
+    "name": "Ottmar Hitzfeld",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ottmar_hitzfeld_2000",
+    "name": "Ottmar Hitzfeld",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 3
+  }
+]

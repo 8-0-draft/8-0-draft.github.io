@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_luis_castro_2021",
+    "name": "Luís Castro",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roberto_de_zerbi_2022",
+    "name": "Roberto De Zerbi",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_igor_jovicevic_2023",
+    "name": "Igor Jovićević",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marino_pusic_2024",
+    "name": "Marino Pušić",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marino_pusic_2025",
+    "name": "Marino Pušić",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Shakhtar Donetsk",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jean-claude_richard_1994",
+    "name": "Jean-Claude Richard",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Sion",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paul_wartel_1956",
+    "name": "Paul Wartel",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Sochaux",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_antoine_kohn_1977",
+    "name": "Antoine Kohn",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Twente",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bert_jacobs_1970",
+    "name": "Bert Jacobs",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Utrecht",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bert_jacobs_1971",
+    "name": "Bert Jacobs",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Utrecht",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pavel_vrba_2014",
+    "name": "Pavel Vrba",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Viktoria Plzeň, a.s.",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pavel_vrba_2019",
+    "name": "Pavel Vrba",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Viktoria Plzeň, a.s.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fritz_belger_1969",
+    "name": "Fritz Belger",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Vorwärts Berlin",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fritz_belger_1970",
+    "name": "Fritz Belger",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Vorwärts Berlin",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fritz_pfister_1977",
+    "name": "Fritz Pfister",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Wacker Innsbruck",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_louis_maurer_1963",
+    "name": "Louis Maurer",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Zurich",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_erich_vogel_1956",
+    "name": "Erich Vogel",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Zürich",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_louis_maurer_1963_zurich",
+    "name": "Louis Maurer",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Zürich",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_timotey_konkov_1976",
+    "name": "Timotey Konkov",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FC Zürich",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karl_schlechter_1959",
+    "name": "Karl Schlechter",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FK Austria Wien",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karol_borhy_1968",
+    "name": "Karol Borhy",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FK Inter Bratislava",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_murad_musayev_2021",
+    "name": "Murad Musayev",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FK Krasnodar",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ivan_daniliants_2017",
+    "name": "Ivan Daniliants",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FK Rostov",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_valeri_karpin_2013",
+    "name": "Valeri Karpin",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FK Spartak Moskva",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_massimo_carrera_2018",
+    "name": "Massimo Carrera",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "FK Spartak Moskva",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeri_nenenko_1990",
+    "name": "Valeri Nenenko",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fakel Voronezh",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kalman_meszoly_1986",
+    "name": "Kálmán Mészöly",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fenerbahçe",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pal_csernai_1988",
+    "name": "Pál Csernai",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fenerbahçe",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zico_2008",
+    "name": "Zico",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fenerbahçe",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1965",
+    "name": "Lajos Baróti",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ferencváros",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_geza_kalocsay_1971",
+    "name": "Géza Kalocsay",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ferencváros",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jeno_dalnoki_1973",
+    "name": "Jenő Dalnoki",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ferencváros",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zoltan_varga_1998",
+    "name": "Zoltán Varga",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ferencváros",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jozsef_meszaros_1964",
+    "name": "József Mészáros",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ferencvárosi TC",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_franz_fuchs_1962",
+    "name": "Franz Fuchs",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ben_peeters_1969",
+    "name": "Ben Peeters",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernst_happel_1971",
+    "name": "Ernst Happel",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_wiel_coerver_1974",
+    "name": "Wiel Coerver",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_wiel_coerver_1975",
+    "name": "Wiel Coerver",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bert_van_marwijk_2002",
+    "name": "Bert van Marwijk",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "A",
+    "overall_rating": 2
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_eugenio_bersellini_1980",
+    "name": "Eugenio Bersellini",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luigi_simoni_1998",
+    "name": "Luigi Simoni",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marcello_lippi_1999",
+    "name": "Marcello Lippi",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2004",
+    "name": "Roberto Mancini",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2008",
+    "name": "Roberto Mancini",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2009",
+    "name": "José Mourinho",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2010",
+    "name": "Rafael Benítez",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2011",
+    "name": "Claudio Ranieri",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_andrea_stramaccioni_2012",
+    "name": "Andrea Stramaccioni",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_antonio_conte_2019",
+    "name": "Antonio Conte",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2022",
+    "name": "Simone Inzaghi",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2024",
+    "name": "Simone Inzaghi",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2025",
+    "name": "Simone Inzaghi",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_carlo_parola_1961",
+    "name": "Carlo Parola",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paulo_amaral_1962",
+    "name": "Paulo Amaral",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_heriberto_herrera_1967",
+    "name": "Heriberto Herrera",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_cestmir_vycpalek_1972",
+    "name": "Čestmír Vycpálek",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_giovanni_trapattoni_1977",
+    "name": "Giovanni Trapattoni",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_giovanni_trapattoni_1982",
+    "name": "Giovanni Trapattoni",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_giovanni_trapattoni_1984",
+    "name": "Giovanni Trapattoni",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_giovanni_trapattoni_1985",
+    "name": "Giovanni Trapattoni",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_marcello_lippi_1995",
+    "name": "Marcello Lippi",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_marcello_lippi_1996",
+    "name": "Marcello Lippi",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_marcello_lippi_1997",
+    "name": "Marcello Lippi",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_marcello_lippi_1998",
+    "name": "Marcello Lippi",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2001",
+    "name": "Carlo Ancelotti",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marcello_lippi_2002",
+    "name": "Marcello Lippi",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_marcello_lippi_2004",
+    "name": "Marcello Lippi",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fabio_capello_2005",
+    "name": "Fabio Capello",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2006",
+    "name": "Didier Deschamps",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2008",
+    "name": "Claudio Ranieri",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ciro_ferrara_2009",
+    "name": "Ciro Ferrara",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_maurizio_sarri_2019",
+    "name": "Maurizio Sarri",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2022",
+    "name": "Massimiliano Allegri",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_thiago_motta_2025",
+    "name": "Thiago Motta",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_antonio_conte_2013",
+    "name": "Antonio Conte",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_antonio_conte_2014",
+    "name": "Antonio Conte",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2015",
+    "name": "Massimiliano Allegri",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2016",
+    "name": "Massimiliano Allegri",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2017",
+    "name": "Massimiliano Allegri",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "S",
+    "overall_rating": 1
+  }
+]

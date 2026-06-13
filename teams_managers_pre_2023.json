@@ -1,0 +1,7544 @@
+[
+  {
+    "team_name": "1. FC Kaiserslautern",
+    "year": 1998,
+    "manager_name": "Otto Rehhagel",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "1. FC Köln",
+    "year": 1964,
+    "manager_name": "Georg Knöpfle",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "1. FC Köln",
+    "year": 1970,
+    "manager_name": "Ernst Ocwirk",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "1. FC Magdeburg",
+    "year": 1969,
+    "manager_name": "Heinz Krügel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "1. FC Magdeburg",
+    "year": 1990,
+    "manager_name": "Joachim Streich",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "1. FC Nürnberg",
+    "year": 1960,
+    "manager_name": "Herbert Widmayer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "1. FC Nürnberg",
+    "year": 1961,
+    "manager_name": "Herbert Widmayer",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "1899 Hoffenheim",
+    "year": 2010,
+    "manager_name": "Ralf Rangnick",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1955,
+    "manager_name": "Héctor Puricelli",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1957,
+    "manager_name": "Giuseppe Viani",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1962,
+    "manager_name": "Nereo Rocco",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1963,
+    "manager_name": "Nereo Rocco",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1968,
+    "manager_name": "Nereo Rocco",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1988,
+    "manager_name": "Arrigo Sacchi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1989,
+    "manager_name": "Arrigo Sacchi",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1990,
+    "manager_name": "Arrigo Sacchi",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1992,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1993,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 1994,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2002,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2003,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2004,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2005,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2006,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2008,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2010,
+    "manager_name": "Leonardo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2011,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2012,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AC Milan",
+    "year": 2022,
+    "manager_name": "Stefano Pioli",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AEK Athens",
+    "year": 1968,
+    "manager_name": "Branko Stanković",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AEK Athens",
+    "year": 2019,
+    "manager_name": "Miguel Cardoso",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "AFC Ajax Amsterdam",
+    "year": 2013,
+    "manager_name": "Frank de Boer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AFC Ajax Amsterdam",
+    "year": 2014,
+    "manager_name": "Frank de Boer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AFC Ajax Amsterdam",
+    "year": 2015,
+    "manager_name": "Frank de Boer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AFC Ajax Amsterdam",
+    "year": 2019,
+    "manager_name": "Erik ten Hag",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "AFC Ajax Amsterdam",
+    "year": 2020,
+    "manager_name": "Erik ten Hag",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AFC Ajax Amsterdam",
+    "year": 2021,
+    "manager_name": "Erik ten Hag",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AFC Ajax Amsterdam",
+    "year": 2022,
+    "manager_name": "Erik ten Hag",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "year": 2013,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "year": 2014,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "year": 2015,
+    "manager_name": "André Villas-Boas",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "year": 2016,
+    "manager_name": "André Villas-Boas",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "year": 2020,
+    "manager_name": "Sergei Semak",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "year": 2021,
+    "manager_name": "Sergei Semak",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "year": 2022,
+    "manager_name": "Sergei Semak",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "APOEL Nicosia",
+    "year": 2012,
+    "manager_name": "Ivan Jovanovic",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AS FAR",
+    "year": 1987,
+    "manager_name": "José Faria",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AS Monaco",
+    "year": 1988,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AS Monaco",
+    "year": 1993,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AS Monaco",
+    "year": 1997,
+    "manager_name": "Jean Tigana",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "AS Monaco",
+    "year": 2003,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "AS Roma",
+    "year": 2009,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AS Roma",
+    "year": 2011,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AS Saint-Étienne",
+    "year": 1956,
+    "manager_name": "Jean Snella",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "AS Saint-Étienne",
+    "year": 1974,
+    "manager_name": "Robert Herbin",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Aarhus GF",
+    "year": 1960,
+    "manager_name": "Géza Toldi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Aberdeen",
+    "year": 1985,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1955,
+    "manager_name": "Karl Humenberger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1956,
+    "manager_name": "Karl Humenberger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1957,
+    "manager_name": "Karl Humenberger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1966,
+    "manager_name": "Rinus Michels",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1968,
+    "manager_name": "Rinus Michels",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1970,
+    "manager_name": "Rinus Michels",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1971,
+    "manager_name": "Rinus Michels",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1972,
+    "manager_name": "Stefan Kovacs",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1977,
+    "manager_name": "Tomislav Ivic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1979,
+    "manager_name": "Cor Brom",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1994,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1995,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Ajax",
+    "year": 1996,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Ajax",
+    "year": 2002,
+    "manager_name": "Ronald Koeman",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Ajax",
+    "year": 2004,
+    "manager_name": "Ronald Koeman",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 2009,
+    "manager_name": "Marco van Basten",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ajax",
+    "year": 2019,
+    "manager_name": "Erik ten Hag",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Ajax",
+    "year": 2022,
+    "manager_name": "Erik ten Hag",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Al Ahly",
+    "year": 1998,
+    "manager_name": "Rainer Zobel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Anderlecht",
+    "year": 1962,
+    "manager_name": "Pierre Sinibaldi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Anderlecht",
+    "year": 1965,
+    "manager_name": "Pierre Sinibaldi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Anderlecht",
+    "year": 1974,
+    "manager_name": "Urbain Braems",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Anderlecht",
+    "year": 1981,
+    "manager_name": "Tomislav Ivić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Anderlecht",
+    "year": 1985,
+    "manager_name": "Paul Van Himst",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Anderlecht",
+    "year": 1986,
+    "manager_name": "Arie Haan",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Anderlecht",
+    "year": 1987,
+    "manager_name": "Arie Haan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ararat Yerevan",
+    "year": 1974,
+    "manager_name": "Nikita Simonyan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Argeș Pitești",
+    "year": 1985,
+    "manager_name": "Nicolae Dobrin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arminia Bielefeld",
+    "year": 1977,
+    "manager_name": "Karl-Heinz Feldkamp",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 1964,
+    "manager_name": "Billy Wright",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 1971,
+    "manager_name": "Bertie Mee",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2000,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2003,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2004,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2005,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2006,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2008,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2009,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2010,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2011,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal",
+    "year": 2012,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal Football Club",
+    "year": 2013,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal Football Club",
+    "year": 2014,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal Football Club",
+    "year": 2015,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal Football Club",
+    "year": 2016,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Arsenal Football Club",
+    "year": 2017,
+    "manager_name": "Arsène Wenger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Association sportive de Monaco Football Club",
+    "year": 2015,
+    "manager_name": "Leonardo Jardim",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Association sportive de Monaco Football Club",
+    "year": 2017,
+    "manager_name": "Leonardo Jardim",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Association sportive de Monaco Football Club",
+    "year": 2018,
+    "manager_name": "Leonardo Jardim",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Association sportive de Monaco Football Club",
+    "year": 2019,
+    "manager_name": "Leonardo Jardim",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Associazione Calcio Milan",
+    "year": 2013,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Aston Villa",
+    "year": 1957,
+    "manager_name": "Eric Houghton",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Aston Villa",
+    "year": 1981,
+    "manager_name": "Ron Saunders",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Aston Villa",
+    "year": 1982,
+    "manager_name": "Tony Barton",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Aston Villa",
+    "year": 2006,
+    "manager_name": "David O'Leary",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Atalanta",
+    "year": 2022,
+    "manager_name": "Gian Piero Gasperini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "year": 2020,
+    "manager_name": "Gian Piero Gasperini",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "year": 2021,
+    "manager_name": "Gian Piero Gasperini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "year": 2022,
+    "manager_name": "Gian Piero Gasperini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Athletic Bilbao",
+    "year": 1956,
+    "manager_name": "Ferdinand Daučík",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Athletic Bilbao",
+    "year": 1982,
+    "manager_name": "Javier Clemente",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Athletic Club Bilbao",
+    "year": 2015,
+    "manager_name": "Ernesto Valverde",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Atletico Madrid",
+    "year": 2004,
+    "manager_name": "César Ferrando",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Atletico Madrid",
+    "year": 2019,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 1956,
+    "manager_name": "José Villalonga",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 1958,
+    "manager_name": "Ferdinand Daučík",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 1970,
+    "manager_name": "Marcel Domingo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 1973,
+    "manager_name": "Max Merkel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 1977,
+    "manager_name": "Luis Aragonés",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 1996,
+    "manager_name": "Radomir Antić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 1999,
+    "manager_name": "Arrigo Sacchi",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 2000,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 2008,
+    "manager_name": "Javier Aguirre",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 2009,
+    "manager_name": "Abel Resino",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 2010,
+    "manager_name": "Quique Sánchez Flores",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "year": 2022,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Austria Vienna",
+    "year": 1984,
+    "manager_name": "Václav Halama",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Austria Wien",
+    "year": 1958,
+    "manager_name": "Leopold Nitsch",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Austria Wien",
+    "year": 1977,
+    "manager_name": "Karl Stotz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Austria Wien",
+    "year": 1978,
+    "manager_name": "Hermann Stessl",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Austria Wien",
+    "year": 1984,
+    "manager_name": "Václav Halama",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Auxerre",
+    "year": 1996,
+    "manager_name": "Guy Roux",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Auxerre",
+    "year": 2005,
+    "manager_name": "Guy Roux",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BATE Borisov",
+    "year": 2013,
+    "manager_name": "Viktor Goncharenko",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BATE Borisov",
+    "year": 2015,
+    "manager_name": "Aliaksandr Yermakovich",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BATE Borisov",
+    "year": 2016,
+    "manager_name": "Aliaksandr Yermakovich",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BFC Dynamo",
+    "year": 1979,
+    "manager_name": "Jürgen Bogs",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BFC Dynamo",
+    "year": 1983,
+    "manager_name": "Jürgen Bogs",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BSC Young Boys",
+    "year": 1958,
+    "manager_name": "Albert Sing",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BSC Young Boys",
+    "year": 1986,
+    "manager_name": "Alexander Mandziara",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "BSC Young Boys",
+    "year": 2022,
+    "manager_name": "David Wagner",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Banik Ostrava",
+    "year": 1980,
+    "manager_name": "Evžen Hadamczik",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Baník Ostrava",
+    "year": 1980,
+    "manager_name": "Evžen Hadamczik",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1957,
+    "manager_name": "Domènec Balmanya",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1959,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1960,
+    "manager_name": "Ljubiša Broćić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1974,
+    "manager_name": "Rinus Michels",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1979,
+    "manager_name": "Joaquim Rifé",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1985,
+    "manager_name": "Terry Venables",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1987,
+    "manager_name": "Terry Venables",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 1999,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2000,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2001,
+    "manager_name": "Carles Rexach",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2002,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2005,
+    "manager_name": "Frank Rijkaard",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2006,
+    "manager_name": "Frank Rijkaard",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2008,
+    "manager_name": "Frank Rijkaard",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2009,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2010,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2011,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2012,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona",
+    "year": 2019,
+    "manager_name": "Ernesto Valverde",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Barcelona B",
+    "year": 2002,
+    "manager_name": "Quique Costas",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Barcelona B",
+    "year": 2010,
+    "manager_name": "Luis Enrique",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Basel",
+    "year": 2012,
+    "manager_name": "Heiko Vogel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayer Leverkusen",
+    "year": 1996,
+    "manager_name": "Erich Ribbeck",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayer Leverkusen",
+    "year": 1997,
+    "manager_name": "Christoph Daum",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayer Leverkusen",
+    "year": 2000,
+    "manager_name": "Christoph Daum",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayer Leverkusen",
+    "year": 2001,
+    "manager_name": "Klaus Toppmoller",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Bayer Leverkusen",
+    "year": 2012,
+    "manager_name": "Sami Hyypia",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1972,
+    "manager_name": "Udo Lattek",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1973,
+    "manager_name": "Udo Lattek",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1974,
+    "manager_name": "Udo Lattek",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1975,
+    "manager_name": "Dettmar Cramer",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1976,
+    "manager_name": "Dettmar Cramer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1980,
+    "manager_name": "Pal Csernai",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1981,
+    "manager_name": "Pal Csernai",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1985,
+    "manager_name": "Udo Lattek",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1986,
+    "manager_name": "Udo Lattek",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1987,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1989,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1990,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1994,
+    "manager_name": "Erich Ribbeck",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1997,
+    "manager_name": "Giovanni Trapattoni",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1998,
+    "manager_name": "Giovanni Trapattoni",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 1999,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2000,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2001,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2003,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2004,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2006,
+    "manager_name": "Felix Magath",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2009,
+    "manager_name": "Jürgen Klinsmann",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2010,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2011,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2012,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2019,
+    "manager_name": "Niko Kovač",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern Munich",
+    "year": 2022,
+    "manager_name": "Julian Nagelsmann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bayern München",
+    "year": 2022,
+    "manager_name": "Julian Nagelsmann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Belenenses",
+    "year": 1960,
+    "manager_name": "Otto Glória",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1960,
+    "manager_name": "Béla Guttmann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1961,
+    "manager_name": "Béla Guttmann",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1962,
+    "manager_name": "Béla Guttmann",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1964,
+    "manager_name": "Lajos Czeizler",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1965,
+    "manager_name": "Elek Schwartz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1967,
+    "manager_name": "Fernando Riera",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1968,
+    "manager_name": "Otto Glória",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1971,
+    "manager_name": "Jimmy Hagan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1975,
+    "manager_name": "Milorad Pavić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1977,
+    "manager_name": "John Mortimore",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1983,
+    "manager_name": "Sven-Göran Eriksson",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1984,
+    "manager_name": "Sven-Göran Eriksson",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1987,
+    "manager_name": "John Mortimore",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1989,
+    "manager_name": "Toni",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1994,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 1996,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 2005,
+    "manager_name": "Ronald Koeman",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 2009,
+    "manager_name": "Fernando Santos",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 2012,
+    "manager_name": "Jorge Jesus",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 2019,
+    "manager_name": "Bruno Lage",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Benfica",
+    "year": 2022,
+    "manager_name": "Nélson Veríssimo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Berner Sport Club Young Boys",
+    "year": 2022,
+    "manager_name": "Raphael Wicky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Beveren",
+    "year": 1981,
+    "manager_name": "Robert Goethals",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Beşiktaş",
+    "year": 1962,
+    "manager_name": "Andrea Kutik",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Beşiktaş",
+    "year": 1986,
+    "manager_name": "Branko Stanković",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Beşiktaş",
+    "year": 2022,
+    "manager_name": "Valérien Ismaël",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Beşiktaş Jimnastik Kulübü",
+    "year": 2017,
+    "manager_name": "Şenol Güneş",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Beşiktaş Jimnastik Kulübü",
+    "year": 2018,
+    "manager_name": "Şenol Güneş",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Beşiktaş Jimnastik Kulübü",
+    "year": 2022,
+    "manager_name": "Valérien Ismaël",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Birmingham City",
+    "year": 1978,
+    "manager_name": "Jim Smith",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Birmingham City",
+    "year": 2006,
+    "manager_name": "Steve Bruce",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Birmingham City",
+    "year": 2010,
+    "manager_name": "Alex McLeish",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Blackburn Rovers",
+    "year": 1960,
+    "manager_name": "Jack Marshall",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Blackburn Rovers",
+    "year": 2003,
+    "manager_name": "Graeme Souness",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Boavista",
+    "year": 1990,
+    "manager_name": "Raul Água",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Boavista",
+    "year": 1993,
+    "manager_name": "Manuel José",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Boavista",
+    "year": 1994,
+    "manager_name": "Manuel José",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Boavista",
+    "year": 1996,
+    "manager_name": "Jaime Pacheco",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Boca Juniors",
+    "year": 1996,
+    "manager_name": "Carlos Bilardo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Boca Juniors",
+    "year": 2002,
+    "manager_name": "Carlos Bianchi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Boca Juniors",
+    "year": 2006,
+    "manager_name": "Alfio Basile",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bologna",
+    "year": 1968,
+    "manager_name": "Luis Carniglia",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bologna",
+    "year": 1998,
+    "manager_name": "Carlo Mazzone",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bologna",
+    "year": 2002,
+    "manager_name": "Francesco Guidolin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bordeaux",
+    "year": 1984,
+    "manager_name": "Aimé Jacquet",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bordeaux",
+    "year": 1987,
+    "manager_name": "Aimé Jacquet",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bordeaux",
+    "year": 2000,
+    "manager_name": "Élie Baup",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Bordeaux",
+    "year": 2010,
+    "manager_name": "Jean Tigana",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 1957,
+    "manager_name": "Helmut Schneider",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 1963,
+    "manager_name": "Hermann Eppenhoff",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 1994,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 1995,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 1996,
+    "manager_name": "Ottmar Hitzfeld",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 1997,
+    "manager_name": "Nevio Scala",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2013,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2014,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2015,
+    "manager_name": "Thomas Tuchel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2017,
+    "manager_name": "Peter Bosz",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2018,
+    "manager_name": "Lucien Favre",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2019,
+    "manager_name": "Lucien Favre",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2020,
+    "manager_name": "Lucien Favre",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2021,
+    "manager_name": "Lucien Favre",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Borussia Dortmund",
+    "year": 2022,
+    "manager_name": "Marco Rose",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Borussia Mönchengladbach",
+    "year": 1975,
+    "manager_name": "Hennes Weisweiler",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Borussia Mönchengladbach",
+    "year": 1976,
+    "manager_name": "Udo Lattek",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Borussia Mönchengladbach",
+    "year": 1977,
+    "manager_name": "Udo Lattek",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Borussia Mönchengladbach",
+    "year": 1980,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Mönchengladbach",
+    "year": 2012,
+    "manager_name": "Lucien Favre",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "year": 2016,
+    "manager_name": "Andre Schubert",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "year": 2017,
+    "manager_name": "Dieter Hecking",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+    "year": 2021,
+    "manager_name": "Marco Rose",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Braga",
+    "year": 2009,
+    "manager_name": "Jorge Jesus",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Brøndby",
+    "year": 1986,
+    "manager_name": "Ebbe Skovdahl",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Brøndby IF",
+    "year": 1986,
+    "manager_name": "Ebbe Skovdahl",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Budapest Honvéd",
+    "year": 1957,
+    "manager_name": "Bela Guttmann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Burnley",
+    "year": 1960,
+    "manager_name": "Harry Potts",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Burnley",
+    "year": 1968,
+    "manager_name": "Harry Potts",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "CSKA Moscow",
+    "year": 1990,
+    "manager_name": "Pavel Sadyrin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "CSKA Moscow",
+    "year": 2010,
+    "manager_name": "Leonid Slutsky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "CSKA Moscow",
+    "year": 2012,
+    "manager_name": "Leonid Slutsky",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "CSKA Moscow",
+    "year": 2019,
+    "manager_name": "Viktor Goncharenko",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "CSKA Sofia",
+    "year": 1956,
+    "manager_name": "Krum Milev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "CSKA Sofia",
+    "year": 1966,
+    "manager_name": "Stoyan Ormandjiev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "CSKA Sofia",
+    "year": 1973,
+    "manager_name": "Manol Manolov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "CSKA Sofia",
+    "year": 1980,
+    "manager_name": "Asparuh Nikodimov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "CSKA Sofia",
+    "year": 1981,
+    "manager_name": "Asparuh Nikodimov",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "CSKA Sofia",
+    "year": 1989,
+    "manager_name": "Dimitar Penchev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Carl Zeiss Jena",
+    "year": 1970,
+    "manager_name": "Georg Buschner",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Celta Vigo",
+    "year": 1999,
+    "manager_name": "Victor Fernandez",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Celta Vigo",
+    "year": 2000,
+    "manager_name": "Victor Fernandez",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1966,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1968,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1969,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1970,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1971,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1973,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1977,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Celtic",
+    "year": 1979,
+    "manager_name": "Billy McNeill",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Celtic",
+    "year": 2006,
+    "manager_name": "Gordon Strachan",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Celtic",
+    "year": 2008,
+    "manager_name": "Gordon Strachan",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Celtic",
+    "year": 2011,
+    "manager_name": "Neil Lennon",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Celtic FC",
+    "year": 1973,
+    "manager_name": "Jock Stein",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Charlton Athletic",
+    "year": 2003,
+    "manager_name": "Alan Curbishley",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 1961,
+    "manager_name": "Tommy Docherty",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 1999,
+    "manager_name": "Gianluca Vialli",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2000,
+    "manager_name": "Gianluca Vialli",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2002,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2003,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2004,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2006,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2008,
+    "manager_name": "Avram Grant",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2009,
+    "manager_name": "Luiz Felipe Scolari",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2010,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2011,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2012,
+    "manager_name": "Roberto Di Matteo",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Chelsea",
+    "year": 2022,
+    "manager_name": "Thomas Tuchel",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2013,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2014,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2015,
+    "manager_name": "José Mourinho",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2016,
+    "manager_name": "Guus Hiddink",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2018,
+    "manager_name": "Antonio Conte",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2020,
+    "manager_name": "Frank Lampard",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2021,
+    "manager_name": "Thomas Tuchel",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Chelsea Football Club",
+    "year": 2022,
+    "manager_name": "Thomas Tuchel",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2014,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2015,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2016,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2017,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2018,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2019,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2020,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2021,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "year": 2022,
+    "manager_name": "Diego Simeone",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Club Brugge",
+    "year": 1976,
+    "manager_name": "Ernst Happel",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Club Brugge",
+    "year": 1977,
+    "manager_name": "Ernst Happel",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Club Brugge",
+    "year": 2012,
+    "manager_name": "Christoph Daum",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Club Brugge",
+    "year": 2019,
+    "manager_name": "Ivan Leko",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Club Brugge",
+    "year": 2022,
+    "manager_name": "Carl Hoefkens",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "year": 2017,
+    "manager_name": "Michel Preud'homme",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "year": 2019,
+    "manager_name": "Ivan Leko",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "year": 2020,
+    "manager_name": "Philippe Clement",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "year": 2021,
+    "manager_name": "Philippe Clement",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "year": 2022,
+    "manager_name": "Carl Hoefkens",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Copenhagen",
+    "year": 2011,
+    "manager_name": "Roland Nilsson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Corinthians",
+    "year": 2005,
+    "manager_name": "Márcio Bittencourt",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Corinthians",
+    "year": 2006,
+    "manager_name": "Emerson Leão",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Cruzeiro",
+    "year": 2010,
+    "manager_name": "Cuca",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Cruzeiro",
+    "year": 2012,
+    "manager_name": "Celso Roth",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "DWS",
+    "year": 1964,
+    "manager_name": "Leslie Talbot",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "DWS Amsterdam",
+    "year": 1964,
+    "manager_name": "Leslie Talbot",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Danubio",
+    "year": 2002,
+    "manager_name": "Jorge Fossati",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Deportivo La Coruña",
+    "year": 1994,
+    "manager_name": "Arsenio Iglesias",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Deportivo La Coruña",
+    "year": 2000,
+    "manager_name": "Javier Irureta",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Deportivo La Coruña",
+    "year": 2001,
+    "manager_name": "Javier Irureta",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Deportivo La Coruña",
+    "year": 2003,
+    "manager_name": "Javier Irureta",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Deportivo La Coruña",
+    "year": 2005,
+    "manager_name": "Javier Irureta",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Deportivo La Coruña",
+    "year": 2006,
+    "manager_name": "Joaquín Caparrós",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Derby County",
+    "year": 1972,
+    "manager_name": "Brian Clough",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Dinamo București",
+    "year": 1983,
+    "manager_name": "Cornel Dinu",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dinamo Kiev",
+    "year": 1997,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Dinamo Minsk",
+    "year": 1983,
+    "manager_name": "Ivan Shchekin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dinamo Tbilisi",
+    "year": 1980,
+    "manager_name": "Nodar Akhalkatsi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dinamo Zagreb",
+    "year": 1983,
+    "manager_name": "Miroslav Blažević",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Djurgårdens IF",
+    "year": 1955,
+    "manager_name": "Frank Soo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Djurgårdens IF",
+    "year": 1960,
+    "manager_name": "Karl-Erik Grahn",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Djurgårdens IF",
+    "year": 1968,
+    "manager_name": "Gösta Sandberg",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dnipro Dnipropetrovsk",
+    "year": 1984,
+    "manager_name": "Volodymyr Yemets",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dnipro Dnipropetrovsk",
+    "year": 1989,
+    "manager_name": "Yevhen Kucherevskyi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dukla Prague",
+    "year": 1960,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dukla Prague",
+    "year": 1961,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dukla Prague",
+    "year": 1962,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dukla Prague",
+    "year": 1963,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dukla Prague",
+    "year": 1966,
+    "manager_name": "Václav Ježek",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dundee",
+    "year": 1962,
+    "manager_name": "Bob Shankly",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dundee United",
+    "year": 1983,
+    "manager_name": "Jim McLean",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dunfermline Athletic",
+    "year": 1970,
+    "manager_name": "George Farm",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Dresden",
+    "year": 1976,
+    "manager_name": "Walter Fritzsch",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Dresden",
+    "year": 1978,
+    "manager_name": "Walter Fritzsch",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Dresden",
+    "year": 1979,
+    "manager_name": "Gerhard Prautzsch",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Dresden",
+    "year": 1990,
+    "manager_name": "Reinhard Häfner",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1972,
+    "manager_name": "Alexander Sevidov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1975,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1976,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1981,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1982,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1986,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1989,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1997,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 1998,
+    "manager_name": "Valeriy Lobanovskyi",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 2010,
+    "manager_name": "Oleg Luzhny",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Dynamo Kyiv",
+    "year": 2022,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Dynamo Praha",
+    "year": 1960,
+    "manager_name": "Karel Kolský",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Eintracht Braunschweig",
+    "year": 1956,
+    "manager_name": "Kurt Baluses",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Eintracht Braunschweig",
+    "year": 1967,
+    "manager_name": "Helmuth Johannsen",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Eintracht Braunschweig",
+    "year": 1970,
+    "manager_name": "Otto Knefler",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Eintracht Francoforte",
+    "year": 1996,
+    "manager_name": "Dragoslav Stepanović",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Eintracht Frankfurt",
+    "year": 1959,
+    "manager_name": "Paul Oßwald",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Eintracht Frankfurt",
+    "year": 1977,
+    "manager_name": "Gyula Lóránt",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Eintracht Frankfurt",
+    "year": 2012,
+    "manager_name": "Armin Veh",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Espanyol",
+    "year": 1994,
+    "manager_name": "José Antonio Camacho",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Espanyol",
+    "year": 2010,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Everton",
+    "year": 1970,
+    "manager_name": "Harry Catterick",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 1959,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 1960,
+    "manager_name": "Ljubiša Broćić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 1973,
+    "manager_name": "Rinus Michels",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 1974,
+    "manager_name": "Rinus Michels",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 1991,
+    "manager_name": "Johan Cruyff",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 1993,
+    "manager_name": "Johan Cruyff",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 1994,
+    "manager_name": "Johan Cruyff",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 2009,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 2010,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 2011,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "FC Barcelona",
+    "year": 2012,
+    "manager_name": "Tito Vilanova",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Barcelona B",
+    "year": 1994,
+    "manager_name": "Quique Costas",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Barcelona B",
+    "year": 2011,
+    "manager_name": "Luis Enrique",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Basel",
+    "year": 1956,
+    "manager_name": "Béla Sárosi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Basel",
+    "year": 1958,
+    "manager_name": "Rudi Strittich",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Basel",
+    "year": 1963,
+    "manager_name": "Georges Sobotka",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Basel",
+    "year": 1973,
+    "manager_name": "Helmut Benthaus",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Basel",
+    "year": 2012,
+    "manager_name": "Heiko Vogel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Basel 1893 AG",
+    "year": 2014,
+    "manager_name": "Murat Yakin",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Basel 1893 AG",
+    "year": 2015,
+    "manager_name": "Paulo Sousa",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Basel 1893 AG",
+    "year": 2018,
+    "manager_name": "Raphaël Wicky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2009,
+    "manager_name": "Louis van Gaal",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2013,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2014,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2015,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2016,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2017,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2018,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2019,
+    "manager_name": "Niko Kovač",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2020,
+    "manager_name": "Hansi Flick",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2021,
+    "manager_name": "Hansi Flick",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Bayern München",
+    "year": 2022,
+    "manager_name": "Julian Nagelsmann",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Copenhagen",
+    "year": 2011,
+    "manager_name": "Ståle Solbakken",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Ingolstadt 04",
+    "year": 2012,
+    "manager_name": "Benno Möhlmann",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "FC Kaiserslautern",
+    "year": 1956,
+    "manager_name": "Walter Frosch",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Köln",
+    "year": 1978,
+    "manager_name": "Hennes Weisweiler",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC La Chaux-de-Fonds",
+    "year": 1956,
+    "manager_name": "Georges Sobik",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Nantes",
+    "year": 1988,
+    "manager_name": "Miroslav Blažević",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 1986,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 1990,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 1993,
+    "manager_name": "Carlos Alberto Silva",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 1996,
+    "manager_name": "Bobby Robson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 1999,
+    "manager_name": "Fernando Santos",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 2003,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 2008,
+    "manager_name": "Jesualdo Ferreira",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 2009,
+    "manager_name": "Jesualdo Ferreira",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 2010,
+    "manager_name": "André Villas-Boas",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "FC Porto",
+    "year": 2022,
+    "manager_name": "Sérgio Conceição",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Schalke 04",
+    "year": 1958,
+    "manager_name": "Edi Frühwirth",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Schalke 04",
+    "year": 2013,
+    "manager_name": "Jens Keller",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Schalke 04",
+    "year": 2014,
+    "manager_name": "Jens Keller",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Schalke 04",
+    "year": 2015,
+    "manager_name": "Roberto Di Matteo",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Schalke 04",
+    "year": 2019,
+    "manager_name": "Domenico Tedesco",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2013,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2014,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2015,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2016,
+    "manager_name": "Paulo Fonseca",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2018,
+    "manager_name": "Paulo Fonseca",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2019,
+    "manager_name": "Luís Castro",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2020,
+    "manager_name": "Luís Castro",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2021,
+    "manager_name": "Luís Castro",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Shakhtar Donetsk",
+    "year": 2022,
+    "manager_name": "Roberto De Zerbi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Sion",
+    "year": 1994,
+    "manager_name": "Jean-Claude Richard",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Sochaux",
+    "year": 1956,
+    "manager_name": "Paul Wartel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Twente",
+    "year": 1977,
+    "manager_name": "Antoine Kohn",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Utrecht",
+    "year": 1970,
+    "manager_name": "Bert Jacobs",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Utrecht",
+    "year": 1971,
+    "manager_name": "Bert Jacobs",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Viktoria Plzeň, a.s.",
+    "year": 2014,
+    "manager_name": "Pavel Vrba",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FC Viktoria Plzeň, a.s.",
+    "year": 2019,
+    "manager_name": "Pavel Vrba",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Vorwärts Berlin",
+    "year": 1969,
+    "manager_name": "Fritz Belger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Vorwärts Berlin",
+    "year": 1970,
+    "manager_name": "Fritz Belger",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Wacker Innsbruck",
+    "year": 1977,
+    "manager_name": "Fritz Pfister",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Zurich",
+    "year": 1963,
+    "manager_name": "Louis Maurer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Zürich",
+    "year": 1956,
+    "manager_name": "Erich Vogel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Zürich",
+    "year": 1963,
+    "manager_name": "Louis Maurer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FC Zürich",
+    "year": 1976,
+    "manager_name": "Timotey Konkov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FK Austria Wien",
+    "year": 1959,
+    "manager_name": "Karl Schlechter",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FK Inter Bratislava",
+    "year": 1968,
+    "manager_name": "Karol Borhy",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FK Krasnodar",
+    "year": 2021,
+    "manager_name": "Murad Musayev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FK Rostov",
+    "year": 2017,
+    "manager_name": "Ivan Daniliants",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "FK Spartak Moskva",
+    "year": 2013,
+    "manager_name": "Valeri Karpin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "FK Spartak Moskva",
+    "year": 2018,
+    "manager_name": "Massimo Carrera",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fakel Voronezh",
+    "year": 1990,
+    "manager_name": "Valeri Nenenko",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fenerbahçe",
+    "year": 1986,
+    "manager_name": "Kálmán Mészöly",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fenerbahçe",
+    "year": 1988,
+    "manager_name": "Pál Csernai",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fenerbahçe",
+    "year": 2008,
+    "manager_name": "Zico",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Ferencváros",
+    "year": 1965,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ferencváros",
+    "year": 1971,
+    "manager_name": "Géza Kalocsay",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ferencváros",
+    "year": 1973,
+    "manager_name": "Jenő Dalnoki",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ferencváros",
+    "year": 1998,
+    "manager_name": "Zoltán Varga",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Ferencvárosi TC",
+    "year": 1964,
+    "manager_name": "József Mészáros",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Feyenoord",
+    "year": 1962,
+    "manager_name": "Franz Fuchs",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Feyenoord",
+    "year": 1969,
+    "manager_name": "Ben Peeters",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Feyenoord",
+    "year": 1971,
+    "manager_name": "Ernst Happel",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Feyenoord",
+    "year": 1974,
+    "manager_name": "Wiel Coerver",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Feyenoord",
+    "year": 1975,
+    "manager_name": "Wiel Coerver",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Feyenoord",
+    "year": 2002,
+    "manager_name": "Bert van Marwijk",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Feyenoord",
+    "year": 2006,
+    "manager_name": "Erwin Koeman",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Feyenoord Rotterdam",
+    "year": 2018,
+    "manager_name": "Giovanni van Bronckhorst",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fiorentina",
+    "year": 1956,
+    "manager_name": "Fulvio Bernardini",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Fiorentina",
+    "year": 1969,
+    "manager_name": "Bruno Pesaola",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Fiorentina",
+    "year": 1989,
+    "manager_name": "Sergio Santarelli",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Fiorentina",
+    "year": 2009,
+    "manager_name": "Cesare Prandelli",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Fiorentina",
+    "year": 2010,
+    "manager_name": "Sinisa Mihajlovic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Flamengo",
+    "year": 1982,
+    "manager_name": "Paulo Cesar Carpegiani",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Flamengo",
+    "year": 2009,
+    "manager_name": "Cuca",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Flamengo",
+    "year": 2011,
+    "manager_name": "Vanderlei Luxemburgo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fluminense",
+    "year": 2008,
+    "manager_name": "Rene Simoes",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Fluminense",
+    "year": 2010,
+    "manager_name": "Muricy Ramalho",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Fodbold Club Midtjylland",
+    "year": 2021,
+    "manager_name": "Bo Henriksen",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fodbold Club Nordsjælland",
+    "year": 2013,
+    "manager_name": "Kasper Hjulmand",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Foggia",
+    "year": 1994,
+    "manager_name": "Zdenek Zeman",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "year": 2019,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "year": 2020,
+    "manager_name": "Antonio Conte",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "year": 2021,
+    "manager_name": "Antonio Conte",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "year": 2022,
+    "manager_name": "Simone Inzaghi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Football Club København",
+    "year": 2014,
+    "manager_name": "Stale Solbakken",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Football Club København",
+    "year": 2017,
+    "manager_name": "Stale Solbakken",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Fortuna Düsseldorf",
+    "year": 1957,
+    "manager_name": "Hermann Lindemann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fortuna Sittard",
+    "year": 1987,
+    "manager_name": "Han Berger",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Fotbal Club CFR 1907 Cluj SA",
+    "year": 2013,
+    "manager_name": "Paulo Sergio",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Frem",
+    "year": 1960,
+    "manager_name": "Erling Sorensen",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Fudbalski klub Crvena zvezda Beograd",
+    "year": 2019,
+    "manager_name": "Vladan Milojevic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2013,
+    "manager_name": "Tito Vilanova",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2014,
+    "manager_name": "Gerardo Martino",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2015,
+    "manager_name": "Luis Enrique",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2016,
+    "manager_name": "Luis Enrique",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2017,
+    "manager_name": "Luis Enrique",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2018,
+    "manager_name": "Ernesto Valverde",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2019,
+    "manager_name": "Ernesto Valverde",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2020,
+    "manager_name": "Ernesto Valverde",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2021,
+    "manager_name": "Ronald Koeman",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Futbol Club Barcelona",
+    "year": 2022,
+    "manager_name": "Xavi Hernandez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "year": 2013,
+    "manager_name": "Oleg Blokhin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "year": 2016,
+    "manager_name": "Serhiy Rebrov",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "year": 2017,
+    "manager_name": "Serhiy Rebrov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "year": 2021,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futbolniy Klub Dynamo Kyiv",
+    "year": 2022,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2013,
+    "manager_name": "Vitor Pereira",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2014,
+    "manager_name": "Paulo Fonseca",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2015,
+    "manager_name": "Julen Lopetegui",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2016,
+    "manager_name": "Nuno Espirito Santo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2017,
+    "manager_name": "Nuno Espirito Santo",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2018,
+    "manager_name": "Sergio Conceicao",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2019,
+    "manager_name": "Sergio Conceicao",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2021,
+    "manager_name": "Sergio Conceicao",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Futebol Clube do Porto",
+    "year": 2022,
+    "manager_name": "Sergio Conceicao",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fußballclub Red Bull Salzburg",
+    "year": 2020,
+    "manager_name": "Jesse Marsch",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Fußballclub Red Bull Salzburg",
+    "year": 2021,
+    "manager_name": "Matthias Jaissle",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Fußballklub Austria Wien",
+    "year": 2014,
+    "manager_name": "Gerald Baumgartner",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "GAIS",
+    "year": 1974,
+    "manager_name": "Holger Hansson",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "GNK Dinamo Zagreb",
+    "year": 2013,
+    "manager_name": "Krunoslav Jurcic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "GNK Dinamo Zagreb",
+    "year": 2016,
+    "manager_name": "Zlatko Kranjcar",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "GNK Dinamo Zagreb",
+    "year": 2017,
+    "manager_name": "Mario Cvitanović",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "GNK Dinamo Zagreb",
+    "year": 2020,
+    "manager_name": "Zoran Mamić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Galatasaray",
+    "year": 1962,
+    "manager_name": "Gündüz Kılıç",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Galatasaray",
+    "year": 1969,
+    "manager_name": "Tomislav Kaloperović",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Galatasaray",
+    "year": 1988,
+    "manager_name": "Mustafa Denizli",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Galatasaray",
+    "year": 2000,
+    "manager_name": "Fatih Terim",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Galatasaray",
+    "year": 2019,
+    "manager_name": "Fatih Terim",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Galatasaray Spor Kulübü",
+    "year": 2013,
+    "manager_name": "Fatih Terim",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Galatasaray Spor Kulübü",
+    "year": 2014,
+    "manager_name": "Cesare Prandelli",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Galatasaray Spor Kulübü",
+    "year": 2015,
+    "manager_name": "Hamza Hamzaoğlu",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Galatasaray Spor Kulübü",
+    "year": 2016,
+    "manager_name": "Jan Olde Riekerink",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Galatasaray Spor Kulübü",
+    "year": 2019,
+    "manager_name": "Fatih Terim",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Galatasaray Spor Kulübü",
+    "year": 2020,
+    "manager_name": "Fatih Terim",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Genoa",
+    "year": 1956,
+    "manager_name": "Renzo Maggi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Getafe",
+    "year": 2008,
+    "manager_name": "Michael Laudrup",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Girondins Bordeaux",
+    "year": 1989,
+    "manager_name": "Didier Couécou",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Girondins de Bordeaux",
+    "year": 2010,
+    "manager_name": "Jean Tigana",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Grasshopper",
+    "year": 1978,
+    "manager_name": "Helmuth Johannsen",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Győri ETO",
+    "year": 1964,
+    "manager_name": "Imre Kovács",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Górnik Zabrze",
+    "year": 1967,
+    "manager_name": "Géza Kalocsay",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Górnik Zabrze",
+    "year": 1969,
+    "manager_name": "Ferenc Farsang",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Górnik Zabrze",
+    "year": 1974,
+    "manager_name": "Jan Kowalski",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "HJK Helsinki",
+    "year": 1985,
+    "manager_name": "Jyrki Heliskoski",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hajduk Split",
+    "year": 1975,
+    "manager_name": "Tomislav Ivić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Hajduk Split",
+    "year": 1977,
+    "manager_name": "Tomislav Ivić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hajduk Split",
+    "year": 1979,
+    "manager_name": "Tomislav Ivić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hajduk Split",
+    "year": 1984,
+    "manager_name": "Stanko Poklepović",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hajduk Split",
+    "year": 1994,
+    "manager_name": "Ivan Katalinić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "HamKam",
+    "year": 1988,
+    "manager_name": "Terje Karlsen",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hamburger SV",
+    "year": 1960,
+    "manager_name": "Günter Mahlmann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hamburger SV",
+    "year": 1979,
+    "manager_name": "Branko Zebec",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hamburger SV",
+    "year": 1982,
+    "manager_name": "Ernst Happel",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Hamburger SV",
+    "year": 1990,
+    "manager_name": "Gerd-Volker Schock",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Hapoel Tel Aviv",
+    "year": 2022,
+    "manager_name": "Kobi Refua",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Heart of Midlothian",
+    "year": 1959,
+    "manager_name": "Tommy Walker",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hibernian",
+    "year": 1955,
+    "manager_name": "Hugh Shaw",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Hoffenheim",
+    "year": 2019,
+    "manager_name": "Julian Nagelsmann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "IF Elfsborg",
+    "year": 1960,
+    "manager_name": "Sven Andreasson",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "IFK Göteborg",
+    "year": 1960,
+    "manager_name": "Walter Probst",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "IFK Göteborg",
+    "year": 1984,
+    "manager_name": "Björn Westerberg",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "IFK Göteborg",
+    "year": 1985,
+    "manager_name": "Gunder Bengtsson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "IFK Göteborg",
+    "year": 1988,
+    "manager_name": "Gunder Bengtsson",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "IFK Göteborg",
+    "year": 1994,
+    "manager_name": "Roger Gustafsson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "IFK Norrköping",
+    "year": 1955,
+    "manager_name": "Erik Holmqvist",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "IFK Norrköping",
+    "year": 1960,
+    "manager_name": "George Raynor",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "IFK Norrköping",
+    "year": 1971,
+    "manager_name": "George Raynor",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "IFK Norrköping",
+    "year": 1974,
+    "manager_name": "Olle Nordahl",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "IFK Norrköping",
+    "year": 1994,
+    "manager_name": "Kent Karlsson",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "IFK Norrköping",
+    "year": 1996,
+    "manager_name": "Kent Karlsson",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Independiente",
+    "year": 1957,
+    "manager_name": "Roberto Scarone",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Inter",
+    "year": 1963,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Inter",
+    "year": 1964,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Inter",
+    "year": 1971,
+    "manager_name": "Giovanni Invernizzi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter",
+    "year": 1980,
+    "manager_name": "Eugenio Bersellini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter",
+    "year": 1998,
+    "manager_name": "Luigi Simoni",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter",
+    "year": 1999,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Inter",
+    "year": 2002,
+    "manager_name": "Héctor Cúper",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter",
+    "year": 2005,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter",
+    "year": 2006,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Inter",
+    "year": 2008,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Inter",
+    "year": 2009,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Inter",
+    "year": 2010,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Inter",
+    "year": 2011,
+    "manager_name": "Leonardo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Inter",
+    "year": 2012,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Inter",
+    "year": 2022,
+    "manager_name": "Simone Inzaghi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1957,
+    "manager_name": "Luigi Ferrero",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1963,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1964,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1965,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1966,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1971,
+    "manager_name": "Giovanni Invernizzi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1980,
+    "manager_name": "Eugenio Bersellini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1998,
+    "manager_name": "Luigi Simoni",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 1999,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2004,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2008,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2009,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2010,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2011,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2012,
+    "manager_name": "Andrea Stramaccioni",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2019,
+    "manager_name": "Antonio Conte",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Inter Milan",
+    "year": 2022,
+    "manager_name": "Simone Inzaghi",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1961,
+    "manager_name": "Carlo Parola",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1962,
+    "manager_name": "Paulo Amaral",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1967,
+    "manager_name": "Heriberto Herrera",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1972,
+    "manager_name": "Čestmír Vycpálek",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1977,
+    "manager_name": "Giovanni Trapattoni",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1982,
+    "manager_name": "Giovanni Trapattoni",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1984,
+    "manager_name": "Giovanni Trapattoni",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1985,
+    "manager_name": "Giovanni Trapattoni",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1995,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1996,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1997,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus",
+    "year": 1998,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2001,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2002,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2004,
+    "manager_name": "Marcello Lippi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2005,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2006,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2008,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2009,
+    "manager_name": "Ciro Ferrara",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2019,
+    "manager_name": "Maurizio Sarri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus",
+    "year": 2022,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2013,
+    "manager_name": "Antonio Conte",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2014,
+    "manager_name": "Antonio Conte",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2015,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2016,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2017,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2018,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2019,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2020,
+    "manager_name": "Maurizio Sarri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2021,
+    "manager_name": "Andrea Pirlo",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Juventus Football Club",
+    "year": 2022,
+    "manager_name": "Massimiliano Allegri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "KB",
+    "year": 1960,
+    "manager_name": "Unknown",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "KB Copenhagen",
+    "year": 1968,
+    "manager_name": "Unknown",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "KV Mechelen",
+    "year": 1989,
+    "manager_name": "Aad de Mos",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Kaiserslautern",
+    "year": 1986,
+    "manager_name": "Hannes Bongartz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Kaiserslautern",
+    "year": 1998,
+    "manager_name": "Otto Rehhagel",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Karlsruher SC",
+    "year": 1964,
+    "manager_name": "Kurt Sommerlatt",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Kickers Offenbach",
+    "year": 1977,
+    "manager_name": "Zlatko Čajkovski",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Koninklijke Atletiek Associatie Gent",
+    "year": 2016,
+    "manager_name": "Hein Vanhaezebrouck",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Koninklijke Racing Club Genk",
+    "year": 2020,
+    "manager_name": "Hannes Wolf",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Köln",
+    "year": 1978,
+    "manager_name": "Hennes Weisweiler",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Las Palmas",
+    "year": 2001,
+    "manager_name": "Sergio Kresic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lausanne-Sport",
+    "year": 1976,
+    "manager_name": "Friedhelm Konietzka",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lazio",
+    "year": 1999,
+    "manager_name": "Sven-Göran Eriksson",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Lazio",
+    "year": 2002,
+    "manager_name": "Alberto Zaccheroni",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lazio",
+    "year": 2004,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lazio",
+    "year": 2006,
+    "manager_name": "Delio Rossi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lazio",
+    "year": 2008,
+    "manager_name": "Delio Rossi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lazio",
+    "year": 2010,
+    "manager_name": "Davide Ballardini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lazio",
+    "year": 2011,
+    "manager_name": "Edoardo Reja",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lazio",
+    "year": 2012,
+    "manager_name": "Edoardo Reja",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Le Havre",
+    "year": 1995,
+    "manager_name": "Guy David",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lecce",
+    "year": 2006,
+    "manager_name": "Zdeněk Zeman",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lech Poznań",
+    "year": 1982,
+    "manager_name": "Wojciech Łazarek",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Leeds United",
+    "year": 1969,
+    "manager_name": "Don Revie",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Leeds United",
+    "year": 1974,
+    "manager_name": "Don Revie",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Leeds United",
+    "year": 2000,
+    "manager_name": "David O'Leary",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Leeds United",
+    "year": 2002,
+    "manager_name": "David O'Leary",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Leeds United",
+    "year": 2004,
+    "manager_name": "Eddie Gray",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Legia Warsaw",
+    "year": 1969,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Legia Warsaw",
+    "year": 1970,
+    "manager_name": "Edmund Zientara",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Legia Warsaw",
+    "year": 1982,
+    "manager_name": "Kazimierz Górski",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Legia Warsaw",
+    "year": 1995,
+    "manager_name": "Paweł Janas",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Leicester City",
+    "year": 2017,
+    "manager_name": "Craig Shakespeare",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Levante",
+    "year": 1965,
+    "manager_name": "Enrique Orizaola",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Levski Sofia",
+    "year": 1982,
+    "manager_name": "Dobromir Zhechev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Levski Sofia",
+    "year": 1989,
+    "manager_name": "Vasil Metodiev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lille",
+    "year": 1996,
+    "manager_name": "Jean-Michel Cavalli",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lille",
+    "year": 2006,
+    "manager_name": "Claude Puel",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Lille",
+    "year": 2022,
+    "manager_name": "Jocelyn Gourvennec",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lille OSC",
+    "year": 1986,
+    "manager_name": "Georges Heylens",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lille OSC",
+    "year": 2003,
+    "manager_name": "Claude Puel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lille Olympique Sporting Club",
+    "year": 2013,
+    "manager_name": "Rudi Garcia",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lille Olympique Sporting Club",
+    "year": 2020,
+    "manager_name": "Christophe Galtier",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lille Olympique Sporting Club",
+    "year": 2022,
+    "manager_name": "Jocelyn Gourvennec",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Linfield",
+    "year": 1966,
+    "manager_name": "Issac McDowell",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1964,
+    "manager_name": "Bill Shankly",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1966,
+    "manager_name": "Bill Shankly",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1976,
+    "manager_name": "Bob Paisley",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1977,
+    "manager_name": "Bob Paisley",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1980,
+    "manager_name": "Bob Paisley",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1981,
+    "manager_name": "Bob Paisley",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1982,
+    "manager_name": "Bob Paisley",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1983,
+    "manager_name": "Joe Fagan",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 1984,
+    "manager_name": "Joe Fagan",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2001,
+    "manager_name": "Gérard Houllier",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2002,
+    "manager_name": "Gérard Houllier",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2004,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2006,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2008,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2009,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2012,
+    "manager_name": "Kenny Dalglish",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2019,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Liverpool",
+    "year": 2022,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Liverpool Football Club",
+    "year": 2015,
+    "manager_name": "Brendan Rodgers",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Liverpool Football Club",
+    "year": 2018,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Liverpool Football Club",
+    "year": 2019,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Liverpool Football Club",
+    "year": 2020,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Liverpool Football Club",
+    "year": 2021,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Liverpool Football Club",
+    "year": 2022,
+    "manager_name": "Jürgen Klopp",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Lokomotiv Moscow",
+    "year": 2019,
+    "manager_name": "Yuri Semin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lokomotive Leipzig",
+    "year": 1990,
+    "manager_name": "Unknown",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Luton Town",
+    "year": 1984,
+    "manager_name": "David Pleat",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2003,
+    "manager_name": "Paul Le Guen",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2004,
+    "manager_name": "Paul Le Guen",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2005,
+    "manager_name": "Gérard Houllier",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2006,
+    "manager_name": "Gérard Houllier",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2008,
+    "manager_name": "Alain Perrin",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2009,
+    "manager_name": "Claude Puel",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2010,
+    "manager_name": "Claude Puel",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2011,
+    "manager_name": "Rémi Garde",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2012,
+    "manager_name": "Rémi Garde",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Lyon",
+    "year": 2019,
+    "manager_name": "Bruno Génésio",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "MTK Budapest",
+    "year": 1955,
+    "manager_name": "Márton Bukovi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "MTK Budapest",
+    "year": 1964,
+    "manager_name": "Lajos Kovács",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "MVV Maastricht",
+    "year": 1963,
+    "manager_name": "Unknown",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "MVV Maastricht",
+    "year": 1988,
+    "manager_name": "Frans Körver",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Mallorca",
+    "year": 2000,
+    "manager_name": "Luis Aragonés",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Malmö FF",
+    "year": 1960,
+    "manager_name": "Unknown",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Malmö FF",
+    "year": 1974,
+    "manager_name": "Bob Houghton",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Malmö FF",
+    "year": 1978,
+    "manager_name": "Bob Houghton",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Malmö FF",
+    "year": 1987,
+    "manager_name": "Roy Hodgson",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Malmö FF",
+    "year": 2022,
+    "manager_name": "Miloš Milojević",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Malmö Fotbollförening",
+    "year": 2015,
+    "manager_name": "Åge Hareide",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Malmö Fotbollförening",
+    "year": 2016,
+    "manager_name": "Allan Kuhn",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Manchester City",
+    "year": 2009,
+    "manager_name": "Mark Hughes",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Manchester City",
+    "year": 2010,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Manchester City",
+    "year": 2019,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Manchester City",
+    "year": 2022,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester City Football Club",
+    "year": 2013,
+    "manager_name": "Roberto Mancini",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Manchester City Football Club",
+    "year": 2014,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester City Football Club",
+    "year": 2015,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Manchester City Football Club",
+    "year": 2016,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester City Football Club",
+    "year": 2017,
+    "manager_name": "Pep Guardiola",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1956,
+    "manager_name": "Matt Busby",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1957,
+    "manager_name": "Matt Busby",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1965,
+    "manager_name": "Matt Busby",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1966,
+    "manager_name": "Matt Busby",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1967,
+    "manager_name": "Matt Busby",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1968,
+    "manager_name": "Matt Busby",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1996,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1997,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1998,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 1999,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2000,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2001,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2002,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2003,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2006,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2008,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2009,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2010,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2011,
+    "manager_name": "Alex Ferguson",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2019,
+    "manager_name": "Ole Gunnar Solskjaer",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Manchester United",
+    "year": 2022,
+    "manager_name": "Erik ten Hag",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Maribor",
+    "year": 2018,
+    "manager_name": "Darko Milanic",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Marseille",
+    "year": 1990,
+    "manager_name": "Gerard Gili",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Marseille",
+    "year": 1992,
+    "manager_name": "Raymond Goethals",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Marseille",
+    "year": 2000,
+    "manager_name": "Bernard Casoni",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Marseille",
+    "year": 2011,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Marseille",
+    "year": 2012,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Marítimo",
+    "year": 2012,
+    "manager_name": "Pedro Martins",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Metz",
+    "year": 2006,
+    "manager_name": "Joël Muller",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Milan",
+    "year": 2002,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Milan",
+    "year": 2006,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Milan",
+    "year": 2008,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Milan",
+    "year": 2010,
+    "manager_name": "Leonardo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Monaco",
+    "year": 1997,
+    "manager_name": "Jean Tigana",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Monaco",
+    "year": 2003,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Monaco",
+    "year": 2019,
+    "manager_name": "Leonardo Jardim",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Monterrey",
+    "year": 2005,
+    "manager_name": "Miguel Herrera",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Montpellier HSC",
+    "year": 2013,
+    "manager_name": "René Girard",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Málaga",
+    "year": 2010,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Málaga",
+    "year": 2011,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Málaga CF",
+    "year": 2013,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "NK Maribor",
+    "year": 1994,
+    "manager_name": "Bojan Prašnikar",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Nantes",
+    "year": 1995,
+    "manager_name": "Jean-Claude Suaudeau",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Napoli",
+    "year": 1962,
+    "manager_name": "Bruno Pesaola",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Napoli",
+    "year": 2012,
+    "manager_name": "Walter Mazzarri",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Napoli",
+    "year": 2019,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Newcastle United",
+    "year": 1957,
+    "manager_name": "Stan Seymour",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Newcastle United",
+    "year": 2005,
+    "manager_name": "Graeme Souness",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Nice",
+    "year": 1976,
+    "manager_name": "Jean-Marc Guillou",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Nottingham Forest",
+    "year": 1978,
+    "manager_name": "Brian Clough",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Nottingham Forest",
+    "year": 1979,
+    "manager_name": "Brian Clough",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "OFK Beograd",
+    "year": 1970,
+    "manager_name": "Miljan Miljanić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "OGC Nice",
+    "year": 1956,
+    "manager_name": "Luis Carniglia",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "OGC Nice",
+    "year": 1959,
+    "manager_name": "Jean Luciano",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olt Scornicești",
+    "year": 1983,
+    "manager_name": "Constantin Olteanu",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiacos",
+    "year": 1974,
+    "manager_name": "Lakis Petropoulos",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiacos",
+    "year": 1998,
+    "manager_name": "Dušan Bajević",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympiacos",
+    "year": 2001,
+    "manager_name": "Takis Lemonis",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiacos",
+    "year": 2008,
+    "manager_name": "Takis Lemonis",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiacos",
+    "year": 2010,
+    "manager_name": "Ernesto Valverde",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiacos",
+    "year": 2012,
+    "manager_name": "Ernesto Valverde",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiacos",
+    "year": 2015,
+    "manager_name": "Marco Silva",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "year": 2013,
+    "manager_name": "Leonardo Jardim",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "year": 2014,
+    "manager_name": "Michel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "year": 2015,
+    "manager_name": "Marco Silva",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "year": 2016,
+    "manager_name": "Paulo Bento",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "year": 2018,
+    "manager_name": "Pedro Martins",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "year": 2020,
+    "manager_name": "Pedro Martins",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+    "year": 2021,
+    "manager_name": "Pedro Martins",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Lyon",
+    "year": 2003,
+    "manager_name": "Paul Le Guen",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2003,
+    "manager_name": "Paul Le Guen",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2004,
+    "manager_name": "Paul Le Guen",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2009,
+    "manager_name": "Claude Puel",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2010,
+    "manager_name": "Claude Puel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2011,
+    "manager_name": "Rémi Garde",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2012,
+    "manager_name": "Rémi Garde",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2016,
+    "manager_name": "Bruno Génésio",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2017,
+    "manager_name": "Bruno Génésio",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2019,
+    "manager_name": "Bruno Génésio",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2020,
+    "manager_name": "Rudi Garcia",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Olympique Lyonnais",
+    "year": 2021,
+    "manager_name": "Peter Bosz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Marseille",
+    "year": 1989,
+    "manager_name": "Gérard Gili",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Marseille",
+    "year": 1990,
+    "manager_name": "Gérard Gili",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique Marseille",
+    "year": 2008,
+    "manager_name": "Eric Gerets",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique Marseille",
+    "year": 2012,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique de Marseille",
+    "year": 2009,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique de Marseille",
+    "year": 2011,
+    "manager_name": "Didier Deschamps",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Olympique de Marseille",
+    "year": 2014,
+    "manager_name": "Marcelo Bielsa",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Olympique de Marseille",
+    "year": 2021,
+    "manager_name": "Jorge Sampaoli",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Osasuna",
+    "year": 2004,
+    "manager_name": "Javier Aguirre",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Osasuna",
+    "year": 2010,
+    "manager_name": "José Antonio Camacho",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "PFK CSKA Moskva",
+    "year": 2014,
+    "manager_name": "Leonid Slutsky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "PFK CSKA Moskva",
+    "year": 2015,
+    "manager_name": "Leonid Slutsky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "PFK CSKA Moskva",
+    "year": 2016,
+    "manager_name": "Leonid Slutsky",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "PFK CSKA Moskva",
+    "year": 2017,
+    "manager_name": "Viktor Goncharenko",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "PFK CSKA Moskva",
+    "year": 2018,
+    "manager_name": "Viktor Goncharenko",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "PFK CSKA Moskva",
+    "year": 2019,
+    "manager_name": "Viktor Goncharenko",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "PSV",
+    "year": 2006,
+    "manager_name": "Guus Hiddink",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 1963,
+    "manager_name": "Bram Appel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 1975,
+    "manager_name": "Kees Rijvers",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 1987,
+    "manager_name": "Guus Hiddink",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 1988,
+    "manager_name": "Guus Hiddink",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 1989,
+    "manager_name": "Guus Hiddink",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 2001,
+    "manager_name": "Eric Gerets",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 2004,
+    "manager_name": "Guus Hiddink",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 2006,
+    "manager_name": "Guus Hiddink",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "PSV Eindhoven",
+    "year": 2019,
+    "manager_name": "Mark van Bommel",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Padova",
+    "year": 1996,
+    "manager_name": "Mauro Sandriani",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Palermo",
+    "year": 2006,
+    "manager_name": "Francesco Guidolin",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Palmeiras",
+    "year": 1994,
+    "manager_name": "Vanderlei Luxemburgo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Palmeiras",
+    "year": 1996,
+    "manager_name": "Vanderlei Luxemburgo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Panathinaikos",
+    "year": 1970,
+    "manager_name": "Ferenc Puskas",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Panathinaikos",
+    "year": 1984,
+    "manager_name": "Jacek Gmoch",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Panathinaikos",
+    "year": 1995,
+    "manager_name": "Juan Ramon Rocha",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Panathinaikos",
+    "year": 2001,
+    "manager_name": "Yiannis Kyrastas",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Panathinaikos",
+    "year": 2009,
+    "manager_name": "Henk ten Cate",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain",
+    "year": 1988,
+    "manager_name": "Gerard Houllier",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Paris Saint-Germain",
+    "year": 1993,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Paris Saint-Germain",
+    "year": 1994,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain",
+    "year": 2009,
+    "manager_name": "Paul Le Guen",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Paris Saint-Germain",
+    "year": 2011,
+    "manager_name": "Antoine Kombouare",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Paris Saint-Germain",
+    "year": 2019,
+    "manager_name": "Thomas Tuchel",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain",
+    "year": 2022,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2013,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2014,
+    "manager_name": "Laurent Blanc",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2015,
+    "manager_name": "Laurent Blanc",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2016,
+    "manager_name": "Laurent Blanc",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2017,
+    "manager_name": "Unai Emery",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2018,
+    "manager_name": "Unai Emery",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2019,
+    "manager_name": "Thomas Tuchel",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2020,
+    "manager_name": "Thomas Tuchel",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2021,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Paris Saint-Germain Football Club",
+    "year": 2022,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Parma",
+    "year": 1988,
+    "manager_name": "Nevio Scala",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Parma",
+    "year": 1998,
+    "manager_name": "Alberto Malesani",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Parma",
+    "year": 2002,
+    "manager_name": "Pietro Carmignani",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Parma",
+    "year": 2003,
+    "manager_name": "Cesare Prandelli",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Parma",
+    "year": 2005,
+    "manager_name": "Pietro Carmignani",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Parma",
+    "year": 2011,
+    "manager_name": "Franco Colomba",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Partizan",
+    "year": 1963,
+    "manager_name": "Abdulah Gegić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Partizan",
+    "year": 1986,
+    "manager_name": "Nenad Bjeković",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Partizan Belgrade",
+    "year": 1955,
+    "manager_name": "Illés Spitz",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Partizan Belgrade",
+    "year": 1956,
+    "manager_name": "Illés Spitz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Partizan Belgrade",
+    "year": 1963,
+    "manager_name": "Abdulah Gegić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Partizan Belgrade",
+    "year": 1965,
+    "manager_name": "Abdulah Gegić",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Partizan Belgrade",
+    "year": 1966,
+    "manager_name": "Abdulah Gegić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Partizan Belgrade",
+    "year": 1969,
+    "manager_name": "Stjepan Bobek",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Partizan Belgrade",
+    "year": 1970,
+    "manager_name": "Stjepan Bobek",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Peñarol",
+    "year": 1997,
+    "manager_name": "Gregorio Pérez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Porto",
+    "year": 1975,
+    "manager_name": "Aimoré Moreira",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Porto",
+    "year": 1977,
+    "manager_name": "José Maria Pedroto",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Porto",
+    "year": 1982,
+    "manager_name": "José Maria Pedroto",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Porto",
+    "year": 1986,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 1987,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Porto",
+    "year": 1990,
+    "manager_name": "Artur Jorge",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 1996,
+    "manager_name": "Bobby Robson",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 1999,
+    "manager_name": "Fernando Santos",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 2003,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Porto",
+    "year": 2004,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Porto",
+    "year": 2006,
+    "manager_name": "Jesualdo Ferreira",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 2008,
+    "manager_name": "Jesualdo Ferreira",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 2009,
+    "manager_name": "Jesualdo Ferreira",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 2010,
+    "manager_name": "André Villas-Boas",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Porto",
+    "year": 2019,
+    "manager_name": "Sérgio Conceição",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Porto",
+    "year": 2022,
+    "manager_name": "Sérgio Conceição",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Qarabag FK",
+    "year": 2018,
+    "manager_name": "Gurban Gurbanov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "RB Leipzig",
+    "year": 2022,
+    "manager_name": "Domenico Tedesco",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "RC Lens",
+    "year": 1956,
+    "manager_name": "Karel Michl",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "RC Paris",
+    "year": 1956,
+    "manager_name": "Paul Baron",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "RC Paris",
+    "year": 1962,
+    "manager_name": "Pierre Pibarot",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "RSC Anderlecht",
+    "year": 1974,
+    "manager_name": "Urbain Braems",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Racing Santander",
+    "year": 1996,
+    "manager_name": "Marcos Alonso",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Racing Santander",
+    "year": 2000,
+    "manager_name": "Gustavo Benítez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Racing Santander",
+    "year": 2010,
+    "manager_name": "Miguel Ángel Portugal",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Rangers",
+    "year": 1959,
+    "manager_name": "Scot Symon",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Rangers",
+    "year": 1961,
+    "manager_name": "Scot Symon",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Rangers",
+    "year": 1964,
+    "manager_name": "Scot Symon",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Rangers",
+    "year": 1978,
+    "manager_name": "John Greig",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Rangers",
+    "year": 1987,
+    "manager_name": "Graeme Souness",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Rapid Vienna",
+    "year": 1955,
+    "manager_name": "Viktor Hierländer",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Rapid Vienna",
+    "year": 1960,
+    "manager_name": "Robert Körner",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Rapid Vienna",
+    "year": 1968,
+    "manager_name": "Rudolf Vytlačil",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Rapid Vienna",
+    "year": 1983,
+    "manager_name": "Otto Barić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Rapid Wien",
+    "year": 1983,
+    "manager_name": "Otto Barić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "RasenBallsport Leipzig",
+    "year": 2018,
+    "manager_name": "Ralph Hasenhüttl",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "RasenBallsport Leipzig",
+    "year": 2020,
+    "manager_name": "Julian Nagelsmann",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "RasenBallsport Leipzig",
+    "year": 2021,
+    "manager_name": "Julian Nagelsmann",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "RasenBallsport Leipzig",
+    "year": 2022,
+    "manager_name": "Jesse Marsch",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Real Betis",
+    "year": 1957,
+    "manager_name": "Fernando Daucik",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Betis",
+    "year": 1998,
+    "manager_name": "Luis Aragonés",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Betis",
+    "year": 2006,
+    "manager_name": "Lorenzo Serra Ferrer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1955,
+    "manager_name": "José Villalonga",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1956,
+    "manager_name": "José Villalonga",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1957,
+    "manager_name": "Luis Carniglia",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1958,
+    "manager_name": "Luis Carniglia",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1959,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1960,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1961,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1963,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1964,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1965,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1966,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1967,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1972,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1975,
+    "manager_name": "Miljan Miljanić",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1979,
+    "manager_name": "Luis Molowny",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1980,
+    "manager_name": "Vujadin Boškov",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1986,
+    "manager_name": "Luis Molowny",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1987,
+    "manager_name": "Leo Beenhakker",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1988,
+    "manager_name": "Leo Beenhakker",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1990,
+    "manager_name": "John Toshack",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1995,
+    "manager_name": "Jorge Valdano",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1996,
+    "manager_name": "Arsenio Iglesias",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1997,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1998,
+    "manager_name": "Jupp Heynckes",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 1999,
+    "manager_name": "John Toshack",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2000,
+    "manager_name": "Vicente del Bosque",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2001,
+    "manager_name": "Vicente del Bosque",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2002,
+    "manager_name": "Vicente del Bosque",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2003,
+    "manager_name": "Carlos Queiroz",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2006,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2008,
+    "manager_name": "Bernd Schuster",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2009,
+    "manager_name": "Juande Ramos",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2010,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2011,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2012,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2019,
+    "manager_name": "Santiago Solari",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Real Madrid",
+    "year": 2022,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid B",
+    "year": 2003,
+    "manager_name": "Juan Ramón López Caro",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid Castilla",
+    "year": 1988,
+    "manager_name": "Vicente del Bosque",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid Castilla",
+    "year": 2010,
+    "manager_name": "Alejandro Menéndez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid Castilla",
+    "year": 2011,
+    "manager_name": "Alberto Toril",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2013,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2014,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2015,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2016,
+    "manager_name": "Zinedine Zidane",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2017,
+    "manager_name": "Zinedine Zidane",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2018,
+    "manager_name": "Zinedine Zidane",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2019,
+    "manager_name": "Zinedine Zidane",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2020,
+    "manager_name": "Zinedine Zidane",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2021,
+    "manager_name": "Zinedine Zidane",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Madrid Club de Fútbol",
+    "year": 2022,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Real Sociedad",
+    "year": 1957,
+    "manager_name": "Salvador Artigas",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Sociedad",
+    "year": 1982,
+    "manager_name": "Alberto Orrmaetxea",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Sociedad de Fútbol S.A.D.",
+    "year": 2014,
+    "manager_name": "Jagoba Arrasate",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Valladolid",
+    "year": 1996,
+    "manager_name": "Rafael Benitez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Valladolid",
+    "year": 2002,
+    "manager_name": "Jose Luis Mendilibar",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Valladolid",
+    "year": 2010,
+    "manager_name": "Javier Clemente",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Zaragoza",
+    "year": 1975,
+    "manager_name": "Luis Costa",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Real Zaragoza",
+    "year": 1980,
+    "manager_name": "Manuel Villanova",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1956,
+    "manager_name": "Miljan Miljanic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1957,
+    "manager_name": "Miljan Miljanic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1960,
+    "manager_name": "Miljan Miljanic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1963,
+    "manager_name": "Miljan Miljanic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1966,
+    "manager_name": "Miljan Miljanic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1970,
+    "manager_name": "Miljan Miljanic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1973,
+    "manager_name": "Miljan Miljanic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1980,
+    "manager_name": "Branko Stankovic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1981,
+    "manager_name": "Branko Stankovic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1986,
+    "manager_name": "Velibor Vasovic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1987,
+    "manager_name": "Velibor Vasovic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Red Star Belgrade",
+    "year": 1990,
+    "manager_name": "Dragoslav Sekulic",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Rennes",
+    "year": 2006,
+    "manager_name": "Pierre Dreossi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Retired",
+    "year": 1994,
+    "manager_name": "Retired",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "River Plate",
+    "year": 1956,
+    "manager_name": "Enrique Omar Sivori",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "River Plate",
+    "year": 1987,
+    "manager_name": "Carlos Timoteo Griguol",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "River Plate",
+    "year": 2006,
+    "manager_name": "Daniel Pasarella",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Roma",
+    "year": 1983,
+    "manager_name": "Nils Liedholm",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Roma",
+    "year": 2001,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Roma",
+    "year": 2003,
+    "manager_name": "Fabio Capello",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Roma",
+    "year": 2006,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Roma",
+    "year": 2008,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Roma",
+    "year": 2009,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Roma",
+    "year": 2011,
+    "manager_name": "Luis Enrique",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Roma",
+    "year": 2019,
+    "manager_name": "Eusebio Di Francesco",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Rosario Central",
+    "year": 1996,
+    "manager_name": "Ángel Tulio Zof",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Rosenborg",
+    "year": 1996,
+    "manager_name": "Nils Arne Eggen",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Royal Antwerp",
+    "year": 1974,
+    "manager_name": "Guy Thys",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Royal Sporting Club Anderlecht",
+    "year": 2013,
+    "manager_name": "John van den Brom",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Royal Sporting Club Anderlecht",
+    "year": 2014,
+    "manager_name": "Besnik Hasi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Royal Sporting Club Anderlecht",
+    "year": 2015,
+    "manager_name": "Besnik Hasi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Royal Sporting Club Anderlecht",
+    "year": 2018,
+    "manager_name": "Hein Vanhaezebrouck",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Ruch Chorzów",
+    "year": 1974,
+    "manager_name": "Michal Vičan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "SC Fotbal Club FCSB SA",
+    "year": 2014,
+    "manager_name": "Laurențiu Reghecampf",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "SC Wismut Karl-Marx-Stadt",
+    "year": 1958,
+    "manager_name": "Gerhard Hofmann",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "SK Slavia Praha, a.s.",
+    "year": 2020,
+    "manager_name": "Jindřich Trpišovský",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "SPAL",
+    "year": 1956,
+    "manager_name": "Paolo Mazza",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "year": 1974,
+    "manager_name": "Robert Herbin",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "year": 1975,
+    "manager_name": "Robert Herbin",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "year": 1976,
+    "manager_name": "Robert Herbin",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Salernitana",
+    "year": 1996,
+    "manager_name": "Delio Rossi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sampdoria",
+    "year": 1991,
+    "manager_name": "Vujadin Boškov",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Sampdoria",
+    "year": 1997,
+    "manager_name": "Sven-Göran Eriksson",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sampdoria",
+    "year": 2012,
+    "manager_name": "Ciro Ferrara",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Schalke 04",
+    "year": 1958,
+    "manager_name": "Eddi Frühwirth",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Schalke 04",
+    "year": 2008,
+    "manager_name": "Mirko Slomka",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Schalke 04",
+    "year": 2010,
+    "manager_name": "Felix Magath",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Schalke 04",
+    "year": 2011,
+    "manager_name": "Ralf Rangnick",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Schalke 04",
+    "year": 2019,
+    "manager_name": "Domenico Tedesco",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Servette",
+    "year": 1978,
+    "manager_name": "Péter Pázmándy",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla",
+    "year": 1957,
+    "manager_name": "Helenio Herrera",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Sevilla",
+    "year": 1982,
+    "manager_name": "Miguel Muñoz",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla",
+    "year": 2003,
+    "manager_name": "Joaquín Caparrós",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla",
+    "year": 2006,
+    "manager_name": "Juande Ramos",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Sevilla",
+    "year": 2008,
+    "manager_name": "Manolo Jiménez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla",
+    "year": 2010,
+    "manager_name": "Gregorio Manzano",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Sevilla",
+    "year": 2022,
+    "manager_name": "Julen Lopetegui",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla FC",
+    "year": 1986,
+    "manager_name": "Manolo Cardo",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla FC",
+    "year": 2010,
+    "manager_name": "Antonio Álvarez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "year": 2016,
+    "manager_name": "Unai Emery",
+    "bonus_malus": 3
+  },
+  {
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "year": 2017,
+    "manager_name": "Eduardo Berizzo",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "year": 2018,
+    "manager_name": "Pablo Machín",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "year": 2021,
+    "manager_name": "Julen Lopetegui",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sevilla Fútbol Club S.A.D.",
+    "year": 2022,
+    "manager_name": "Julen Lopetegui",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Shakhtar Donetsk",
+    "year": 1975,
+    "manager_name": "Vladimir Salkov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Shakhtar Donetsk",
+    "year": 2011,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Shakhtar Donetsk",
+    "year": 2012,
+    "manager_name": "Mircea Lucescu",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Shakhtar Donetsk",
+    "year": 2019,
+    "manager_name": "Paulo Fonseca",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Shakhtar Donetsk",
+    "year": 2022,
+    "manager_name": "Roberto De Zerbi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Slovan Bratislava",
+    "year": 1966,
+    "manager_name": "János Steiner",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Slovan Bratislava",
+    "year": 1968,
+    "manager_name": "Michal Vičan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Slovan Bratislava",
+    "year": 1972,
+    "manager_name": "Michal Vičan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Slovan Bratislava",
+    "year": 1973,
+    "manager_name": "Michal Vičan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Slovan Bratislava",
+    "year": 1980,
+    "manager_name": "Anton Ondruš",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Società Sportiva Calcio Napoli",
+    "year": 2014,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Società Sportiva Calcio Napoli",
+    "year": 2017,
+    "manager_name": "Maurizio Sarri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Società Sportiva Calcio Napoli",
+    "year": 2018,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Società Sportiva Calcio Napoli",
+    "year": 2019,
+    "manager_name": "Carlo Ancelotti",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Società Sportiva Calcio Napoli",
+    "year": 2020,
+    "manager_name": "Gennaro Gattuso",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Società Sportiva Calcio Napoli",
+    "year": 2021,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Società Sportiva Lazio S.p.A.",
+    "year": 2021,
+    "manager_name": "Maurizio Sarri",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "South China",
+    "year": 1983,
+    "manager_name": "Ronnie Wong Man Chiu",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Southampton",
+    "year": 2003,
+    "manager_name": "Gordon Strachan",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sparta Prague",
+    "year": 1965,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sparta Prague",
+    "year": 1966,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sparta Prague",
+    "year": 1967,
+    "manager_name": "Jaroslav Vejvoda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sparta Prague",
+    "year": 1984,
+    "manager_name": "Václav Ježek",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sparta Rotterdam",
+    "year": 1959,
+    "manager_name": "Denis Neville",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sparta Rotterdam",
+    "year": 1960,
+    "manager_name": "Denis Neville",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sparta Rotterdam",
+    "year": 1961,
+    "manager_name": "Denis Neville",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Moscow",
+    "year": 1980,
+    "manager_name": "Konstantin Beskov",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Moscow",
+    "year": 1989,
+    "manager_name": "Oleg Romantsev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Moscow",
+    "year": 1990,
+    "manager_name": "Oleg Romantsev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Moscow",
+    "year": 1995,
+    "manager_name": "Oleg Romantsev",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Trnava",
+    "year": 1961,
+    "manager_name": "Anton Malatinský",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Trnava",
+    "year": 1968,
+    "manager_name": "Anton Malatinský",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Trnava",
+    "year": 1972,
+    "manager_name": "Anton Malatinský",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Spartak Trnava",
+    "year": 1973,
+    "manager_name": "Anton Malatinský",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2013,
+    "manager_name": "Jorge Jesus",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2014,
+    "manager_name": "Jorge Jesus",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2015,
+    "manager_name": "Rui Vitória",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2016,
+    "manager_name": "Rui Vitória",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2017,
+    "manager_name": "Rui Vitória",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2018,
+    "manager_name": "Rui Vitória",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2019,
+    "manager_name": "Bruno Lage",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2020,
+    "manager_name": "Jorge Jesus",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Sport Lisboa e Benfica",
+    "year": 2022,
+    "manager_name": "Roger Schmidt",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Sporting CP",
+    "year": 1982,
+    "manager_name": "Malcolm Allison",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting CP",
+    "year": 1986,
+    "manager_name": "Manuel José",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting CP",
+    "year": 1996,
+    "manager_name": "Octávio Machado",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting CP",
+    "year": 2009,
+    "manager_name": "Paulo Bento",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting CP",
+    "year": 2022,
+    "manager_name": "Rúben Amorim",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting Clube de Braga",
+    "year": 2013,
+    "manager_name": "José Peseiro",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting Clube de Portugal",
+    "year": 2015,
+    "manager_name": "Marco Silva",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting Clube de Portugal",
+    "year": 2017,
+    "manager_name": "Jorge Jesus",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting Clube de Portugal",
+    "year": 2018,
+    "manager_name": "Jorge Jesus",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Sporting Clube de Portugal",
+    "year": 2022,
+    "manager_name": "Rúben Amorim",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Sporting Gijón",
+    "year": 1977,
+    "manager_name": "Luis Molowny",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sporting Gijón",
+    "year": 2000,
+    "manager_name": "Miguel Ángel Lotina",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Stade Rennais Football Club",
+    "year": 2021,
+    "manager_name": "Bruno Génésio",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Stade de Reims",
+    "year": 1955,
+    "manager_name": "Albert Batteux",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Stade de Reims",
+    "year": 1956,
+    "manager_name": "Albert Batteux",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Stade de Reims",
+    "year": 1958,
+    "manager_name": "Albert Batteux",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Stade de Reims",
+    "year": 1962,
+    "manager_name": "Albert Batteux",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Standard Liège",
+    "year": 1958,
+    "manager_name": "Géza Kalocsay",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Standard Liège",
+    "year": 1961,
+    "manager_name": "Géza Kalocsay",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Standard Liège",
+    "year": 1969,
+    "manager_name": "René Hauss",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Standard Liège",
+    "year": 1971,
+    "manager_name": "René Hauss",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Standard Liège",
+    "year": 1974,
+    "manager_name": "Enver Hadžiabdić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Standard Liège",
+    "year": 1981,
+    "manager_name": "Ernst Happel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Steaua Bucuresti",
+    "year": 1985,
+    "manager_name": "Florin Halagian",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Steaua Bucuresti",
+    "year": 1987,
+    "manager_name": "Emerich Jenei",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Steaua Bucuresti",
+    "year": 1988,
+    "manager_name": "Emerich Jenei",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Steaua București",
+    "year": 1985,
+    "manager_name": "Emerich Jenei",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Steaua București",
+    "year": 1987,
+    "manager_name": "Anghel Iordănescu",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Steaua București",
+    "year": 1988,
+    "manager_name": "Anghel Iordănescu",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Strasbourg",
+    "year": 1979,
+    "manager_name": "Gilbert Gress",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Strasbourg",
+    "year": 1996,
+    "manager_name": "Jacky Duguépéroux",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Sturm Graz",
+    "year": 1996,
+    "manager_name": "Ivica Osim",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Stuttgart",
+    "year": 2005,
+    "manager_name": "Matthias Sammer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Stuttgart",
+    "year": 2009,
+    "manager_name": "Markus Babbel",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Stuttgart",
+    "year": 2010,
+    "manager_name": "Christian Gross",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "São Paulo",
+    "year": 2006,
+    "manager_name": "Tite",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "The Celtic Football Club",
+    "year": 2013,
+    "manager_name": "Neil Lennon",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "The Celtic Football Club",
+    "year": 2014,
+    "manager_name": "Ronny Deila",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "The Celtic Football Club",
+    "year": 2017,
+    "manager_name": "Brendan Rodgers",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "The Celtic Football Club",
+    "year": 2018,
+    "manager_name": "Brendan Rodgers",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Tottenham",
+    "year": 2006,
+    "manager_name": "Martin Jol",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Tottenham Hotspur",
+    "year": 1961,
+    "manager_name": "Bill Nicholson",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Tottenham Hotspur",
+    "year": 2010,
+    "manager_name": "Harry Redknapp",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Tottenham Hotspur",
+    "year": 2011,
+    "manager_name": "Harry Redknapp",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Tottenham Hotspur",
+    "year": 2012,
+    "manager_name": "André Villas-Boas",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Tottenham Hotspur",
+    "year": 2019,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Tottenham Hotspur Football Club",
+    "year": 2017,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Tottenham Hotspur Football Club",
+    "year": 2018,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Tottenham Hotspur Football Club",
+    "year": 2019,
+    "manager_name": "Mauricio Pochettino",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Tottenham Hotspur Football Club",
+    "year": 2020,
+    "manager_name": "José Mourinho",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Trelleborgs FF",
+    "year": 1994,
+    "manager_name": "Tom Prahl",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs",
+    "year": 2019,
+    "manager_name": "Alfred Schreuder",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Udinese",
+    "year": 1957,
+    "manager_name": "Giuseppe Bigogno",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Udinese",
+    "year": 2005,
+    "manager_name": "Serse Cosmi",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Union Saint-Gilloise",
+    "year": 1974,
+    "manager_name": "Jef Vliers",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Universitatea Craiova",
+    "year": 1981,
+    "manager_name": "Constantin Teașcă",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Valencia",
+    "year": 1957,
+    "manager_name": "Luis Miró",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Valencia",
+    "year": 1999,
+    "manager_name": "Héctor Cúper",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Valencia",
+    "year": 2000,
+    "manager_name": "Héctor Cúper",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Valencia",
+    "year": 2002,
+    "manager_name": "Rafael Benítez",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Valencia",
+    "year": 2005,
+    "manager_name": "Claudio Ranieri",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Valencia",
+    "year": 2006,
+    "manager_name": "Quique Sánchez Flores",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Valencia",
+    "year": 2011,
+    "manager_name": "Unai Emery",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Valencia",
+    "year": 2019,
+    "manager_name": "Marcelino",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Valencia CF",
+    "year": 1973,
+    "manager_name": "Alfredo Di Stéfano",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Valencia CF",
+    "year": 2011,
+    "manager_name": "Unai Emery",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "year": 2013,
+    "manager_name": "Miroslav Đukić",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "year": 2016,
+    "manager_name": "Pako Ayestarán",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "year": 2019,
+    "manager_name": "Marcelino",
+    "bonus_malus": -2
+  },
+  {
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "year": 2020,
+    "manager_name": "Albert Celades",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Vasas",
+    "year": 1967,
+    "manager_name": "Rudolf Illovszky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Vasas Budapest",
+    "year": 1956,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Vasas Budapest",
+    "year": 1957,
+    "manager_name": "Rudolf Illovszky",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Vasas SC",
+    "year": 1957,
+    "manager_name": "Rudolf Illovszky",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Vasas SC",
+    "year": 1964,
+    "manager_name": "Rudolf Illovszky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Vasas SC",
+    "year": 1967,
+    "manager_name": "Rudolf Illovszky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Vasas SC",
+    "year": 1968,
+    "manager_name": "Rudolf Illovszky",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Verein für Leibesübungen Wolfsburg",
+    "year": 2016,
+    "manager_name": "Dieter Hecking",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Verein für Leibesübungen Wolfsburg",
+    "year": 2022,
+    "manager_name": "Florian Kohfeldt",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Verona",
+    "year": 2002,
+    "manager_name": "Alberto Malesani",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "VfB Stuttgart",
+    "year": 2010,
+    "manager_name": "Christian Gross",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "VfL Wolfsburg",
+    "year": 2022,
+    "manager_name": "Florian Kohfeldt",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Villarreal",
+    "year": 2005,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Villarreal",
+    "year": 2009,
+    "manager_name": "Manuel Pellegrini",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Villarreal",
+    "year": 2022,
+    "manager_name": "Unai Emery",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Villarreal Club de Fútbol S.A.D.",
+    "year": 2022,
+    "manager_name": "Unai Emery",
+    "bonus_malus": 2
+  },
+  {
+    "team_name": "Vitória de Guimarães",
+    "year": 1989,
+    "manager_name": "Marinho",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Vojvodina",
+    "year": 1966,
+    "manager_name": "Branko Stanković",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Vorskla Poltava",
+    "year": 2016,
+    "manager_name": "Vasyl Sachko",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Vorwärts Berlin",
+    "year": 1969,
+    "manager_name": "Gerhard Körner",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Vålerenga",
+    "year": 2012,
+    "manager_name": "Martin Andresen",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Vörös Lobogó (MTK Budapest)",
+    "year": 1955,
+    "manager_name": "Márton Bukovi",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Werder Bremen",
+    "year": 1988,
+    "manager_name": "Otto Rehhagel",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Werder Bremen",
+    "year": 2010,
+    "manager_name": "Thomas Schaaf",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Werder Bremen",
+    "year": 2011,
+    "manager_name": "Thomas Schaaf",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "West Bromwich Albion",
+    "year": 2006,
+    "manager_name": "Bryan Robson",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Widzew Łódź",
+    "year": 1982,
+    "manager_name": "Władysław Żmuda",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Wiener Sport-Club",
+    "year": 1958,
+    "manager_name": "Josef Argauer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Wiener Sport-Club",
+    "year": 1959,
+    "manager_name": "Josef Argauer",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Willem II",
+    "year": 1959,
+    "manager_name": "František Fadrhonc",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Willem II",
+    "year": 2006,
+    "manager_name": "Dennis van Wijk",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Wisła Kraków",
+    "year": 1978,
+    "manager_name": "Oleg Bazilevich",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Wolfsburg",
+    "year": 2022,
+    "manager_name": "Florian Kohfeldt",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Wolverhampton Wanderers",
+    "year": 1959,
+    "manager_name": "Stan Cullis",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Young Boys",
+    "year": 1958,
+    "manager_name": "Albert Sing",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Young Boys",
+    "year": 1976,
+    "manager_name": "Kurt Linder",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Young Boys",
+    "year": 2022,
+    "manager_name": "David Wagner",
+    "bonus_malus": -1
+  },
+  {
+    "team_name": "Zenit",
+    "year": 2022,
+    "manager_name": "Sergei Semak",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Zenit Saint Petersburg",
+    "year": 2012,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Zenit St. Petersburg",
+    "year": 2012,
+    "manager_name": "Luciano Spalletti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Zenit St. Petersburg",
+    "year": 2022,
+    "manager_name": "Sergei Semak",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Åtvidabergs FF",
+    "year": 1974,
+    "manager_name": "Ingvar Grip",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Újpest",
+    "year": 1971,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Újpest",
+    "year": 1973,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Újpest FC",
+    "year": 1972,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Újpest FC",
+    "year": 1973,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Újpesti Dózsa",
+    "year": 1962,
+    "manager_name": "Béla Guttmann",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Újpesti Dózsa",
+    "year": 1964,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Újpesti Dózsa",
+    "year": 1971,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "Újpesti Dózsa",
+    "year": 1972,
+    "manager_name": "Lajos Baróti",
+    "bonus_malus": 1
+  },
+  {
+    "team_name": "İstanbul Başakşehir Futbol Kulübü",
+    "year": 2021,
+    "manager_name": "Okan Buruk",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "ŁKS Łódź",
+    "year": 1982,
+    "manager_name": "Józef Młódzianowski",
+    "bonus_malus": 0
+  },
+  {
+    "team_name": "Śląsk Wrocław",
+    "year": 1982,
+    "manager_name": "Jerzy Kopa",
+    "bonus_malus": 0
+  }
+]

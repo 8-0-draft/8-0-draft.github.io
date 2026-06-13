@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_ottmar_hitzfeld_2001",
+    "name": "Ottmar Hitzfeld",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_ottmar_hitzfeld_2003",
+    "name": "Ottmar Hitzfeld",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ottmar_hitzfeld_2004",
+    "name": "Ottmar Hitzfeld",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_felix_magath_2006",
+    "name": "Felix Magath",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jurgen_klinsmann_2009",
+    "name": "Jürgen Klinsmann",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_2010",
+    "name": "Louis van Gaal",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_2011",
+    "name": "Louis van Gaal",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jupp_heynckes_2012",
+    "name": "Jupp Heynckes",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_niko_kovac_2019",
+    "name": "Niko Kovač",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_julian_nagelsmann_2022",
+    "name": "Julian Nagelsmann",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vincent_kompany_2025",
+    "name": "Vincent Kompany",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern Munich",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_julian_nagelsmann_2022",
+    "name": "Julian Nagelsmann",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bayern München",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_otto_gloria_1960",
+    "name": "Otto Glória",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Belenenses",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bela_guttmann_1960",
+    "name": "Béla Guttmann",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bela_guttmann_1961",
+    "name": "Béla Guttmann",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_bela_guttmann_1962",
+    "name": "Béla Guttmann",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_lajos_czeizler_1964",
+    "name": "Lajos Czeizler",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_elek_schwartz_1965",
+    "name": "Elek Schwartz",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fernando_riera_1967",
+    "name": "Fernando Riera",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_otto_gloria_1968",
+    "name": "Otto Glória",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jimmy_hagan_1971",
+    "name": "Jimmy Hagan",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_milorad_pavic_1975",
+    "name": "Milorad Pavić",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_john_mortimore_1977",
+    "name": "John Mortimore",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sven_goran_eriksson_1983",
+    "name": "Sven-Göran Eriksson",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sven_goran_eriksson_1984",
+    "name": "Sven-Göran Eriksson",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_john_mortimore_1987",
+    "name": "John Mortimore",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_toni_1989",
+    "name": "Toni",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_artur_jorge_1994",
+    "name": "Artur Jorge",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_artur_jorge_1996",
+    "name": "Artur Jorge",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ronald_koeman_2005",
+    "name": "Ronald Koeman",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fernando_santos_2009",
+    "name": "Fernando Santos",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_jesus_2012",
+    "name": "Jorge Jesus",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_lage_2019",
+    "name": "Bruno Lage",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_nelson_verissimo_2022",
+    "name": "Nélson Veríssimo",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roger_schmidt_2024",
+    "name": "Roger Schmidt",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_lage_2025",
+    "name": "Bruno Lage",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Benfica",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_raphael_wicky_2022",
+    "name": "Raphael Wicky",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Berner Sport Club Young Boys",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_raphael_wicky_2024",
+    "name": "Raphael Wicky",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Berner Sport Club Young Boys",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_patrick_rahmen_2025",
+    "name": "Patrick Rahmen",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Berner Sport Club Young Boys",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_branko_stankovic_1986",
+    "name": "Branko Stanković",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Besiktas",
+    "tier": "B",
+    "overall_rating": 0
+  }
+]

@@ -1,0 +1,986 @@
+[
+    {
+        "team_name": "1. Fußballclub Union Berlin",
+        "year": 2024,
+        "manager_name": "Nenad Bjelica",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "AC Milan",
+        "year": 2024,
+        "manager_name": "Stefano Pioli",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "AC Sparta Praha, a. s.",
+        "year": 2025,
+        "manager_name": "Lars Friis",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "AFC Ajax Amsterdam",
+        "year": 2023,
+        "manager_name": "Alfred Schreuder",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "AFC Ajax Amsterdam",
+        "year": 2026,
+        "manager_name": "Francesco Farioli",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "AS Monaco",
+        "year": 2025,
+        "manager_name": "Adi Hütter",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Arsenal Football Club",
+        "year": 2024,
+        "manager_name": "Mikel Arteta",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Arsenal Football Club",
+        "year": 2025,
+        "manager_name": "Mikel Arteta",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Arsenal Football Club",
+        "year": 2026,
+        "manager_name": "Mikel Arteta",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Association sportive de Monaco Football Club",
+        "year": 2025,
+        "manager_name": "Adi Hütter",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Association sportive de Monaco Football Club",
+        "year": 2026,
+        "manager_name": "Adi Hütter",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Aston Villa",
+        "year": 2025,
+        "manager_name": "Unai Emery",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Aston Villa Football Club",
+        "year": 2025,
+        "manager_name": "Unai Emery",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Atalanta",
+        "year": 2025,
+        "manager_name": "Gian Piero Gasperini",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+        "year": 2025,
+        "manager_name": "Gian Piero Gasperini",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+        "year": 2026,
+        "manager_name": "Gian Piero Gasperini",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Athletic Club Bilbao",
+        "year": 2026,
+        "manager_name": "Ernesto Valverde",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Atlético Madrid",
+        "year": 2024,
+        "manager_name": "Diego Simeone",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Atlético Madrid",
+        "year": 2025,
+        "manager_name": "Diego Simeone",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Barcelona",
+        "year": 2024,
+        "manager_name": "Xavi Hernandez",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Barcelona",
+        "year": 2025,
+        "manager_name": "Hansi Flick",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Bayern Munich",
+        "year": 2025,
+        "manager_name": "Vincent Kompany",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Benfica",
+        "year": 2024,
+        "manager_name": "Roger Schmidt",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Benfica",
+        "year": 2025,
+        "manager_name": "Bruno Lage",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Berner Sport Club Young Boys",
+        "year": 2024,
+        "manager_name": "Raphael Wicky",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Berner Sport Club Young Boys",
+        "year": 2025,
+        "manager_name": "Patrick Rahmen",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Bologna Football Club 1909",
+        "year": 2025,
+        "manager_name": "Vincenzo Italiano",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Borussia Dortmund",
+        "year": 2023,
+        "manager_name": "Edin Terzic",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Borussia Dortmund",
+        "year": 2024,
+        "manager_name": "Edin Terzic",
+        "bonus_malus": 3
+    },
+    {
+        "team_name": "Borussia Dortmund",
+        "year": 2025,
+        "manager_name": "Nuri Sahin",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Borussia Dortmund",
+        "year": 2026,
+        "manager_name": "Niko Kovac",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Brest",
+        "year": 2025,
+        "manager_name": "Eric Roy",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Celtic",
+        "year": 2025,
+        "manager_name": "Brendan Rodgers",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Chelsea Football Club",
+        "year": 2023,
+        "manager_name": "Graham Potter",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Chelsea Football Club",
+        "year": 2026,
+        "manager_name": "Enzo Maresca",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Club Atlético de Madrid S.A.D.",
+        "year": 2023,
+        "manager_name": "Diego Simeone",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Club Atlético de Madrid S.A.D.",
+        "year": 2024,
+        "manager_name": "Diego Simeone",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Club Atlético de Madrid S.A.D.",
+        "year": 2025,
+        "manager_name": "Diego Simeone",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Club Atlético de Madrid S.A.D.",
+        "year": 2026,
+        "manager_name": "Diego Simeone",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Club Brugge",
+        "year": 2025,
+        "manager_name": "Nicky Hayen",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+        "year": 2023,
+        "manager_name": "Ronny Deila",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+        "year": 2025,
+        "manager_name": "Nicky Hayen",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+        "year": 2026,
+        "manager_name": "Nicky Hayen",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Dinamo Zagreb",
+        "year": 2025,
+        "manager_name": "Fabio Cannavaro",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Eintracht Frankfurt Fußball AG",
+        "year": 2023,
+        "manager_name": "Oliver Glasner",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Eintracht Frankfurt Fußball AG",
+        "year": 2026,
+        "manager_name": "Dino Toppmöller",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "FC Bayern München",
+        "year": 2023,
+        "manager_name": "Julian Nagelsmann",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "FC Bayern München",
+        "year": 2024,
+        "manager_name": "Thomas Tuchel",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "FC Bayern München",
+        "year": 2025,
+        "manager_name": "Vincent Kompany",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "FC Bayern München",
+        "year": 2026,
+        "manager_name": "Vincent Kompany",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "FC Porto",
+        "year": 2024,
+        "manager_name": "Sérgio Conceição",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "FC Shakhtar Donetsk",
+        "year": 2023,
+        "manager_name": "Igor Jovićević",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "FC Shakhtar Donetsk",
+        "year": 2024,
+        "manager_name": "Marino Pušić",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "FC Shakhtar Donetsk",
+        "year": 2025,
+        "manager_name": "Marino Pušić",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Feyenoord",
+        "year": 2025,
+        "manager_name": "Brian Priske",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Feyenoord Rotterdam",
+        "year": 2024,
+        "manager_name": "Arne Slot",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Feyenoord Rotterdam",
+        "year": 2025,
+        "manager_name": "Brian Priske",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Football Club Internazionale Milano S.p.A.",
+        "year": 2023,
+        "manager_name": "Simone Inzaghi",
+        "bonus_malus": 3
+    },
+    {
+        "team_name": "Football Club Internazionale Milano S.p.A.",
+        "year": 2024,
+        "manager_name": "Simone Inzaghi",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Football Club Internazionale Milano S.p.A.",
+        "year": 2025,
+        "manager_name": "Simone Inzaghi",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Football Club Internazionale Milano S.p.A.",
+        "year": 2026,
+        "manager_name": "Simone Inzaghi",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Football Club København",
+        "year": 2023,
+        "manager_name": "Jacob Neestrup",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Football Club København",
+        "year": 2024,
+        "manager_name": "Jacob Neestrup",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Football Club København",
+        "year": 2026,
+        "manager_name": "Jacob Neestrup",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Fotballklubben Bodø/Glimt",
+        "year": 2026,
+        "manager_name": "Kjetil Knutsen",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Fudbalski klub Crvena zvezda Beograd",
+        "year": 2024,
+        "manager_name": "Barak Bakhar",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Fudbalski klub Crvena zvezda Beograd",
+        "year": 2025,
+        "manager_name": "Vladan Milojevic",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Futbol Club Barcelona",
+        "year": 2023,
+        "manager_name": "Xavi Hernandez",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Futbol Club Barcelona",
+        "year": 2024,
+        "manager_name": "Xavi Hernandez",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Futbol Club Barcelona",
+        "year": 2025,
+        "manager_name": "Hansi Flick",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Futbol Club Barcelona",
+        "year": 2026,
+        "manager_name": "Hansi Flick",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Futebol Clube do Porto",
+        "year": 2023,
+        "manager_name": "Sergio Conceicao",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Futebol Clube do Porto",
+        "year": 2024,
+        "manager_name": "Sergio Conceicao",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Fußballclub Red Bull Salzburg",
+        "year": 2023,
+        "manager_name": "Matthias Jaissle",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Fußballclub Red Bull Salzburg",
+        "year": 2024,
+        "manager_name": "Gerhard Struber",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Fußballclub Red Bull Salzburg",
+        "year": 2025,
+        "manager_name": "Pepijn Lijnders",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "GNK Dinamo Zagreb",
+        "year": 2023,
+        "manager_name": "Ante Čačić",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "GNK Dinamo Zagreb",
+        "year": 2025,
+        "manager_name": "Fabio Cannavaro",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Galatasaray Spor Kulübü",
+        "year": 2024,
+        "manager_name": "Okan Buruk",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Galatasaray Spor Kulübü",
+        "year": 2026,
+        "manager_name": "Okan Buruk",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Girona",
+        "year": 2025,
+        "manager_name": "Míchel",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Girona Fútbol Club S. A. D.",
+        "year": 2025,
+        "manager_name": "Míchel",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Inter Milan",
+        "year": 2024,
+        "manager_name": "Simone Inzaghi",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Inter Milan",
+        "year": 2025,
+        "manager_name": "Simone Inzaghi",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Juventus",
+        "year": 2025,
+        "manager_name": "Thiago Motta",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Juventus Football Club",
+        "year": 2023,
+        "manager_name": "Massimiliano Allegri",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Juventus Football Club",
+        "year": 2025,
+        "manager_name": "Thiago Motta",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Juventus Football Club",
+        "year": 2026,
+        "manager_name": "Thiago Motta",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Lille",
+        "year": 2025,
+        "manager_name": "Bruno Génésio",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Lille Olympique Sporting Club",
+        "year": 2025,
+        "manager_name": "Bruno Génésio",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Liverpool",
+        "year": 2025,
+        "manager_name": "Arne Slot",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Liverpool Football Club",
+        "year": 2023,
+        "manager_name": "Jürgen Klopp",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Liverpool Football Club",
+        "year": 2025,
+        "manager_name": "Arne Slot",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Liverpool Football Club",
+        "year": 2026,
+        "manager_name": "Arne Slot",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Manchester City",
+        "year": 2025,
+        "manager_name": "Pep Guardiola",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Newcastle United Football Club",
+        "year": 2024,
+        "manager_name": "Eddie Howe",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Newcastle United Football Club",
+        "year": 2026,
+        "manager_name": "Eddie Howe",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Olympiakos Syndesmos Filathlon Peiraios",
+        "year": 2026,
+        "manager_name": "José Luis Mendilibar",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Olympique de Marseille",
+        "year": 2023,
+        "manager_name": "Igor Tudor",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Olympique de Marseille",
+        "year": 2026,
+        "manager_name": "Roberto De Zerbi",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Omonia Nicosia",
+        "year": 2026,
+        "manager_name": "Sofronis Avgousti",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "PSG",
+        "year": 2025,
+        "manager_name": "Luis Enrique",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "PSV Eindhoven",
+        "year": 2024,
+        "manager_name": "Peter Bosz",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "PSV Eindhoven",
+        "year": 2025,
+        "manager_name": "Peter Bosz",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Paris Saint-Germain Football Club",
+        "year": 2023,
+        "manager_name": "Christophe Galtier",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Paris Saint-Germain Football Club",
+        "year": 2024,
+        "manager_name": "Luis Enrique",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Paris Saint-Germain Football Club",
+        "year": 2025,
+        "manager_name": "Luis Enrique",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Paris Saint-Germain Football Club",
+        "year": 2026,
+        "manager_name": "Luis Enrique",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Qarabag FK",
+        "year": 2026,
+        "manager_name": "Gurban Gurbanov",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "RB Leipzig",
+        "year": 2024,
+        "manager_name": "Marco Rose",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "RB Leipzig",
+        "year": 2025,
+        "manager_name": "Marco Rose",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "RB Salzburg",
+        "year": 2025,
+        "manager_name": "Pepijn Lijnders",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Racing Club de Lens",
+        "year": 2024,
+        "manager_name": "Franck Haise",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Rangers Football Club",
+        "year": 2023,
+        "manager_name": "Giovanni van Bronckhorst",
+        "bonus_malus": -2
+    },
+    {
+        "team_name": "RasenBallsport Leipzig",
+        "year": 2023,
+        "manager_name": "Marco Rose",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "RasenBallsport Leipzig",
+        "year": 2024,
+        "manager_name": "Marco Rose",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "RasenBallsport Leipzig",
+        "year": 2025,
+        "manager_name": "Marco Rose",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Real Madrid",
+        "year": 2024,
+        "manager_name": "Carlo Ancelotti",
+        "bonus_malus": 3
+    },
+    {
+        "team_name": "Real Madrid",
+        "year": 2025,
+        "manager_name": "Carlo Ancelotti",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Real Madrid Club de Fútbol",
+        "year": 2023,
+        "manager_name": "Carlo Ancelotti",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Real Madrid Club de Fútbol",
+        "year": 2024,
+        "manager_name": "Carlo Ancelotti",
+        "bonus_malus": 3
+    },
+    {
+        "team_name": "Real Madrid Club de Fútbol",
+        "year": 2025,
+        "manager_name": "Carlo Ancelotti",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Real Madrid Club de Fútbol",
+        "year": 2026,
+        "manager_name": "Carlo Ancelotti",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Real Sociedad",
+        "year": 2024,
+        "manager_name": "Imanol Alguacil",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Real Sociedad de Fútbol S.A.D.",
+        "year": 2024,
+        "manager_name": "Imanol Alguacil",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Red Star Belgrade",
+        "year": 2025,
+        "manager_name": "Vladan Milojevic",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Royal Antwerp",
+        "year": 2024,
+        "manager_name": "Mark van Bommel",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Royal Antwerp Football Club",
+        "year": 2024,
+        "manager_name": "Mark van Bommel",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Royale Union Saint-Gilloise",
+        "year": 2026,
+        "manager_name": "Sébastien Pocognoli",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "SC Braga",
+        "year": 2024,
+        "manager_name": "Artur Jorge",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "SK Slavia Praha, a.s.",
+        "year": 2026,
+        "manager_name": "Jindřich Trpišovský",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sevilla",
+        "year": 2024,
+        "manager_name": "Quique Sánchez Flores",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Sevilla Fútbol Club S.A.D.",
+        "year": 2023,
+        "manager_name": "José Luis Mendilibar",
+        "bonus_malus": 3
+    },
+    {
+        "team_name": "Sevilla Fútbol Club S.A.D.",
+        "year": 2024,
+        "manager_name": "Quique Sánchez Flores",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Shakhtar Donetsk",
+        "year": 2024,
+        "manager_name": "Marino Pusic",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Shakhtar Donetsk",
+        "year": 2025,
+        "manager_name": "Marino Pusic",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sheriff Tiraspol",
+        "year": 2023,
+        "manager_name": "Roberto Bordin",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sheriff Tiraspol",
+        "year": 2026,
+        "manager_name": "Mislav Karoglan",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Società Sportiva Calcio Napoli",
+        "year": 2023,
+        "manager_name": "Luciano Spalletti",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Società Sportiva Calcio Napoli",
+        "year": 2024,
+        "manager_name": "Francesco Calzona",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Società Sportiva Calcio Napoli",
+        "year": 2026,
+        "manager_name": "Antonio Conte",
+        "bonus_malus": 2
+    },
+    {
+        "team_name": "Società Sportiva Lazio S.p.A.",
+        "year": 2024,
+        "manager_name": "Maurizio Sarri",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sparta Prague",
+        "year": 2025,
+        "manager_name": "Lars Friis",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sport Lisboa e Benfica",
+        "year": 2023,
+        "manager_name": "Roger Schmidt",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sport Lisboa e Benfica",
+        "year": 2024,
+        "manager_name": "Roger Schmidt",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Sport Lisboa e Benfica",
+        "year": 2025,
+        "manager_name": "Bruno Lage",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sport Lisboa e Benfica",
+        "year": 2026,
+        "manager_name": "Bruno Lage",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sporting CP",
+        "year": 2025,
+        "manager_name": "João Pereira",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Sporting Clube de Braga",
+        "year": 2024,
+        "manager_name": "Artur Jorge",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sporting Clube de Portugal",
+        "year": 2023,
+        "manager_name": "Rúben Amorim",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sporting Clube de Portugal",
+        "year": 2025,
+        "manager_name": "João Pereira",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "Sporting Clube de Portugal",
+        "year": 2026,
+        "manager_name": "Rúben Amorim",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sportklub Puntigamer Sturm Graz",
+        "year": 2025,
+        "manager_name": "Christian Ilzer",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Stade brestois 29",
+        "year": 2025,
+        "manager_name": "Éric Roy",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Sturm Graz",
+        "year": 2025,
+        "manager_name": "Christian Ilzer",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "The Celtic Football Club",
+        "year": 2023,
+        "manager_name": "Brendan Rodgers",
+        "bonus_malus": -1
+    },
+    {
+        "team_name": "The Celtic Football Club",
+        "year": 2024,
+        "manager_name": "Brendan Rodgers",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "The Celtic Football Club",
+        "year": 2025,
+        "manager_name": "Brendan Rodgers",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Tottenham Hotspur Football Club",
+        "year": 2023,
+        "manager_name": "Ange Postecoglou",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Tottenham Hotspur Football Club",
+        "year": 2026,
+        "manager_name": "Ange Postecoglou",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Verein für Bewegungsspiele Stuttgart 1893",
+        "year": 2025,
+        "manager_name": "Sebastian Hoeneß",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "VfB Stuttgart",
+        "year": 2025,
+        "manager_name": "Sebastian Hoeneß",
+        "bonus_malus": 1
+    },
+    {
+        "team_name": "Villarreal Club de Fútbol S.A.D.",
+        "year": 2026,
+        "manager_name": "Marcelino García Toral",
+        "bonus_malus": 0
+    },
+    {
+        "team_name": "Young Boys",
+        "year": 2025,
+        "manager_name": "Giorgio Contini",
+        "bonus_malus": -2
+    }
+]

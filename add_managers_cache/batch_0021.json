@@ -1,0 +1,392 @@
+[
+  {
+    "player_id": "mgr_jacek_magiera_2017",
+    "name": "Jacek Magiera",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Legia Warszawa",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_craig_shakespeare_2017",
+    "name": "Craig Shakespeare",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Leicester City",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_enrique_oriaola_1965",
+    "name": "Enrique Orizaola",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Levante",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_dobromir_zhechev_1982",
+    "name": "Dobromir Zhechev",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Levski Sofia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vasil_metodiev_1989",
+    "name": "Vasil Metodiev",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Levski Sofia",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jean_michel_cavalli_1996",
+    "name": "Jean-Michel Cavalli",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claude_puel_2006",
+    "name": "Claude Puel",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jocelyn_gourvennec_2022",
+    "name": "Jocelyn Gourvennec",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_genesio_2025",
+    "name": "Bruno Génésio",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_georges_heylens_1986",
+    "name": "Georges Heylens",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille OSC",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claude_puel_2003",
+    "name": "Claude Puel",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille OSC",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rudi_garcia_2013",
+    "name": "Rudi Garcia",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille Olympique Sporting Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_christophe_galtier_2020",
+    "name": "Christophe Galtier",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille Olympique Sporting Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jocelyn_gourvennec_2022",
+    "name": "Jocelyn Gourvennec",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille Olympique Sporting Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_genesio_2025",
+    "name": "Bruno Génésio",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lille Olympique Sporting Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_issac_mcdowell_1966",
+    "name": "Issac McDowell",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Linfield",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bill_shankly_1964",
+    "name": "Bill Shankly",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bill_shankly_1966",
+    "name": "Bill Shankly",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bob_paisley_1976",
+    "name": "Bob Paisley",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_bob_paisley_1977",
+    "name": "Bob Paisley",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_bob_paisley_1980",
+    "name": "Bob Paisley",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_bob_paisley_1981",
+    "name": "Bob Paisley",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_bob_paisley_1982",
+    "name": "Bob Paisley",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_joe_fagan_1983",
+    "name": "Joe Fagan",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_joe_fagan_1984",
+    "name": "Joe Fagan",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gerard_houllier_2001",
+    "name": "Gérard Houllier",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gerard_houllier_2002",
+    "name": "Gérard Houllier",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2004",
+    "name": "Rafael Benítez",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2006",
+    "name": "Rafael Benítez",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2008",
+    "name": "Rafael Benítez",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rafael_benitez_2009",
+    "name": "Rafael Benítez",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kenny_dalglish_2012",
+    "name": "Kenny Dalglish",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2019",
+    "name": "Jürgen Klopp",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2022",
+    "name": "Jürgen Klopp",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_arne_slot_2025",
+    "name": "Arne Slot",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_brendan_rodgers_2015",
+    "name": "Brendan Rodgers",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2018",
+    "name": "Jürgen Klopp",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2019",
+    "name": "Jürgen Klopp",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2020",
+    "name": "Jürgen Klopp",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Liverpool Football Club",
+    "tier": "S",
+    "overall_rating": 1
+  }
+]

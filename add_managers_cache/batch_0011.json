@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_ivan_shchekin_1983",
+    "name": "Ivan Shchekin",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dinamo Minsk",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_nodar_akhalkatsi_1980",
+    "name": "Nodar Akhalkatsi",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dinamo Tbilisi",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miroslav_blazevic_1983",
+    "name": "Miroslav Blažević",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dinamo Zagreb",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fabio_cannavaro_2025",
+    "name": "Fabio Cannavaro",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dinamo Zagreb",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_frank_soo_1955",
+    "name": "Frank Soo",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Djurgårdens IF",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karl_erik_grahn_1960",
+    "name": "Karl-Erik Grahn",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Djurgårdens IF",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gosta_sandberg_1968",
+    "name": "Gösta Sandberg",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Djurgårdens IF",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_volodymyr_yemets_1984",
+    "name": "Volodymyr Yemets",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dnipro Dnipropetrovsk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_yevhen_kucherevskyi_1989",
+    "name": "Yevhen Kucherevskyi",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dnipro Dnipropetrovsk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1960",
+    "name": "Jaroslav Vejvoda",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dukla Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1961",
+    "name": "Jaroslav Vejvoda",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dukla Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1962",
+    "name": "Jaroslav Vejvoda",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dukla Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1963",
+    "name": "Jaroslav Vejvoda",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dukla Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vaclav_jezek_1966",
+    "name": "Václav Ježek",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dukla Prague",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bob_shankly_1962",
+    "name": "Bob Shankly",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dundee",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jim_mclean_1983",
+    "name": "Jim McLean",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dundee United",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_george_farm_1970",
+    "name": "George Farm",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dunfermline Athletic",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_walter_fritzsch_1976",
+    "name": "Walter Fritzsch",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Dresden",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_walter_fritzsch_1978",
+    "name": "Walter Fritzsch",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Dresden",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gerhard_prautzsch_1979",
+    "name": "Gerhard Prautzsch",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Dresden",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_reinhard_hafner_1990",
+    "name": "Reinhard Häfner",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Dresden",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alexander_sevidov_1972",
+    "name": "Alexander Sevidov",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1975",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1976",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1981",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1982",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1986",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1989",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1997",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1998",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_oleg_luzhny_2010",
+    "name": "Oleg Luzhny",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_mircea_lucescu_2022",
+    "name": "Mircea Lucescu",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Kyiv",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_karel_kolsky_1960",
+    "name": "Karel Kolský",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dynamo Praha",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_phillip_cocu_2016",
+    "name": "Phillip Cocu",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_phillip_cocu_2017",
+    "name": "Phillip Cocu",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mark_van_bommel_2019",
+    "name": "Mark van Bommel",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_peter_bosz_2024",
+    "name": "Peter Bosz",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_peter_bosz_2025",
+    "name": "Peter Bosz",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_peter_bosz_2026",
+    "name": "Peter Bosz",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "PSV Eindhoven",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kurt_baluses_1956",
+    "name": "Kurt Baluses",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Eintracht Braunschweig",
+    "tier": "C",
+    "overall_rating": 0
+  }
+]

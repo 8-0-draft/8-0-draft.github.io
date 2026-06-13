@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_massimiliano_allegri_2018",
+    "name": "Massimiliano Allegri",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2019",
+    "name": "Massimiliano Allegri",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_maurizio_sarri_2020",
+    "name": "Maurizio Sarri",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_andrea_pirlo_2021",
+    "name": "Andrea Pirlo",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2022",
+    "name": "Massimiliano Allegri",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_massimiliano_allegri_2023",
+    "name": "Massimiliano Allegri",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_thiago_motta_2025",
+    "name": "Thiago Motta",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_thiago_motta_2026",
+    "name": "Thiago Motta",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Juventus Football Club",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_unknown_1960",
+    "name": "Unknown",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "KB",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_unknown_1968",
+    "name": "Unknown",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "KB Copenhagen",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_aad_de_mos_1989",
+    "name": "Aad de Mos",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "KV Mechelen",
+    "tier": "B",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_hannes_bongartz_1986",
+    "name": "Hannes Bongartz",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Kaiserslautern",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_otto_rehhagel_1998",
+    "name": "Otto Rehhagel",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Kaiserslautern",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_kurt_sommerlatt_1964",
+    "name": "Kurt Sommerlatt",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Karlsruher SC",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zlatko_cajkovski_1977",
+    "name": "Zlatko Čajkovski",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Kickers Offenbach",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hein_vanhaezebrouck_2016",
+    "name": "Hein Vanhaezebrouck",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Koninklijke Atletiek Associatie Gent",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_hannes_wolf_2020",
+    "name": "Hannes Wolf",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Koninklijke Racing Club Genk",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hennes_weisweiler_1978",
+    "name": "Hennes Weisweiler",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Köln",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_kresic_2001",
+    "name": "Sergio Kresic",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Las Palmas",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_friedhelm_konietzka_1976",
+    "name": "Friedhelm Konietzka",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lausanne-Sport",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sven_goran_eriksson_1999",
+    "name": "Sven-Göran Eriksson",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_alberto_zaccheroni_2002",
+    "name": "Alberto Zaccheroni",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2004",
+    "name": "Roberto Mancini",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_delio_rossi_2006",
+    "name": "Delio Rossi",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_delio_rossi_2008",
+    "name": "Delio Rossi",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_davide_ballardini_2010",
+    "name": "Davide Ballardini",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_edoardo_reja_2011",
+    "name": "Edoardo Reja",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_edoardo_reja_2012",
+    "name": "Edoardo Reja",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lazio",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_guy_david_1995",
+    "name": "Guy David",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Le Havre",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zdenek_zeman_2006",
+    "name": "Zdeněk Zeman",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lecce",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_wojciech_lazarek_1982",
+    "name": "Wojciech Łazarek",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Lech Poznań",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_don_revie_1969",
+    "name": "Don Revie",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Leeds United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_don_revie_1974",
+    "name": "Don Revie",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Leeds United",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_david_o_leary_2000",
+    "name": "David O'Leary",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Leeds United",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_david_o_leary_2002",
+    "name": "David O'Leary",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Leeds United",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_eddie_gray_2004",
+    "name": "Eddie Gray",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Leeds United",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_jaroslav_vejvoda_1969",
+    "name": "Jaroslav Vejvoda",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Legia Warsaw",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_edmund_zientara_1970",
+    "name": "Edmund Zientara",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Legia Warsaw",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kazimierz_gorski_1982",
+    "name": "Kazimierz Górski",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Legia Warsaw",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pawel_janas_1995",
+    "name": "Paweł Janas",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Legia Warsaw",
+    "tier": "B",
+    "overall_rating": 1
+  }
+]

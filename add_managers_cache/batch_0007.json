@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_robert_goethals_1981",
+    "name": "Robert Goethals",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beveren",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_senol_gunes_2017",
+    "name": "Şenol Güneş",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beşiktaş Jimnastik Kulübü",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_andrea_kutik_1962",
+    "name": "Andrea Kutik",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beşiktaş",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_branko_stankovic_1986",
+    "name": "Branko Stanković",
+    "year": 1986,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beşiktaş",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valerien_ismael_2022",
+    "name": "Valérien Ismaël",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beşiktaş",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_senol_gunes_2017b",
+    "name": "Şenol Güneş",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beşiktaş Jimnastik Kulübü",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_senol_gunes_2018",
+    "name": "Şenol Güneş",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beşiktaş Jimnastik Kulübü",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valerien_ismael_2022b",
+    "name": "Valérien Ismaël",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Beşiktaş Jimnastik Kulübü",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_jim_smith_1978",
+    "name": "Jim Smith",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Birmingham City",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_steve_bruce_2006",
+    "name": "Steve Bruce",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Birmingham City",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alex_mcleish_2010",
+    "name": "Alex McLeish",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Birmingham City",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jack_marshall_1960",
+    "name": "Jack Marshall",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Blackburn Rovers",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_graeme_souness_2003",
+    "name": "Graeme Souness",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Blackburn Rovers",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_raul_agua_1990",
+    "name": "Raul Água",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Boavista",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_manuel_jose_1993",
+    "name": "Manuel José",
+    "year": 1993,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Boavista",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_manuel_jose_1994",
+    "name": "Manuel José",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Boavista",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jaime_pacheco_1996",
+    "name": "Jaime Pacheco",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Boavista",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlos_bilardo_1996",
+    "name": "Carlos Bilardo",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Boca Juniors",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlos_bianchi_2002",
+    "name": "Carlos Bianchi",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Boca Juniors",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_alfio_basile_2006",
+    "name": "Alfio Basile",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Boca Juniors",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_carniglia_1968",
+    "name": "Luis Carniglia",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bologna",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carlo_mazzone_1998",
+    "name": "Carlo Mazzone",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bologna",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_francesco_guidolin_2002",
+    "name": "Francesco Guidolin",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bologna",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vincenzo_italiano_2025",
+    "name": "Vincenzo Italiano",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bologna Football Club 1909",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_aime_jacquet_1984",
+    "name": "Aimé Jacquet",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bordeaux",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_aime_jacquet_1987",
+    "name": "Aimé Jacquet",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bordeaux",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_elie_baup_2000",
+    "name": "Élie Baup",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bordeaux",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jean_tigana_2010",
+    "name": "Jean Tigana",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Bordeaux",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_helmut_schneider_1957",
+    "name": "Helmut Schneider",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hermann_eppenhoff_1963",
+    "name": "Hermann Eppenhoff",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ottmar_hitzfeld_1994",
+    "name": "Ottmar Hitzfeld",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ottmar_hitzfeld_1995",
+    "name": "Ottmar Hitzfeld",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ottmar_hitzfeld_1996",
+    "name": "Ottmar Hitzfeld",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_nevio_scala_1997",
+    "name": "Nevio Scala",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2013",
+    "name": "Jürgen Klopp",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jurgen_klopp_2014",
+    "name": "Jürgen Klopp",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_thomas_tuchel_2015",
+    "name": "Thomas Tuchel",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_peter_bosz_2017",
+    "name": "Peter Bosz",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_lucien_favre_2018",
+    "name": "Lucien Favre",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lucien_favre_2019",
+    "name": "Lucien Favre",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Borussia Dortmund",
+    "tier": "A",
+    "overall_rating": 0
+  }
+]

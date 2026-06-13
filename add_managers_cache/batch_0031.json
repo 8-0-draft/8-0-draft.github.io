@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_nils_liedholm_1983",
+    "name": "Nils Liedholm",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_fabio_capello_2001",
+    "name": "Fabio Capello",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_fabio_capello_2003",
+    "name": "Fabio Capello",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2006",
+    "name": "Luciano Spalletti",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2008",
+    "name": "Luciano Spalletti",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2009",
+    "name": "Claudio Ranieri",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_enrique_2011",
+    "name": "Luis Enrique",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_eusebio_di_francesco_2019",
+    "name": "Eusebio Di Francesco",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Roma",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_angel_tulio_zof_1996",
+    "name": "Ángel Tulio Zof",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rosario Central",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_nils_arne_eggen_1996",
+    "name": "Nils Arne Eggen",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rosenborg",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_guy_thys_1974",
+    "name": "Guy Thys",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royal Antwerp",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mark_van_bommel_2024",
+    "name": "Mark van Bommel",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royal Antwerp",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_mark_van_bommel_2024",
+    "name": "Mark van Bommel",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royal Antwerp Football Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_john_van_den_brom_2013",
+    "name": "John van den Brom",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royal Sporting Club Anderlecht",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_besnik_hasi_2014",
+    "name": "Besnik Hasi",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royal Sporting Club Anderlecht",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_besnik_hasi_2015",
+    "name": "Besnik Hasi",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royal Sporting Club Anderlecht",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hein_vanhaezebrouck_2018",
+    "name": "Hein Vanhaezebrouck",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royal Sporting Club Anderlecht",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_sebastien_pocognoli_2026",
+    "name": "Sébastien Pocognoli",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Royale Union Saint-Gilloise",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_michal_vican_1974",
+    "name": "Michal Vičan",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ruch Chorzów",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_artur_jorge_2024",
+    "name": "Artur Jorge",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "SC Braga",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_laurentiu_reghecampf_2014",
+    "name": "Laurențiu Reghecampf",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "SC Fotbal Club FCSB SA",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gerhard_hofmann_1958",
+    "name": "Gerhard Hofmann",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "SC Wismut Karl-Marx-Stadt",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jindrich_trpisovsky_2020",
+    "name": "Jindřich Trpišovský",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "SK Slavia Praha, a.s.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jindrich_trpisovsky_2026",
+    "name": "Jindřich Trpišovský",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "SK Slavia Praha, a.s.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paolo_mazza_1956",
+    "name": "Paolo Mazza",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "SPAL",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_robert_herbin_1974",
+    "name": "Robert Herbin",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Saint-Étienne",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_robert_herbin_1975",
+    "name": "Robert Herbin",
+    "year": 1975,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Saint-Étienne",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_robert_herbin_1976",
+    "name": "Robert Herbin",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Saint-Étienne",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_delio_rossi_1996",
+    "name": "Delio Rossi",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Salernitana",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vujadin_boskov_1991",
+    "name": "Vujadin Boškov",
+    "year": 1991,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sampdoria",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_sven_goran_eriksson_1997",
+    "name": "Sven-Göran Eriksson",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sampdoria",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ciro_ferrara_2012",
+    "name": "Ciro Ferrara",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sampdoria",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_eddi_fruhwirth_1958",
+    "name": "Eddi Frühwirth",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Schalke 04",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_mirko_slomka_2008",
+    "name": "Mirko Slomka",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Schalke 04",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_felix_magath_2010",
+    "name": "Felix Magath",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Schalke 04",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ralf_rangnick_2011",
+    "name": "Ralf Rangnick",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Schalke 04",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_domenico_tedesco_2019",
+    "name": "Domenico Tedesco",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Schalke 04",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_peter_pazmandy_1978",
+    "name": "Péter Pázmándy",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Servette",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1957",
+    "name": "Helenio Herrera",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1982",
+    "name": "Miguel Muñoz",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sevilla",
+    "tier": "A",
+    "overall_rating": 0
+  }
+]

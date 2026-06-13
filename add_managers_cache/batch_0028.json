@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_pepijn_lijnders_2025",
+    "name": "Pepijn Lijnders",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RB Salzburg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karel_michl_1956",
+    "name": "Karel Michl",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RC Lens",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paul_baron_1956",
+    "name": "Paul Baron",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RC Paris",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_pierre_pibarot_1962",
+    "name": "Pierre Pibarot",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RC Paris",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_urbain_braems_1974",
+    "name": "Urbain Braems",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RSC Anderlecht",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_franck_haise_2024",
+    "name": "Franck Haise",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Racing Club de Lens",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marcos_alonso_1996",
+    "name": "Marcos Alonso",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Racing Santander",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_gustavo_benitez_2000",
+    "name": "Gustavo Benítez",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Racing Santander",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miguel_angel_portugal_2010",
+    "name": "Miguel Ángel Portugal",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Racing Santander",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_scot_symon_1959",
+    "name": "Scot Symon",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rangers",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_scot_symon_1961",
+    "name": "Scot Symon",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rangers",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_scot_symon_1964",
+    "name": "Scot Symon",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rangers",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_john_greig_1978",
+    "name": "John Greig",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rangers",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_graeme_souness_1987",
+    "name": "Graeme Souness",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rangers",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_giovanni_van_bronckhorst_2023",
+    "name": "Giovanni van Bronckhorst",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rangers Football Club",
+    "tier": "B",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_viktor_hierlander_1955",
+    "name": "Viktor Hierländer",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rapid Vienna",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_robert_korner_1960",
+    "name": "Robert Körner",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rapid Vienna",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_rudolf_vytlacil_1968",
+    "name": "Rudolf Vytlačil",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rapid Vienna",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_otto_baric_1983",
+    "name": "Otto Barić",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rapid Vienna",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_otto_baric_1983",
+    "name": "Otto Barić",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Rapid Wien",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ralph_hasenhuttl_2018",
+    "name": "Ralph Hasenhüttl",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RasenBallsport Leipzig",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_julian_nagelsmann_2020",
+    "name": "Julian Nagelsmann",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RasenBallsport Leipzig",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_julian_nagelsmann_2021",
+    "name": "Julian Nagelsmann",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RasenBallsport Leipzig",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jesse_marsch_2022",
+    "name": "Jesse Marsch",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RasenBallsport Leipzig",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_marco_rose_2023",
+    "name": "Marco Rose",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RasenBallsport Leipzig",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marco_rose_2024",
+    "name": "Marco Rose",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RasenBallsport Leipzig",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marco_rose_2025",
+    "name": "Marco Rose",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "RasenBallsport Leipzig",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fernando_daucik_1957",
+    "name": "Fernando Daucik",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Betis",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_aragones_1998",
+    "name": "Luis Aragonés",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Betis",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lorenzo_serra_ferrer_2006",
+    "name": "Lorenzo Serra Ferrer",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Betis",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_villalonga_1955",
+    "name": "José Villalonga",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_jose_villalonga_1956",
+    "name": "José Villalonga",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_luis_carniglia_1957",
+    "name": "Luis Carniglia",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_luis_carniglia_1958",
+    "name": "Luis Carniglia",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1959",
+    "name": "Miguel Muñoz",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1960",
+    "name": "Miguel Muñoz",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1961",
+    "name": "Miguel Muñoz",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1963",
+    "name": "Miguel Muñoz",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1964",
+    "name": "Miguel Muñoz",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miguel_munoz_1965",
+    "name": "Miguel Muñoz",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Real Madrid",
+    "tier": "S",
+    "overall_rating": 3
+  }
+]

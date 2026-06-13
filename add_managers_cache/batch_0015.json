@@ -1,0 +1,382 @@
+[
+  {
+    "player_id": "mgr_erwin_koeman_2006",
+    "name": "Erwin Koeman",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_brian_priske_2025",
+    "name": "Brian Priske",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_giovanni_van_bronckhorst_2018",
+    "name": "Giovanni van Bronckhorst",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord Rotterdam",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arne_slot_2024",
+    "name": "Arne Slot",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord Rotterdam",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_brian_priske_2025",
+    "name": "Brian Priske",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Feyenoord Rotterdam",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_fulvio_bernardini_1956",
+    "name": "Fulvio Bernardini",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fiorentina",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_bruno_pesaola_1969",
+    "name": "Bruno Pesaola",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fiorentina",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergio_santarelli_1989",
+    "name": "Sergio Santarelli",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fiorentina",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_cesare_prandelli_2009",
+    "name": "Cesare Prandelli",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fiorentina",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sinisa_mihajlovic_2010",
+    "name": "Sinisa Mihajlovic",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fiorentina",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paulo_cesar_carpegiani_1982",
+    "name": "Paulo Cesar Carpegiani",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Flamengo",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_cuca_2009",
+    "name": "Cuca",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Flamengo",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_vanderlei_luxemburgo_2011",
+    "name": "Vanderlei Luxemburgo",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Flamengo",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rene_simoes_2008",
+    "name": "Rene Simoes",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fluminense",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_muricy_ramalho_2010",
+    "name": "Muricy Ramalho",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fluminense",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bo_henriksen_2021",
+    "name": "Bo Henriksen",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fodbold Club Midtjylland",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kasper_hjulmand_2013",
+    "name": "Kasper Hjulmand",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fodbold Club Nordsjælland",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_zdnek_zeman_1994",
+    "name": "Zdenek Zeman",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Foggia",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2019",
+    "name": "Luciano Spalletti",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_antonio_conte_2020",
+    "name": "Antonio Conte",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_antonio_conte_2021",
+    "name": "Antonio Conte",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2022",
+    "name": "Simone Inzaghi",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2023",
+    "name": "Simone Inzaghi",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2024",
+    "name": "Simone Inzaghi",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2025",
+    "name": "Simone Inzaghi",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2026",
+    "name": "Simone Inzaghi",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club Internazionale Milano S.p.A.",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stale_solbakken_2014",
+    "name": "Stale Solbakken",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club København",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stale_solbakken_2017",
+    "name": "Stale Solbakken",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club København",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jacob_neestrup_2023",
+    "name": "Jacob Neestrup",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club København",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jacob_neestrup_2024",
+    "name": "Jacob Neestrup",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club København",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jacob_neestrup_2026",
+    "name": "Jacob Neestrup",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Football Club København",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hermann_lindemann_1957",
+    "name": "Hermann Lindemann",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fortuna Düsseldorf",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_han_berger_1987",
+    "name": "Han Berger",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fortuna Sittard",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_paulo_sergio_2013",
+    "name": "Paulo Sergio",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fotbal Club CFR 1907 Cluj SA",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kjetil_knutsen_2026",
+    "name": "Kjetil Knutsen",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fotballklubben Bodø/Glimt",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_erling_sorensen_1960",
+    "name": "Erling Sorensen",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Frem",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_vladan_milojevic_2019",
+    "name": "Vladan Milojevic",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fudbalski klub Crvena zvezda Beograd",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_barak_bakhar_2024",
+    "name": "Barak Bakhar",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Fudbalski klub Crvena zvezda Beograd",
+    "tier": "B",
+    "overall_rating": -1
+  }
+]

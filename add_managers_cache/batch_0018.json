@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_ernst_happel_1982",
+    "name": "Ernst Happel",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hamburger SV",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_gerd_volker_schock_1990",
+    "name": "Gerd-Volker Schock",
+    "year": 1990,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hamburger SV",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_kobi_refua_2022",
+    "name": "Kobi Refua",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hapoel Tel Aviv",
+    "tier": "C",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_tommy_walker_1959",
+    "name": "Tommy Walker",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Heart of Midlothian",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_hugh_shaw_1955",
+    "name": "Hugh Shaw",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hibernian",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_julian_nagelsmann_2019",
+    "name": "Julian Nagelsmann",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Hoffenheim",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sven_andreasson_1960",
+    "name": "Sven Andreasson",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IF Elfsborg",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_walter_probst_1960",
+    "name": "Walter Probst",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Göteborg",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_bjorn_westerberg_1984",
+    "name": "Björn Westerberg",
+    "year": 1984,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Göteborg",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gunder_bengtsson_1985",
+    "name": "Gunder Bengtsson",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Göteborg",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gunder_bengtsson_1988",
+    "name": "Gunder Bengtsson",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Göteborg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roger_gustafsson_1994",
+    "name": "Roger Gustafsson",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Göteborg",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_erik_holmqvist_1955",
+    "name": "Erik Holmqvist",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Norrköping",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_george_raynor_1960",
+    "name": "George Raynor",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Norrköping",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_george_raynor_1971",
+    "name": "George Raynor",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Norrköping",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_olle_nordahl_1974",
+    "name": "Olle Nordahl",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Norrköping",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_kent_karlsson_1994",
+    "name": "Kent Karlsson",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Norrköping",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_kent_karlsson_1996",
+    "name": "Kent Karlsson",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "IFK Norrköping",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_roberto_scarone_1957",
+    "name": "Roberto Scarone",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Independiente",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1963",
+    "name": "Helenio Herrera",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1964",
+    "name": "Helenio Herrera",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_giovanni_invernizzi_1971",
+    "name": "Giovanni Invernizzi",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_eugenio_bersellini_1980",
+    "name": "Eugenio Bersellini",
+    "year": 1980,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luigi_simoni_1998",
+    "name": "Luigi Simoni",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marcello_lippi_1999",
+    "name": "Marcello Lippi",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_hector_cuper_2002",
+    "name": "Héctor Cúper",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2005",
+    "name": "Roberto Mancini",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2006",
+    "name": "Roberto Mancini",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roberto_mancini_2008",
+    "name": "Roberto Mancini",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2009",
+    "name": "José Mourinho",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jose_mourinho_2010",
+    "name": "José Mourinho",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_leonardo_2011",
+    "name": "Leonardo",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2012",
+    "name": "Claudio Ranieri",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_simone_inzaghi_2022",
+    "name": "Simone Inzaghi",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_luigi_ferrero_1957",
+    "name": "Luigi Ferrero",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1963",
+    "name": "Helenio Herrera",
+    "year": 1963,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1964",
+    "name": "Helenio Herrera",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1965",
+    "name": "Helenio Herrera",
+    "year": 1965,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_helenio_herrera_1966",
+    "name": "Helenio Herrera",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_giovanni_invernizzi_1971",
+    "name": "Giovanni Invernizzi",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Inter Milan",
+    "tier": "B",
+    "overall_rating": 1
+  }
+]

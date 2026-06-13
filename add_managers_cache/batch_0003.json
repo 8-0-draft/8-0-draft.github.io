@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_filippo_inzaghi_2014",
+    "name": "Filippo Inzaghi",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_stefano_pioli_2022",
+    "name": "Stefano Pioli",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_stefano_pioli_2023",
+    "name": "Stefano Pioli",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_stefano_pioli_2024",
+    "name": "Stefano Pioli",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_paulo_fonseca_2025",
+    "name": "Paulo Fonseca",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AC Milan",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rudi_garcia_2015",
+    "name": "Rudi Garcia",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Roma",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2016",
+    "name": "Luciano Spalletti",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Roma",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_eusebio_di_francesco_2018",
+    "name": "Eusebio Di Francesco",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Roma",
+    "tier": "B",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_eusebio_di_francesco_2019",
+    "name": "Eusebio Di Francesco",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Roma",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_eric_houghton_1957",
+    "name": "Eric Houghton",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aston Villa",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ron_saunders_1981",
+    "name": "Ron Saunders",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aston Villa",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_tony_barton_1982",
+    "name": "Tony Barton",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aston Villa",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_david_oleary_2006",
+    "name": "David O'Leary",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aston Villa",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_unai_emery_2025",
+    "name": "Unai Emery",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aston Villa",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_unai_emery_2025_avfc",
+    "name": "Unai Emery",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aston Villa Football Club",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gian_piero_gasperini_2022",
+    "name": "Gian Piero Gasperini",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atalanta",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gian_piero_gasperini_2025",
+    "name": "Gian Piero Gasperini",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atalanta",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gian_piero_gasperini_2020",
+    "name": "Gian Piero Gasperini",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gian_piero_gasperini_2021",
+    "name": "Gian Piero Gasperini",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gian_piero_gasperini_2022_abc",
+    "name": "Gian Piero Gasperini",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gian_piero_gasperini_2025_abc",
+    "name": "Gian Piero Gasperini",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_gian_piero_gasperini_2026",
+    "name": "Gian Piero Gasperini",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atalanta Bergamasca Calcio S.p.a.",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ferdinand_daucik_1956",
+    "name": "Ferdinand Daučík",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Athletic Bilbao",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_javier_clemente_1982",
+    "name": "Javier Clemente",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Athletic Bilbao",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2015",
+    "name": "Ernesto Valverde",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Athletic Club Bilbao",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2026",
+    "name": "Ernesto Valverde",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Athletic Club Bilbao",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_miguel_cardoso_2019",
+    "name": "Miguel Cardoso",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AEK Athens",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_cesar_ferrando_2004",
+    "name": "César Ferrando",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atletico Madrid",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_diego_simeone_2019",
+    "name": "Diego Simeone",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atletico Madrid",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jose_villalonga_1956",
+    "name": "José Villalonga",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ferdinand_daucik_1958",
+    "name": "Ferdinand Daučík",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marcel_domingo_1970",
+    "name": "Marcel Domingo",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_max_merkel_1973",
+    "name": "Max Merkel",
+    "year": 1973,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_aragones_1977",
+    "name": "Luis Aragonés",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_radomir_antic_1996",
+    "name": "Radomir Antić",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_arrigo_sacchi_1999",
+    "name": "Arrigo Sacchi",
+    "year": 1999,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "S",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2000",
+    "name": "Claudio Ranieri",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "A",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_javier_aguirre_2008",
+    "name": "Javier Aguirre",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_abel_resino_2009",
+    "name": "Abel Resino",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_quique_sanchez_flores_2010",
+    "name": "Quique Sánchez Flores",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Atlético Madrid",
+    "tier": "B",
+    "overall_rating": 2
+  }
+]

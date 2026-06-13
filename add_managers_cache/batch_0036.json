@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_albert_celades_2020",
+    "name": "Albert Celades",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Valencia Club de Fútbol S. A. D.",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rudolf_illovszky_1967",
+    "name": "Rudolf Illovszky",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vasas",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lajos_baroti_1956",
+    "name": "Lajos Baróti",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vasas Budapest",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rudolf_illovszky_1957",
+    "name": "Rudolf Illovszky",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vasas Budapest",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rudolf_illovszky_1957_2",
+    "name": "Rudolf Illovszky",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vasas SC",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rudolf_illovszky_1964",
+    "name": "Rudolf Illovszky",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vasas SC",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rudolf_illovszky_1967_2",
+    "name": "Rudolf Illovszky",
+    "year": 1967,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vasas SC",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rudolf_illovszky_1968",
+    "name": "Rudolf Illovszky",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vasas SC",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sebastian_hoeness_2025",
+    "name": "Sebastian Hoeneß",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Verein für Bewegungsspiele Stuttgart 1893",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_dieter_hecking_2016",
+    "name": "Dieter Hecking",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Verein für Leibesübungen Wolfsburg",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_florian_kohfeldt_2022",
+    "name": "Florian Kohfeldt",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Verein für Leibesübungen Wolfsburg",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_alberto_malesani_2002",
+    "name": "Alberto Malesani",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Verona",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_christian_gross_2010",
+    "name": "Christian Gross",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "VfB Stuttgart",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_sebastian_hoeness_2025_2",
+    "name": "Sebastian Hoeneß",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "VfB Stuttgart",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_florian_kohfeldt_2022_2",
+    "name": "Florian Kohfeldt",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "VfL Wolfsburg",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2005",
+    "name": "Manuel Pellegrini",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Villarreal",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2009",
+    "name": "Manuel Pellegrini",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Villarreal",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_unai_emery_2022",
+    "name": "Unai Emery",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Villarreal",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_unai_emery_2022_2",
+    "name": "Unai Emery",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Villarreal Club de Fútbol S.A.D.",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_marcelino_garcia_toral_2026",
+    "name": "Marcelino García Toral",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Villarreal Club de Fútbol S.A.D.",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marinho_1989",
+    "name": "Marinho",
+    "year": 1989,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vitória de Guimarães",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_branko_stankovic_1966",
+    "name": "Branko Stanković",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vojvodina",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_vasyl_sachko_2016",
+    "name": "Vasyl Sachko",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vorskla Poltava",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_gerhard_korner_1969",
+    "name": "Gerhard Körner",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vorwärts Berlin",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_martin_andresen_2012",
+    "name": "Martin Andresen",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vålerenga",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_marton_bukovi_1955",
+    "name": "Márton Bukovi",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Vörös Lobogó (MTK Budapest)",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_otto_rehhagel_1988",
+    "name": "Otto Rehhagel",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Werder Bremen",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_thomas_schaaf_2010",
+    "name": "Thomas Schaaf",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Werder Bremen",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_thomas_schaaf_2011",
+    "name": "Thomas Schaaf",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Werder Bremen",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_bryan_robson_2006",
+    "name": "Bryan Robson",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "West Bromwich Albion",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_wladyslaw_zmuda_1982",
+    "name": "Władysław Żmuda",
+    "year": 1982,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Widzew Łódź",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_josef_argauer_1958",
+    "name": "Josef Argauer",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Wiener Sport-Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_josef_argauer_1959",
+    "name": "Josef Argauer",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Wiener Sport-Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_frantisek_fadrhonc_1959",
+    "name": "František Fadrhonc",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Willem II",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_dennis_van_wijk_2006",
+    "name": "Dennis van Wijk",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Willem II",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_oleg_bazilevich_1978",
+    "name": "Oleg Bazilevich",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Wisła Kraków",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_florian_kohfeldt_2022_3",
+    "name": "Florian Kohfeldt",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Wolfsburg",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_stan_cullis_1959",
+    "name": "Stan Cullis",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Wolverhampton Wanderers",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_albert_sing_1958",
+    "name": "Albert Sing",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Young Boys",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_kurt_linder_1976",
+    "name": "Kurt Linder",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Young Boys",
+    "tier": "B",
+    "overall_rating": 0
+  }
+]

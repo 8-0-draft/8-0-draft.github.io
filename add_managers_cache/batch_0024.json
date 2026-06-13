@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_raymond_goethals_1992",
+    "name": "Raymond Goethals",
+    "year": 1992,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Marseille",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_bernard_casoni_2000",
+    "name": "Bernard Casoni",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Marseille",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2011",
+    "name": "Didier Deschamps",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Marseille",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2012",
+    "name": "Didier Deschamps",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Marseille",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_pedro_martins_2012",
+    "name": "Pedro Martins",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Marítimo",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_joel_muller_2006",
+    "name": "Joël Muller",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Metz",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2002",
+    "name": "Carlo Ancelotti",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2006",
+    "name": "Carlo Ancelotti",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Milan",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2008",
+    "name": "Carlo Ancelotti",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Milan",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leonardo_2010",
+    "name": "Leonardo",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Milan",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jean_tigana_1997",
+    "name": "Jean Tigana",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Monaco",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2003",
+    "name": "Didier Deschamps",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Monaco",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_leonardo_jardim_2019",
+    "name": "Leonardo Jardim",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Monaco",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_miguel_herrera_2005",
+    "name": "Miguel Herrera",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Monterrey",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rene_girard_2013",
+    "name": "René Girard",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Montpellier HSC",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2010",
+    "name": "Manuel Pellegrini",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Málaga",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2011",
+    "name": "Manuel Pellegrini",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Málaga",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_manuel_pellegrini_2013",
+    "name": "Manuel Pellegrini",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Málaga CF",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bojan_prasnikar_1994",
+    "name": "Bojan Prašnikar",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "NK Maribor",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jean-claude_suaudeau_1995",
+    "name": "Jean-Claude Suaudeau",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Nantes",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_bruno_pesaola_1962",
+    "name": "Bruno Pesaola",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Napoli",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_walter_mazzarri_2012",
+    "name": "Walter Mazzarri",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Napoli",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_carlo_ancelotti_2019",
+    "name": "Carlo Ancelotti",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Napoli",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_stan_seymour_1957",
+    "name": "Stan Seymour",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Newcastle United",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_graeme_souness_2005",
+    "name": "Graeme Souness",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Newcastle United",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_eddie_howe_2024",
+    "name": "Eddie Howe",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Newcastle United Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_eddie_howe_2026",
+    "name": "Eddie Howe",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Newcastle United Football Club",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jean-marc_guillou_1976",
+    "name": "Jean-Marc Guillou",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Nice",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_brian_clough_1978",
+    "name": "Brian Clough",
+    "year": 1978,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Nottingham Forest",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_brian_clough_1979",
+    "name": "Brian Clough",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Nottingham Forest",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_miljan_miljanic_1970",
+    "name": "Miljan Miljanić",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "OFK Beograd",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_carniglia_1956",
+    "name": "Luis Carniglia",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "OGC Nice",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jean_luciano_1959",
+    "name": "Jean Luciano",
+    "year": 1959,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "OGC Nice",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_constantin_olteanu_1983",
+    "name": "Constantin Olteanu",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olt Scornicești",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_lakis_petropoulos_1974",
+    "name": "Lakis Petropoulos",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiacos",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_dusan_bajevic_1998",
+    "name": "Dušan Bajević",
+    "year": 1998,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiacos",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_takis_lemonis_2001",
+    "name": "Takis Lemonis",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiacos",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_takis_lemonis_2008",
+    "name": "Takis Lemonis",
+    "year": 2008,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiacos",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2010",
+    "name": "Ernesto Valverde",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiacos",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernesto_valverde_2012",
+    "name": "Ernesto Valverde",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Olympiacos",
+    "tier": "A",
+    "overall_rating": 0
+  }
+]

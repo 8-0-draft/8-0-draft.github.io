@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_joao_pereira_2025",
+    "name": "João Pereira",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting CP",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_jose_peseiro_2013",
+    "name": "José Peseiro",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Braga",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_artur_jorge_2024",
+    "name": "Artur Jorge",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Braga",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marco_silva_2015",
+    "name": "Marco Silva",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Portugal",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_jesus_2017",
+    "name": "Jorge Jesus",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Portugal",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_jesus_2018",
+    "name": "Jorge Jesus",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Portugal",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_ruben_amorim_2022",
+    "name": "Rúben Amorim",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Portugal",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ruben_amorim_2023",
+    "name": "Rúben Amorim",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Portugal",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_joao_pereira_2025_scp",
+    "name": "João Pereira",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Portugal",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_ruben_amorim_2026",
+    "name": "Rúben Amorim",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Clube de Portugal",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luis_molowny_1977",
+    "name": "Luis Molowny",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Gijón",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_miguel_angel_lotina_2000",
+    "name": "Miguel Ángel Lotina",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sporting Gijón",
+    "tier": "C",
+    "overall_rating": -2
+  },
+  {
+    "player_id": "mgr_christian_ilzer_2025",
+    "name": "Christian Ilzer",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sportklub Puntigamer Sturm Graz",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_bruno_genesio_2021",
+    "name": "Bruno Génésio",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stade Rennais Football Club",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_eric_roy_2025",
+    "name": "Éric Roy",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stade brestois 29",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_albert_batteux_1955",
+    "name": "Albert Batteux",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stade de Reims",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_albert_batteux_1956",
+    "name": "Albert Batteux",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stade de Reims",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_albert_batteux_1958",
+    "name": "Albert Batteux",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stade de Reims",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_albert_batteux_1962",
+    "name": "Albert Batteux",
+    "year": 1962,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stade de Reims",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_general_1958",
+    "name": "Géza Kalocsay",
+    "year": 1958,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Standard Liège",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_geza_kalocsay_1961",
+    "name": "Géza Kalocsay",
+    "year": 1961,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Standard Liège",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rene_hauss_1969",
+    "name": "René Hauss",
+    "year": 1969,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Standard Liège",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rene_hauss_1971",
+    "name": "René Hauss",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Standard Liège",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_enver_hadziabdic_1974",
+    "name": "Enver Hadžiabdić",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Standard Liège",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernst_happel_1981",
+    "name": "Ernst Happel",
+    "year": 1981,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Standard Liège",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_florin_halagian_1985",
+    "name": "Florin Halagian",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Steaua Bucuresti",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_emerich_jenei_1987",
+    "name": "Emerich Jenei",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Steaua Bucuresti",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_emerich_jenei_1988",
+    "name": "Emerich Jenei",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Steaua Bucuresti",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_emerich_jenei_1985",
+    "name": "Emerich Jenei",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Steaua București",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_anghel_iordanescu_1987",
+    "name": "Anghel Iordănescu",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Steaua București",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_anghel_iordanescu_1988",
+    "name": "Anghel Iordănescu",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Steaua București",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_gilbert_gress_1979",
+    "name": "Gilbert Gress",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Strasbourg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jacky_duguperoux_1996",
+    "name": "Jacky Duguépéroux",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Strasbourg",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ivica_osim_1996",
+    "name": "Ivica Osim",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sturm Graz",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_christian_ilzer_2025_sk",
+    "name": "Christian Ilzer",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Sturm Graz",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_matthias_sammer_2005",
+    "name": "Matthias Sammer",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stuttgart",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_markus_babbel_2009",
+    "name": "Markus Babbel",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stuttgart",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_christian_gross_2010",
+    "name": "Christian Gross",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Stuttgart",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_tite_2006",
+    "name": "Tite",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "São Paulo",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_neil_lennon_2013",
+    "name": "Neil Lennon",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "The Celtic Football Club",
+    "tier": "B",
+    "overall_rating": 1
+  }
+]

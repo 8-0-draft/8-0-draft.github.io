@@ -1,0 +1,392 @@
+[
+  {
+    "player_id": "mgr_erik_ten_hag_2022",
+    "name": "Erik ten Hag",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_alfred_schreuder_2023",
+    "name": "Alfred Schreuder",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_francesco_farioli_2026",
+    "name": "Francesco Farioli",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AFC Ajax Amsterdam",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2013",
+    "name": "Luciano Spalletti",
+    "year": 2013,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2014",
+    "name": "Luciano Spalletti",
+    "year": 2014,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_andre_villas-boas_2015",
+    "name": "André Villas-Boas",
+    "year": 2015,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_andre_villas-boas_2016",
+    "name": "André Villas-Boas",
+    "year": 2016,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_sergei_semak_2020",
+    "name": "Sergei Semak",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_sergei_semak_2021",
+    "name": "Sergei Semak",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_sergei_semak_2022",
+    "name": "Sergei Semak",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AO FK Zenit Sankt-Peterburg",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_ivan_jovanovic_2012",
+    "name": "Ivan Jovanovic",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "APOEL Nicosia",
+    "tier": "C",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_jose_faria_1987",
+    "name": "José Faria",
+    "year": 1987,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS FAR",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_1988",
+    "name": "Arsène Wenger",
+    "year": 1988,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Monaco",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_arsene_wenger_1993",
+    "name": "Arsène Wenger",
+    "year": 1993,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Monaco",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_jean_tigana_1997",
+    "name": "Jean Tigana",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Monaco",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_didier_deschamps_2003",
+    "name": "Didier Deschamps",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Monaco",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_adi_hutter_2025",
+    "name": "Adi Hütter",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Monaco",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_luciano_spalletti_2009",
+    "name": "Luciano Spalletti",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Roma",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_claudio_ranieri_2011",
+    "name": "Claudio Ranieri",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Roma",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jean_snella_1956",
+    "name": "Jean Snella",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Saint-Étienne",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_robert_herbin_1974",
+    "name": "Robert Herbin",
+    "year": 1974,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "AS Saint-Étienne",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_geza_toldi_1960",
+    "name": "Géza Toldi",
+    "year": 1960,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aarhus GF",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_alex_ferguson_1985",
+    "name": "Alex Ferguson",
+    "year": 1985,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Aberdeen",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karl_humenberger_1955",
+    "name": "Karl Humenberger",
+    "year": 1955,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karl_humenberger_1956",
+    "name": "Karl Humenberger",
+    "year": 1956,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_karl_humenberger_1957",
+    "name": "Karl Humenberger",
+    "year": 1957,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rinus_michels_1966",
+    "name": "Rinus Michels",
+    "year": 1966,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_rinus_michels_1968",
+    "name": "Rinus Michels",
+    "year": 1968,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rinus_michels_1970",
+    "name": "Rinus Michels",
+    "year": 1970,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_rinus_michels_1971",
+    "name": "Rinus Michels",
+    "year": 1971,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_stefan_kovacs_1972",
+    "name": "Stefan Kovacs",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "A",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_tomislav_ivic_1977",
+    "name": "Tomislav Ivic",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_cor_brom_1979",
+    "name": "Cor Brom",
+    "year": 1979,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_1994",
+    "name": "Louis van Gaal",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_1995",
+    "name": "Louis van Gaal",
+    "year": 1995,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 3
+  },
+  {
+    "player_id": "mgr_louis_van_gaal_1996",
+    "name": "Louis van Gaal",
+    "year": 1996,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_ronald_koeman_2002",
+    "name": "Ronald Koeman",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ronald_koeman_2004",
+    "name": "Ronald Koeman",
+    "year": 2004,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_marco_van_basten_2009",
+    "name": "Marco van Basten",
+    "year": 2009,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Ajax",
+    "tier": "S",
+    "overall_rating": 0
+  }
+]

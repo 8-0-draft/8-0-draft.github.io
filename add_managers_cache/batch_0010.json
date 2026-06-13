@@ -1,0 +1,402 @@
+[
+  {
+    "player_id": "mgr_diego_simeone_2018",
+    "name": "Diego Simeone",
+    "year": 2018,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_diego_simeone_2019",
+    "name": "Diego Simeone",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_diego_simeone_2020",
+    "name": "Diego Simeone",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_diego_simeone_2021",
+    "name": "Diego Simeone",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_diego_simeone_2022",
+    "name": "Diego Simeone",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_diego_simeone_2023",
+    "name": "Diego Simeone",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_diego_simeone_2024",
+    "name": "Diego Simeone",
+    "year": 2024,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_diego_simeone_2025",
+    "name": "Diego Simeone",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_diego_simeone_2026",
+    "name": "Diego Simeone",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Atlético de Madrid S.A.D.",
+    "tier": "S",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ernst_happel_1976",
+    "name": "Ernst Happel",
+    "year": 1976,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_ernst_happel_1977",
+    "name": "Ernst Happel",
+    "year": 1977,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_christoph_daum_2012",
+    "name": "Christoph Daum",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_ivan_leko_2019",
+    "name": "Ivan Leko",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carl_hoefkens_2022",
+    "name": "Carl Hoefkens",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_nicky_hayen_2025",
+    "name": "Nicky Hayen",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_michel_preudhomme_2017",
+    "name": "Michel Preud'homme",
+    "year": 2017,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_ivan_leko_2019",
+    "name": "Ivan Leko",
+    "year": 2019,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_philippe_clement_2020",
+    "name": "Philippe Clement",
+    "year": 2020,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_philippe_clement_2021",
+    "name": "Philippe Clement",
+    "year": 2021,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_carl_hoefkens_2022",
+    "name": "Carl Hoefkens",
+    "year": 2022,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "C",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_ronny_deila_2023",
+    "name": "Ronny Deila",
+    "year": 2023,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_nicky_hayen_2025",
+    "name": "Nicky Hayen",
+    "year": 2025,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_nicky_hayen_2026",
+    "name": "Nicky Hayen",
+    "year": 2026,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Club Brugge Koninklijke Voetbalvereniging",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_roland_nilsson_2011",
+    "name": "Roland Nilsson",
+    "year": 2011,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Copenhagen",
+    "tier": "B",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_marcio_bittencourt_2005",
+    "name": "Márcio Bittencourt",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Corinthians",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_emerson_leao_2006",
+    "name": "Emerson Leão",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Corinthians",
+    "tier": "A",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_cuca_2010",
+    "name": "Cuca",
+    "year": 2010,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Cruzeiro",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_celso_roth_2012",
+    "name": "Celso Roth",
+    "year": 2012,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Cruzeiro",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_leslie_talbot_1964",
+    "name": "Leslie Talbot",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "DWS",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_leslie_talbot_1964",
+    "name": "Leslie Talbot",
+    "year": 1964,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "DWS Amsterdam",
+    "tier": "C",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_jorge_fossati_2002",
+    "name": "Jorge Fossati",
+    "year": 2002,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Danubio",
+    "tier": "C",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_arsenio_iglesias_1994",
+    "name": "Arsenio Iglesias",
+    "year": 1994,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Deportivo La Coruña",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_javier_irureta_2000",
+    "name": "Javier Irureta",
+    "year": 2000,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Deportivo La Coruña",
+    "tier": "A",
+    "overall_rating": 1
+  },
+  {
+    "player_id": "mgr_javier_irureta_2001",
+    "name": "Javier Irureta",
+    "year": 2001,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Deportivo La Coruña",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_javier_irureta_2003",
+    "name": "Javier Irureta",
+    "year": 2003,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Deportivo La Coruña",
+    "tier": "A",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_javier_irureta_2005",
+    "name": "Javier Irureta",
+    "year": 2005,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Deportivo La Coruña",
+    "tier": "A",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_joaquin_caparros_2006",
+    "name": "Joaquín Caparrós",
+    "year": 2006,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Deportivo La Coruña",
+    "tier": "B",
+    "overall_rating": -1
+  },
+  {
+    "player_id": "mgr_brian_clough_1972",
+    "name": "Brian Clough",
+    "year": 1972,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Derby County",
+    "tier": "S",
+    "overall_rating": 2
+  },
+  {
+    "player_id": "mgr_cornel_dinu_1983",
+    "name": "Cornel Dinu",
+    "year": 1983,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dinamo București",
+    "tier": "B",
+    "overall_rating": 0
+  },
+  {
+    "player_id": "mgr_valeriy_lobanovskyi_1997",
+    "name": "Valeriy Lobanovskyi",
+    "year": 1997,
+    "primary_position": "MGR",
+    "secondary_positions": [],
+    "team_name": "Dinamo Kiev",
+    "tier": "S",
+    "overall_rating": 1
+  }
+]
