@@ -282,31 +282,47 @@
         .slot.filled {
             background:var(--card); border:3px solid var(--coral);
             box-shadow:0 2px 12px rgba(0,0,0,0.25);
+            overflow:hidden;
+            justify-content:flex-end;
+            padding-bottom:clamp(3px, 1vw, 10px);
+        }
+        .slot-portrait {
+            position:absolute; top:0; left:0; width:100%; height:100%;
+            object-fit:cover; object-position:top center;
+            z-index:1; border-radius:50%; transition:filter var(--transition);
+        }
+        .slot-gradient {
+            position:absolute; top:0; left:0; width:100%; height:100%;
+            background:linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0) 100%);
+            z-index:2; border-radius:50%;
         }
         .slot.filled .slot-name {
-            font-size:clamp(6px,1.3vw,8px); font-weight:700; color:var(--ink);
+            font-size:clamp(6px,1.3vw,8px); font-weight:700; color:#ffffff;
             line-height:1.1; max-width:90%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+            text-shadow:0 1px 3px rgba(0,0,0,0.9); z-index:3;
         }
         .slot.filled .slot-rating {
-            font-size:clamp(14px,3vw,20px); font-weight:900; color:var(--ink); line-height:1;
+            font-size:clamp(14px,3vw,20px); font-weight:900; color:#ffffff; line-height:1;
+            text-shadow:0 1px 3px rgba(0,0,0,0.9); z-index:3;
         }
         .slot.filled .slot-pos-small {
-            font-size:clamp(5px,1vw,7px); color:var(--ink-muted);
+            font-size:clamp(5px,1vw,7px); color:rgba(255,255,255,0.85);
             text-transform:uppercase; font-weight:600; letter-spacing:0.5px;
+            text-shadow:0 1px 2px rgba(0,0,0,0.9); z-index:3;
         }
         .slot.filled.oop {
-            border-color: var(--danger);
-            box-shadow: 0 2px 12px rgba(220, 53, 69, 0.4), inset 0 0 8px rgba(220, 53, 69, 0.2);
-            background: #FFF5F5;
-        }
-        [data-theme="dark"] .slot.filled.oop {
+            border-color: var(--danger) !important;
+            box-shadow: 0 2px 12px rgba(220, 53, 69, 0.5);
             background: #2D1A1C;
         }
+        .slot.filled.oop .slot-portrait {
+            filter: sepia(1) hue-rotate(-50deg) saturate(3) brightness(0.7);
+        }
         .slot.filled.oop .slot-rating {
-            color: var(--danger);
+            color: var(--danger) !important;
         }
         .slot.filled.oop .slot-pos-small {
-            color: var(--danger);
+            color: var(--danger) !important;
             font-weight: 800;
         }
         .oop-badge {
@@ -500,85 +516,127 @@
             font-size:11px; font-weight:800; text-transform:uppercase;
             letter-spacing:1.5px; color:var(--ink-light);
         }
-        .sim-board {
+
+        /* Tournament Dashboard Styles */
+        .tournament-hub {
+            display:flex; flex-direction:column; gap:20px;
             background:var(--card); border:2px solid var(--card-border);
-            box-shadow:var(--shadow); display:grid;
-            grid-template-columns:1fr auto 1fr; align-items:center;
-            gap:14px; padding:18px; min-height:150px;
+            box-shadow:var(--shadow); border-radius:var(--radius);
+            padding:20px;
         }
-        .sim-team {
-            min-width:0; display:flex; flex-direction:column; gap:5px;
+
+        .hub-controls {
+            display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
+            gap:16px; padding-bottom:14px; border-bottom:1px solid var(--paper-darker);
         }
-        .sim-team.away { text-align:right; align-items:flex-end; }
-        .sim-label {
-            font-size:10px; font-weight:800; text-transform:uppercase;
-            letter-spacing:2px; color:var(--ink-muted);
+
+        .match-list {
+            display:flex; flex-direction:column; gap:10px;
         }
-        .sim-team-name {
-            font-size:clamp(20px,3vw,34px); font-weight:900;
-            line-height:1; overflow-wrap:anywhere;
+
+        .match-row-container {
+            border:1px solid var(--paper-darker); border-radius:var(--radius);
+            overflow:hidden; background:var(--paper); transition:all var(--transition);
         }
-        .sim-team-rating {
-            font-size:11px; font-weight:700; color:var(--ink-light);
-            text-transform:uppercase; letter-spacing:1px;
+        .match-row-container.completed:hover {
+            border-color:var(--coral);
         }
-        .sim-scorebox {
-            min-width:210px; text-align:center; display:flex;
-            flex-direction:column; align-items:center; gap:6px;
+
+        .match-row {
+            display:grid; grid-template-columns:140px 1.2fr 120px 1.2fr 100px;
+            align-items:center; padding:12px 16px; cursor:pointer; gap:12px;
         }
-        .sim-score {
-            font-size:clamp(46px,8vw,86px); font-weight:900;
-            line-height:0.9; color:var(--coral);
+        .match-row.live {
+            background:var(--coral-bg); border-left:4px solid var(--coral);
+            cursor:default;
         }
-        .sim-clock {
-            display:inline-flex; align-items:center; justify-content:center;
-            min-width:76px; min-height:28px; padding:3px 10px;
-            border:2px solid var(--coral); border-radius:999px;
-            color:var(--coral); background:var(--coral-bg);
-            font-size:14px; font-weight:900;
+        .match-row.pending {
+            cursor:default; opacity:0.6;
         }
-        .sim-aggregate {
-            min-height:18px; font-size:11px; font-weight:900;
-            text-transform:uppercase; letter-spacing:1.8px;
-            color:var(--ink-light);
+
+        .mr-stage {
+            font-size:11px; font-weight:800; text-transform:uppercase;
+            color:var(--ink-muted);
         }
-        .sim-aggregate.visible { color:var(--tier-s); }
-        .sim-result {
-            min-height:34px; display:flex; align-items:center; justify-content:center;
-            padding:8px 14px; background:var(--paper-dark);
-            border:2px solid var(--card-border); font-size:14px; font-weight:900;
-            text-transform:uppercase; letter-spacing:2px;
+        .mr-team {
+            font-size:14px; font-weight:700; color:var(--ink);
+            white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
         }
-        .sim-result.win { color:var(--success); background:var(--success-bg); border-color:var(--success); }
-        .sim-result.loss { color:var(--danger); background:rgba(220,53,69,0.10); border-color:var(--danger); }
-        .sim-result.draw { color:var(--tier-s); background:rgba(198,133,10,0.10); border-color:var(--tier-s); }
-        .sim-main {
-            display:grid; grid-template-columns:minmax(0,1fr) 340px;
-            gap:14px; align-items:start;
+        .mr-team.home { text-align:right; }
+        .mr-team.away { text-align:left; }
+
+        .mr-score-box {
+            display:flex; flex-direction:column; align-items:center; justify-content:center; gap:4px;
         }
-        .sim-panel {
-            background:var(--card); border:2px solid var(--card-border);
-            box-shadow:var(--shadow);
+        .mr-score {
+            font-size:18px; font-weight:900; color:var(--coral);
+            font-variant-numeric:tabular-nums; text-align:center;
         }
-        .sim-panel-title {
-            padding:12px 14px; border-bottom:2px solid var(--paper-darker);
-            font-size:11px; font-weight:900; text-transform:uppercase;
-            letter-spacing:2.2px; color:var(--ink-muted);
+        .mr-clock-pill {
+            display:inline-block; padding:2px 8px; font-size:10px; font-weight:900;
+            border-radius:99px; background:var(--coral); color:#fff;
+            text-transform:uppercase; text-align:center;
         }
-        #sim-event-log {
-            height:360px; overflow-y:auto; padding:10px 14px;
-            display:flex; flex-direction:column; gap:8px;
+
+        .mr-status {
+            font-size:11px; font-weight:800; text-transform:uppercase;
+            text-align:right; color:var(--ink-light);
         }
-        .sim-event {
-            display:grid; grid-template-columns:46px 1fr; gap:8px;
-            padding:8px 0; border-bottom:1px solid var(--paper-dark);
-            font-size:13px; line-height:1.35; color:var(--ink-light);
+        .match-row.live .mr-status {
+            color:var(--coral); animation:pulse 1.5s infinite;
         }
-        .sim-event-minute { font-weight:900; color:var(--ink); }
-        .sim-event.goal-user .sim-event-text { color:var(--success); font-weight:800; }
-        .sim-event.goal-ai .sim-event-text { color:var(--coral); font-weight:800; }
-        .sim-event.system .sim-event-text { color:var(--ink-muted); font-style:italic; }
-        .sim-controls { padding:14px; display:flex; flex-direction:column; gap:14px; }
+
+        .match-details {
+            padding:12px 16px; background:var(--paper-dark);
+            border-top:1px dashed var(--paper-darker);
+            display:flex; flex-direction:column; gap:6px;
+        }
+        .md-event {
+            display:flex; align-items:center; gap:8px; font-size:12px; color:var(--ink-light);
+        }
+        .md-min {
+            font-weight:900; color:var(--ink); min-width:28px;
+        }
+        .md-event.goal-user { color:var(--success); font-weight:800; }
+        .md-event.goal-ai { color:var(--coral); font-weight:800; }
+        .md-event.system { color:var(--ink-muted); font-style:italic; }
+
+        /* Standings Table Styles */
+        .standings-container {
+            margin-bottom:10px; border:2px solid var(--ink);
+            border-radius:var(--radius); background:var(--card); overflow:hidden;
+        }
+        .standings-title {
+            padding:10px 14px; background:var(--ink); color:var(--paper);
+            font-size:11px; font-weight:900; text-transform:uppercase; letter-spacing:2px;
+        }
+        .standings-table {
+            width:100%; border-collapse:collapse; font-size:12px; text-align:left;
+        }
+        .standings-table th, .standings-table td {
+            padding:10px 12px; border-bottom:1px solid var(--paper-darker);
+        }
+        .standings-table th {
+            background:var(--paper-dark); font-weight:800; text-transform:uppercase;
+            color:var(--ink-muted);
+        }
+        .standings-table tr.qualify {
+            background:rgba(40,167,69,0.06);
+        }
+        .standings-table tr.qualify td:first-child {
+            border-left:4px solid var(--success);
+        }
+        .standings-table tr.user-row {
+            font-weight:800; background:var(--paper-dark);
+        }
+        .standings-table tr.eliminate {
+            background:rgba(220,53,69,0.03);
+        }
+        .standings-table tr.eliminate td:first-child {
+            border-left:4px solid var(--danger);
+        }
+
+        /* Controls */
         .sim-control-label {
             font-size:10px; font-weight:900; text-transform:uppercase;
             letter-spacing:2px; color:var(--ink-muted); margin-bottom:7px;
@@ -629,28 +687,29 @@
         .sim-action-btn.secondary:hover:not(:disabled) {
             color:var(--coral); background:var(--card);
         }
-        .sim-standings {
-            padding:12px 14px; display:grid; grid-template-columns:repeat(3,1fr);
-            gap:8px; border-top:2px solid var(--paper-darker);
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
         }
-        .sim-stat {
-            background:var(--paper); border:1px solid var(--paper-darker);
-            padding:9px; text-align:center;
-        }
-        .sim-stat-value { font-size:22px; font-weight:900; color:var(--ink); }
-        .sim-stat-label {
-            font-size:8px; font-weight:900; color:var(--ink-muted);
-            text-transform:uppercase; letter-spacing:1.4px;
-        }
-        #sim-penalties { display:none; }
-        #sim-penalties.visible { display:block; }
-        .penalty-log {
-            padding:10px 14px; max-height:180px; overflow-y:auto;
-            font-size:12px; line-height:1.6; color:var(--ink-light);
-        }
-        .penalty-score {
-            padding:10px 14px; font-size:22px; font-weight:900;
-            color:var(--coral); border-bottom:1px solid var(--paper-darker);
+
+        @media (max-width: 600px) {
+            .match-row {
+                grid-template-columns: 80px 1fr 70px 1fr 50px;
+                font-size: 11px; padding: 10px 8px; gap: 6px;
+            }
+            .mr-stage { font-size: 9px; }
+            .mr-team { font-size: 11px; }
+            .mr-score { font-size: 13px; }
+            .mr-clock-pill { font-size: 8px; padding: 1px 6px; }
+            .mr-status { font-size: 9px; }
+            .standings-table th, .standings-table td {
+                padding: 6px 8px; font-size: 10px;
+            }
+            .hub-controls {
+                flex-direction: column; align-items: stretch;
+            }
         }
 
         /* ═══════════════════════════════════════════════════════════
@@ -905,6 +964,11 @@
             width: 70px !important;
             height: 70px !important;
         }
+        #share-capture .slot-portrait,
+        #share-capture .slot-gradient {
+            width: 70px !important;
+            height: 70px !important;
+        }
         #share-capture .slot.filled .slot-name {
             font-size: 8px !important;
         }
@@ -1077,8 +1141,8 @@
         <div class="sim-shell">
             <header class="sim-topbar">
                 <div>
-                    <div class="sim-kicker">The Run</div>
-                    <div class="sim-title" id="sim-stage-title">Match Simulation</div>
+                    <div class="sim-kicker">Champions League Run</div>
+                    <div class="sim-title" id="sim-stage-title">Tournament Dashboard</div>
                 </div>
                 <div class="sim-run-meta">
                     <span id="sim-run-record">0 pts</span>
@@ -1087,82 +1151,64 @@
                 </div>
             </header>
 
-            <div class="broadcast-bar">
-                <div class="bc-team home">DREAM TEAM</div>
-                <div class="bc-score-box">
-                    <span class="bc-score"><span id="sim-user-score">0</span> - <span id="sim-ai-score">0</span></span>
+            <div class="tournament-hub">
+                <!-- Group Standings Table Container (rendered immediately) -->
+                <div id="group-standings-container"></div>
+
+                <!-- Matches chronological list -->
+                <div class="match-list" id="tournament-matches-list"></div>
+
+                <!-- Hub Controls row -->
+                <div class="hub-controls">
+                    <div>
+                        <div class="sim-control-label">Velocità Simulazione</div>
+                        <div class="sim-speed-row" id="sim-speed-controls">
+                            <button class="sim-speed-btn" data-speed="slow">Slow</button>
+                            <button class="sim-speed-btn active" data-speed="normal">Normal</button>
+                            <button class="sim-speed-btn" data-speed="fast">Fast</button>
+                            <button class="sim-speed-btn" data-speed="ultra">Ultra</button>
+                        </div>
+                    </div>
+
+                    <label class="sim-toggle-row">
+                        <span class="sim-toggle-copy">
+                            <strong id="sim-progress-label">Manual</strong>
+                            <span>Avanzamento match automatico</span>
+                        </span>
+                        <span class="switch">
+                            <input type="checkbox" id="sim-auto-toggle">
+                            <span class="slider round"></span>
+                        </span>
+                    </label>
                 </div>
-                <div class="bc-team away" id="sim-ai-name">Waiting</div>
-                <div class="bc-clock" id="sim-clock">0'</div>
+
+                <!-- Action Buttons at the bottom -->
+                <div class="sim-actions">
+                    <button class="sim-action-btn" id="sim-start-btn">Avvia Match</button>
+                    <button class="sim-action-btn secondary" id="sim-next-btn" style="display:none">Prossimo Match</button>
+                    <button class="sim-action-btn secondary" id="sim-restart-btn">Nuovo Draft</button>
+                </div>
             </div>
-            <div class="bc-status-line">
-                <span class="sim-aggregate" id="sim-aggregate"></span>
-                <span class="sim-result" id="sim-result">Ready</span>
-            </div>
+
+            <!-- Hidden DOM targets to satisfy any hardcoded script references safely -->
             <div style="display:none">
+                <span id="sim-user-score">0</span>
+                <span id="sim-ai-score">0</span>
+                <span id="sim-ai-name"></span>
+                <span id="sim-clock"></span>
+                <span id="sim-aggregate"></span>
+                <span id="sim-result"></span>
                 <span id="sim-user-rating"></span>
                 <span id="sim-ai-rating"></span>
+                <div id="sim-event-log"></div>
+                <div id="sim-penalties">
+                    <div id="penalty-score"></div>
+                    <div id="penalty-log"></div>
+                </div>
+                <div id="sim-points"></div>
+                <div id="sim-gf"></div>
+                <div id="sim-ga"></div>
             </div>
-
-            <main class="sim-main">
-                <section class="sim-panel">
-                    <div class="sim-panel-title">Match Event Log</div>
-                    <div id="sim-event-log"></div>
-                </section>
-
-                <aside class="sim-panel">
-                    <div class="sim-panel-title">Live Match Controls</div>
-                    <div class="sim-controls">
-                        <div>
-                            <div class="sim-control-label">Speed</div>
-                            <div class="sim-speed-row" id="sim-speed-controls">
-                                <button class="sim-speed-btn" data-speed="slow">Slow</button>
-                                <button class="sim-speed-btn active" data-speed="normal">Normal</button>
-                                <button class="sim-speed-btn" data-speed="fast">Fast</button>
-                                <button class="sim-speed-btn" data-speed="ultra">Ultra</button>
-                            </div>
-                        </div>
-
-                        <label class="sim-toggle-row">
-                            <span class="sim-toggle-copy">
-                                <strong id="sim-progress-label">Manual</strong>
-                                <span>Next match waits for input</span>
-                            </span>
-                            <span class="switch">
-                                <input type="checkbox" id="sim-auto-toggle">
-                                <span class="slider round"></span>
-                            </span>
-                        </label>
-
-                        <div class="sim-actions">
-                            <button class="sim-action-btn" id="sim-start-btn">Start Match</button>
-                            <button class="sim-action-btn secondary" id="sim-next-btn">Next Match</button>
-                            <button class="sim-action-btn secondary" id="sim-restart-btn">Nuovo Draft</button>
-                        </div>
-                    </div>
-
-                    <div id="sim-penalties">
-                        <div class="sim-panel-title">Penalty Shootout</div>
-                        <div class="penalty-score" id="penalty-score">0-0</div>
-                        <div class="penalty-log" id="penalty-log"></div>
-                    </div>
-
-                    <div class="sim-standings">
-                        <div class="sim-stat">
-                            <div class="sim-stat-value" id="sim-points">0</div>
-                            <div class="sim-stat-label">Points</div>
-                        </div>
-                        <div class="sim-stat">
-                            <div class="sim-stat-value" id="sim-gf">0</div>
-                            <div class="sim-stat-label">Goals For</div>
-                        </div>
-                        <div class="sim-stat">
-                            <div class="sim-stat-value" id="sim-ga">0</div>
-                            <div class="sim-stat-label">Against</div>
-                        </div>
-                    </div>
-                </aside>
-            </main>
         </div>
     </div>
 
@@ -1571,12 +1617,24 @@
             const slotDef = slots.find(s => s.id === slotId);
             const el = $('slot-' + slotId);
             const player = filledSlots[slotId];
+            const SILHOUETTE_SVG = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSIjNzc3NzgwIj48cGF0aCBkPSJNNTAgMjBjOC4zIDAgMTUgNi43IDE1IDE1cy02LjcgMTUtMTUgMTUtMTUtNi43LTE1LTE1IDYuNy0xNSAxNS0xNXptMCAzNWMxNi42IDAgMzAgMTAgMzAgMjB2NUgyMHYtNWMwLTEwIDEzLjQtMjAgMzAtMjB6Ii8+PC9zdmc+";
 
             if (player) {
                 const oopClass = player.isOop ? ' oop' : '';
                 el.className = 'slot filled' + oopClass + (animate ? ' just-placed' : '');
                 const oopBadge = player.isOop ? ' <span class="oop-badge">OOP</span>' : '';
+                
+                let imgSrc = player.image_url;
+                if (!imgSrc && player.player_id && player.year) {
+                    imgSrc = 'https://img.uefa.com/imgml/TP/players/1/' + player.year + '/324x324/' + player.player_id + '.jpg';
+                }
+                if (!imgSrc) {
+                    imgSrc = SILHOUETTE_SVG;
+                }
+
                 el.innerHTML =
+                    '<img src="' + imgSrc + '" class="slot-portrait" crossorigin="anonymous" onerror="this.onerror=null; this.src=\'' + SILHOUETTE_SVG + '\';">' +
+                    '<div class="slot-gradient"></div>' +
                     '<span class="slot-name" title="' + player.name + '">' + player.name + '</span>' +
                     '<span class="slot-rating">' + player.overall_rating + '</span>' +
                     '<span class="slot-pos-small">' + slotDef.label + oopBadge + '</span>';
@@ -2094,6 +2152,358 @@
             return pick;
         }
 
+        function selectGroupOpponent(targetOffset, excludedKeys) {
+            const targetAvg = userAvg + targetOffset;
+            let candidates = opponentPool.filter(team => !excludedKeys.has(team.key));
+            if (candidates.length === 0) {
+                candidates = opponentPool.slice();
+            }
+            const pick = pickWeighted(candidates, team => {
+                const distance = Math.abs(team.avg - targetAvg);
+                return 1 / (1 + Math.pow(distance, 1.7));
+            });
+            return pick;
+        }
+
+        function renderGroupTable() {
+            const container = $('group-standings-container');
+            if (!container) return [];
+            
+            // 1. Initialize stats for the 4 teams
+            const teamsData = {};
+            tournamentState.groupTeams.forEach(t => {
+                const key = t.isUser ? 'Dream Team' : `${t.team_name} ${t.year}`;
+                teamsData[key] = {
+                    name: t.isUser ? 'Dream Team' : t.team_name,
+                    year: t.isUser ? '' : t.year,
+                    isUser: !!t.isUser,
+                    gp: 0,
+                    w: 0,
+                    d: 0,
+                    l: 0,
+                    gf: 0,
+                    ga: 0,
+                    gd: 0,
+                    pts: 0
+                };
+            });
+            
+            // 2. Accumulate stats from completed group stage matches (first 6 matches)
+            tournamentState.matches.forEach(m => {
+                if (m.type === 'group' && m.ended) {
+                    const k1 = m.team1.isUser ? 'Dream Team' : `${m.team1.team_name} ${m.team1.year}`;
+                    const k2 = m.team2.isUser ? 'Dream Team' : `${m.team2.team_name} ${m.team2.year}`;
+                    
+                    if (teamsData[k1] && teamsData[k2]) {
+                        teamsData[k1].gp++;
+                        teamsData[k2].gp++;
+                        
+                        teamsData[k1].gf += m.score1;
+                        teamsData[k1].ga += m.score2;
+                        teamsData[k2].gf += m.score2;
+                        teamsData[k2].ga += m.score1;
+                        
+                        if (m.score1 > m.score2) {
+                            teamsData[k1].w++;
+                            teamsData[k1].pts += 3;
+                            teamsData[k2].l++;
+                        } else if (m.score1 === m.score2) {
+                            teamsData[k1].d++;
+                            teamsData[k1].pts += 1;
+                            teamsData[k2].d++;
+                            teamsData[k2].pts += 1;
+                        } else {
+                            teamsData[k1].l++;
+                            teamsData[k2].w++;
+                            teamsData[k2].pts += 3;
+                        }
+                    }
+                }
+            });
+            
+            // Calculate GD
+            Object.values(teamsData).forEach(t => {
+                t.gd = t.gf - t.ga;
+            });
+            
+            // 3. Sort teams based on Points DESC -> Goal Difference DESC -> Goals For DESC
+            const sortedTeams = Object.values(teamsData).sort((a, b) => {
+                if (b.pts !== a.pts) return b.pts - a.pts;
+                if (b.gd !== a.gd) return b.gd - a.gd;
+                return b.gf - a.gf;
+            });
+            
+            // 4. Render Table HTML
+            let html = `
+            <div class="standings-container">
+                <div class="standings-title">CLASSIFICA GRUPPO</div>
+                <table class="standings-table">
+                    <thead>
+                        <tr>
+                            <th>SQUADRA</th>
+                            <th style="text-align:center">PG</th>
+                            <th style="text-align:center">V</th>
+                            <th style="text-align:center">N</th>
+                            <th style="text-align:center">P</th>
+                            <th style="text-align:center">GF</th>
+                            <th style="text-align:center">GS</th>
+                            <th style="text-align:center">DR</th>
+                            <th style="text-align:center">PT</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+            
+            sortedTeams.forEach((t, idx) => {
+                let rowClass = idx < 2 ? 'qualify' : 'eliminate';
+                if (t.isUser) rowClass += ' user-row';
+                
+                const teamDisplayName = t.isUser ? '<strong>Dream Team</strong>' : `${t.name} <span style="font-size:10px; opacity:0.75">${t.year}</span>`;
+                
+                html += `
+                    <tr class="${rowClass}">
+                        <td>${teamDisplayName}</td>
+                        <td style="text-align:center">${t.gp}</td>
+                        <td style="text-align:center">${t.w}</td>
+                        <td style="text-align:center">${t.d}</td>
+                        <td style="text-align:center">${t.l}</td>
+                        <td style="text-align:center">${t.gf}</td>
+                        <td style="text-align:center">${t.ga}</td>
+                        <td style="text-align:center">${t.gd > 0 ? '+' + t.gd : t.gd}</td>
+                        <td style="text-align:center"><strong>${t.pts}</strong></td>
+                    </tr>
+                `;
+            });
+            
+            html += `
+                    </tbody>
+                </table>
+            </div>
+            `;
+            
+            container.innerHTML = html;
+            return sortedTeams;
+        }
+
+        function renderMatchesList() {
+            const listContainer = $('tournament-matches-list');
+            listContainer.innerHTML = '';
+            
+            tournamentState.matches.forEach((match, idx) => {
+                const container = document.createElement('div');
+                container.className = `match-row-container ${match.ended ? 'completed' : ''}`;
+                container.id = `match-container-${idx}`;
+                
+                const row = document.createElement('div');
+                row.className = `match-row ${match.running ? 'live' : (match.ended ? '' : 'pending')}`;
+                
+                // Stage
+                const stageDiv = document.createElement('div');
+                stageDiv.className = 'mr-stage';
+                stageDiv.textContent = match.stageLabel;
+                row.appendChild(stageDiv);
+                
+                // Team 1
+                const t1Div = document.createElement('div');
+                t1Div.className = 'mr-team home';
+                t1Div.textContent = match.team1.isUser ? 'Dream Team' : `${match.team1.team_name} ${match.team1.year}`;
+                row.appendChild(t1Div);
+                
+                // Scorebox
+                const scorebox = document.createElement('div');
+                scorebox.className = 'mr-score-box';
+                const scoreVal = document.createElement('div');
+                scoreVal.className = 'mr-score';
+                scoreVal.id = `match-score-${idx}`;
+                
+                if (match.score1 !== null) {
+                    if (match.stageId && TOURNAMENT_STAGES[tournamentState.stageIndex] && TOURNAMENT_STAGES[tournamentState.stageIndex].type === 'knockout' && match.leg === 2) {
+                        const tie = tournamentState.currentTie;
+                        if (tie && idx === tournamentState.currentMatchIndex) {
+                            const isUserHome = match.team1.isUser;
+                            const uScore = isUserHome ? match.score1 : match.score2;
+                            const aScore = isUserHome ? match.score2 : match.score1;
+                            const userTotal = tie.aggregateUser + uScore;
+                            const aiTotal = tie.aggregateAi + aScore;
+                            scoreVal.innerHTML = `${match.score1} - ${match.score2}<br><small style="font-size:10px;color:var(--ink-muted);font-weight:bold">AGG: ${userTotal} - ${aiTotal}</small>`;
+                        } else {
+                            scoreVal.textContent = `${match.score1} - ${match.score2}`;
+                        }
+                    } else {
+                        scoreVal.textContent = `${match.score1} - ${match.score2}`;
+                    }
+                } else {
+                    scoreVal.textContent = '- - -';
+                }
+                scorebox.appendChild(scoreVal);
+                row.appendChild(scorebox);
+                
+                // Team 2
+                const t2Div = document.createElement('div');
+                t2Div.className = 'mr-team away';
+                t2Div.textContent = match.team2.isUser ? 'Dream Team' : `${match.team2.team_name} ${match.team2.year}`;
+                row.appendChild(t2Div);
+                
+                // Status
+                const statusDiv = document.createElement('div');
+                statusDiv.className = 'mr-status';
+                statusDiv.id = `match-status-${idx}`;
+                if (match.running) {
+                    statusDiv.innerHTML = `<span class="mr-clock-pill" id="match-clock-${idx}">${match.minute}'</span>`;
+                } else if (match.ended) {
+                    statusDiv.textContent = 'FINALE';
+                } else {
+                    statusDiv.textContent = 'IN ATTESA';
+                }
+                row.appendChild(statusDiv);
+                container.appendChild(row);
+                
+                // Details Accordion Panel
+                const details = document.createElement('div');
+                details.className = 'match-details';
+                details.id = `match-details-${idx}`;
+                details.style.display = (match.running || (match.ended && idx === tournamentState.currentMatchIndex)) ? 'block' : 'none';
+                
+                if (match.ended && match.events) {
+                    match.events.forEach(ev => {
+                        const evRow = document.createElement('div');
+                        evRow.className = `md-event ${ev.type}`;
+                        evRow.innerHTML = `<div class="md-min">${ev.minute}'</div><div class="md-text">${ev.text}</div>`;
+                        details.appendChild(evRow);
+                    });
+                }
+                container.appendChild(details);
+                
+                row.addEventListener('click', () => {
+                    if (match.ended && !match.running) {
+                        const isCollapsed = details.style.display === 'none';
+                        details.style.display = isCollapsed ? 'block' : 'none';
+                    }
+                });
+                
+                listContainer.appendChild(container);
+            });
+        }
+
+        function addMatchEventDOM(matchIndex, type, minute, text) {
+            const details = document.getElementById(`match-details-${matchIndex}`);
+            if (!details) return;
+            const row = document.createElement('div');
+            row.className = 'md-event ' + type;
+            const min = document.createElement('div');
+            min.className = 'md-min';
+            min.textContent = minute > 0 ? minute + "'" : '--';
+            const body = document.createElement('div');
+            body.className = 'md-text';
+            body.textContent = text;
+            row.appendChild(min);
+            row.appendChild(body);
+            details.appendChild(row);
+            details.scrollTop = details.scrollHeight;
+            
+            const match = tournamentState.matches[matchIndex];
+            if (match && !match.events.some(e => e.minute === minute && e.text === text)) {
+                match.events.push({ type: type, minute: minute, text: text });
+            }
+        }
+
+        function simulateAiMatch(match) {
+            match.running = true;
+            match.events = [];
+            match.score1 = 0;
+            match.score2 = 0;
+            
+            const team1Avg = match.team1.avg;
+            const team2Avg = match.team2.avg;
+            const diff = team1Avg - team2Avg;
+            const totalRate = clamp(2.4 + Math.pow(Math.abs(diff) / 6, 1.15), 2.2, 8.8);
+            const team1Share = 1 / (1 + Math.exp(-diff / 7.5));
+            const team1Chance = (totalRate * team1Share) / 90;
+            const team2Chance = (totalRate * (1 - team1Share)) / 90;
+
+            for (let minute = 1; minute <= 90; minute++) {
+                if (Math.random() < team1Chance) {
+                    match.score1++;
+                    const scorer = pickScorer(match.team1.xi, false);
+                    match.events.push({
+                        type: 'goal-ai',
+                        minute: minute,
+                        text: `GOL per ${match.team1.team_name}! Segna ${scorer.name}.`
+                    });
+                }
+                if (Math.random() < team2Chance) {
+                    match.score2++;
+                    const scorer = pickScorer(match.team2.xi, false);
+                    match.events.push({
+                        type: 'goal-ai',
+                        minute: minute,
+                        text: `GOL per ${match.team2.team_name}! Segna ${scorer.name}.`
+                    });
+                }
+            }
+            match.running = false;
+            match.ended = true;
+        }
+
+        function appendKnockoutRound(stageIndex) {
+            const stage = TOURNAMENT_STAGES[stageIndex];
+            const opponent = selectOpponent(stage);
+            
+            if (stage.type === 'final') {
+                tournamentState.matches.push({
+                    id: stage.id,
+                    stageId: stage.id,
+                    stageLabel: 'Finale',
+                    type: 'final',
+                    team1: tournamentState.groupTeams[0], // User
+                    team2: opponent,
+                    score1: null,
+                    score2: null,
+                    ended: false,
+                    running: false,
+                    events: [],
+                    leg: 1
+                });
+            } else {
+                let stageNameIT = '';
+                if (stage.id === 'r16') stageNameIT = 'Ottavi';
+                else if (stage.id === 'qf') stageNameIT = 'Quarti';
+                else if (stage.id === 'sf') stageNameIT = 'Semifinale';
+                
+                // Leg 1: Opponent vs User
+                tournamentState.matches.push({
+                    id: stage.id + '_l1',
+                    stageId: stage.id,
+                    stageLabel: stageNameIT + ' - Andata',
+                    type: 'knockout',
+                    team1: opponent,
+                    team2: tournamentState.groupTeams[0],
+                    score1: null,
+                    score2: null,
+                    ended: false,
+                    running: false,
+                    events: [],
+                    leg: 1
+                });
+                // Leg 2: User vs Opponent
+                tournamentState.matches.push({
+                    id: stage.id + '_l2',
+                    stageId: stage.id,
+                    stageLabel: stageNameIT + ' - Ritorno',
+                    type: 'knockout',
+                    team1: tournamentState.groupTeams[0],
+                    team2: opponent,
+                    score1: null,
+                    score2: null,
+                    ended: false,
+                    running: false,
+                    events: [],
+                    leg: 2
+                });
+            }
+            renderMatchesList();
+        }
+
         function initializeSimulation() {
             clearSimulationTimers();
             gamePhase = 'simulation';
@@ -2103,22 +2513,47 @@
             });
             userAvg = averageRating(userXI);
             opponentPool = buildOpponentPool();
+
+            // Pre-select Group stage opponents based on target average ratings
+            const oppA = selectGroupOpponent(-8, new Set());
+            const oppB = selectGroupOpponent(-4, new Set([oppA.key]));
+            const oppC = selectGroupOpponent(0, new Set([oppA.key, oppB.key]));
+
             tournamentState = {
-                stageIndex:0,
-                points:0,
-                gf:0,
-                ga:0,
-                wins:0,
-                currentTie:null,
-                usedOpponents:new Set(),
-                eliminated:false,
-                champion:false,
-                awaitingNext:false,
+                stageIndex: 0,
+                groupTeams: [
+                    { team_name: 'Dream Team', avg: userAvg, xi: userXI, isUser: true },
+                    oppA,
+                    oppB,
+                    oppC
+                ],
+                matches: [],
+                currentMatchIndex: 0,
+                usedOpponents: new Set([oppA.key, oppB.key, oppC.key]),
+                eliminated: false,
+                champion: false,
+                awaitingNext: false,
+                currentTie: null
             };
+
+            // Set up initial 6 group stage matches
+            tournamentState.matches = [
+                { id:'g1_m1', stageId:'group1', stageLabel:'Girone - Giornata 1', type:'group', team1:tournamentState.groupTeams[0], team2:oppA, score1:null, score2:null, ended:false, running:false, events:[], leg:1 },
+                { id:'g1_m2', stageId:'group1', stageLabel:'Girone - Giornata 1', type:'group', team1:oppB, team2:oppC, score1:null, score2:null, ended:false, running:false, events:[], leg:1 },
+                { id:'g2_m1', stageId:'group2', stageLabel:'Girone - Giornata 2', type:'group', team1:tournamentState.groupTeams[0], team2:oppB, score1:null, score2:null, ended:false, running:false, events:[], leg:1 },
+                { id:'g2_m2', stageId:'group2', stageLabel:'Girone - Giornata 2', type:'group', team1:oppA, team2:oppC, score1:null, score2:null, ended:false, running:false, events:[], leg:1 },
+                { id:'g3_m1', stageId:'group3', stageLabel:'Girone - Giornata 3', type:'group', team1:tournamentState.groupTeams[0], team2:oppC, score1:null, score2:null, ended:false, running:false, events:[], leg:1 },
+                { id:'g3_m2', stageId:'group3', stageLabel:'Girone - Giornata 3', type:'group', team1:oppA, team2:oppB, score1:null, score2:null, ended:false, running:false, events:[], leg:1 }
+            ];
 
             gameScreen.classList.remove('active');
             gcOverlay.classList.remove('visible');
             simulationScreen.classList.add('active');
+            
+            // Show the standings table at the top immediately
+            renderGroupTable();
+            renderMatchesList();
+
             simUserRating.textContent = 'Avg ' + Math.round(userAvg);
             simRunAvg.textContent = 'AVG ' + Math.round(userAvg);
             setSimSpeed(simSpeed);
@@ -2136,56 +2571,95 @@
             clearSimulationTimers();
             if (!tournamentState || tournamentState.eliminated || tournamentState.champion) return;
 
-            const stage = TOURNAMENT_STAGES[tournamentState.stageIndex];
-            if (!stage) {
-                endTournament(true);
-                return;
-            }
-
-            let opponent;
-            let leg = 1;
-            if (stage.type === 'knockout') {
-                if (!tournamentState.currentTie) {
-                    opponent = selectOpponent(stage);
-                    tournamentState.currentTie = { opponent:opponent, leg:1, aggregateUser:0, aggregateAi:0 };
+            const idx = tournamentState.currentMatchIndex;
+            if (idx >= tournamentState.matches.length) {
+                // Stage complete checks
+                if (tournamentState.stageIndex < 3) {
+                    // Group Stage ended
+                    const sorted = renderGroupTable();
+                    const userQualified = sorted.slice(0, 2).some(t => t.isUser);
+                    if (userQualified) {
+                        addMatchEventDOM(idx - 1, 'system', 90, 'Fase a gironi completata. Dream Team qualificato agli Ottavi!');
+                        tournamentState.stageIndex = 3;
+                        appendKnockoutRound(3);
+                        setTimeout(() => {
+                            const firstNew = document.getElementById(`match-container-6`);
+                            if (firstNew) firstNew.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                        }, 100);
+                        prepareNextMatch(autoStart);
+                    } else {
+                        addMatchEventDOM(idx - 1, 'system', 90, 'Fase a gironi completata. Dream Team eliminato.');
+                        endTournament(false);
+                    }
+                    return;
                 } else {
-                    opponent = tournamentState.currentTie.opponent;
-                    leg = tournamentState.currentTie.leg;
+                    // Knockout round ended
+                    const stage = TOURNAMENT_STAGES[tournamentState.stageIndex];
+                    if (stage.type === 'final') {
+                        endTournament(true);
+                    } else {
+                        tournamentState.stageIndex += 1;
+                        appendKnockoutRound(tournamentState.stageIndex);
+                        setTimeout(() => {
+                            const newMatchEl = document.getElementById(`match-container-${tournamentState.currentMatchIndex}`);
+                            if (newMatchEl) newMatchEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                        }, 100);
+                        prepareNextMatch(autoStart);
+                    }
+                    return;
                 }
-            } else {
-                opponent = selectOpponent(stage);
             }
 
-            currentMatch = {
-                stage:stage,
-                opponent:opponent,
-                leg:leg,
-                minute:0,
-                userScore:0,
-                aiScore:0,
-                running:false,
-                ended:false,
-                penaltiesRunning:false,
-            };
+            currentMatch = tournamentState.matches[idx];
+            currentMatch.minute = 0;
+            currentMatch.score1 = 0;
+            currentMatch.score2 = 0;
+            currentMatch.ended = false;
+            currentMatch.running = false;
+            currentMatch.events = [];
 
-            simStageTitle.textContent = getStageDisplay(stage, leg);
-            simAiName.textContent = opponent.team_name + ' ' + opponent.year;
-            simAiRating.textContent = 'Avg ' + Math.round(opponent.avg);
-            simClock.textContent = "0'";
-            simUserScore.textContent = '0';
-            simAiScore.textContent = '0';
-            simResult.className = 'sim-result';
-            simResult.textContent = 'Ready';
-            simEventLog.innerHTML = '';
-            simPenalties.classList.remove('visible');
-            penaltyLog.innerHTML = '';
-            penaltyScore.textContent = '0-0';
+            // Update UI headers
+            simStageTitle.textContent = currentMatch.stageLabel;
+            const oppName = currentMatch.team1.isUser ? currentMatch.team2.team_name : currentMatch.team1.team_name;
+            const oppYear = currentMatch.team1.isUser ? currentMatch.team2.year : currentMatch.team1.year;
+            const oppAvg = currentMatch.team1.isUser ? currentMatch.team2.avg : currentMatch.team1.avg;
+
+            simAiName.textContent = oppName + ' ' + oppYear;
+            simAiRating.textContent = 'Avg ' + Math.round(oppAvg);
+
+            // Highlight the active match in the matches list and hide/show details
+            for (let i = 0; i < tournamentState.matches.length; i++) {
+                const row = document.querySelector(`#match-container-${i} .match-row`);
+                const details = document.getElementById(`match-details-${i}`);
+                if (row) {
+                    row.className = `match-row ${i === idx ? 'live' : (tournamentState.matches[i].ended ? '' : 'pending')}`;
+                }
+                if (details) {
+                    details.style.display = (i === idx) ? 'block' : (tournamentState.matches[i].ended ? details.style.display : 'none');
+                }
+            }
+
+            // Scroll active match into view
+            const activeEl = document.getElementById(`match-container-${idx}`);
+            if (activeEl) activeEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+            // Initialize visual states
+            const scoreVal = document.getElementById(`match-score-${idx}`);
+            if (scoreVal) scoreVal.textContent = '0 - 0';
+            const statusDiv = document.getElementById(`match-status-${idx}`);
+            if (statusDiv) statusDiv.innerHTML = `<span class="mr-clock-pill" id="match-clock-${idx}">0'</span>`;
+            const detailsDiv = document.getElementById(`match-details-${idx}`);
+            if (detailsDiv) detailsDiv.innerHTML = '';
+
             simStartBtn.disabled = false;
             simStartBtn.style.display = '';
             simNextBtn.style.display = 'none';
+
             updateAggregateDisplay();
             updateTournamentStats();
-            addSimEvent('system', 0, 'Match loaded. Press Start Match.');
+
+            addMatchEventDOM(idx, 'system', 0, 'In attesa del calcio d\'inizio.');
+
             if (autoStart) startCurrentMatch();
         }
 
@@ -2194,9 +2668,12 @@
             currentMatch.running = true;
             simStartBtn.disabled = true;
             simNextBtn.style.display = 'none';
-            simResult.className = 'sim-result';
-            simResult.textContent = 'Live';
-            addSimEvent('system', currentMatch.minute, 'Kickoff.');
+
+            const idx = tournamentState.currentMatchIndex;
+            const row = document.querySelector(`#match-container-${idx} .match-row`);
+            if (row) row.className = 'match-row live';
+
+            addMatchEventDOM(idx, 'system', 0, 'Calcio d\'inizio!');
             scheduleNextTick();
         }
 
@@ -2208,8 +2685,13 @@
         function gameTick() {
             if (!currentMatch || !currentMatch.running) return;
             currentMatch.minute += 1;
-            simClock.textContent = currentMatch.minute + "'";
+
+            const idx = tournamentState.currentMatchIndex;
+            const clockEl = document.getElementById(`match-clock-${idx}`);
+            if (clockEl) clockEl.textContent = currentMatch.minute + "'";
+
             evaluateMinuteEvents();
+
             if (currentMatch.minute >= 90) {
                 endCurrentMatch();
                 return;
@@ -2218,28 +2700,58 @@
         }
 
         function evaluateMinuteEvents() {
-            const diff = userAvg - currentMatch.opponent.avg;
+            const isUserHome = currentMatch.team1.isUser;
+            const userAvgRating = userAvg;
+            const oppAvgRating = isUserHome ? currentMatch.team2.avg : currentMatch.team1.avg;
+
+            const diff = isUserHome ? (userAvgRating - oppAvgRating) : (oppAvgRating - userAvgRating);
             const totalRate = clamp(2.4 + Math.pow(Math.abs(diff) / 6, 1.15), 2.2, 8.8);
-            const userShare = 1 / (1 + Math.exp(-diff / 7.5));
-            const userChance = (totalRate * userShare) / 90;
-            const aiChance = (totalRate * (1 - userShare)) / 90;
-            if (Math.random() < userChance) scoreGoal('user');
-            if (Math.random() < aiChance) scoreGoal('ai');
+            const team1Share = 1 / (1 + Math.exp(-diff / 7.5));
+            const team1Chance = (totalRate * team1Share) / 90;
+            const team2Chance = (totalRate * (1 - team1Share)) / 90;
+
+            if (Math.random() < team1Chance) scoreGoal('team1');
+            if (Math.random() < team2Chance) scoreGoal('team2');
         }
 
         function scoreGoal(side) {
-            const scorer = side === 'user'
-                ? pickScorer(userXI, true)
-                : pickScorer(currentMatch.opponent.xi, false);
-            if (side === 'user') {
-                currentMatch.userScore += 1;
-                simUserScore.textContent = currentMatch.userScore;
-                addSimEvent('goal-user', currentMatch.minute, 'GOAL for Dream Team. Brilliant strike by ' + scorer.name + '.');
+            const idx = tournamentState.currentMatchIndex;
+            const isUserHome = currentMatch.team1.isUser;
+            const isGoalForTeam1 = side === 'team1';
+
+            const goalScoringTeam = isGoalForTeam1 ? currentMatch.team1 : currentMatch.team2;
+            const isUserScoring = goalScoringTeam.isUser;
+
+            const scorer = pickScorer(goalScoringTeam.xi, isUserScoring);
+
+            if (isGoalForTeam1) {
+                currentMatch.score1 += 1;
             } else {
-                currentMatch.aiScore += 1;
-                simAiScore.textContent = currentMatch.aiScore;
-                addSimEvent('goal-ai', currentMatch.minute, 'GOAL for ' + currentMatch.opponent.team_name + '. ' + scorer.name + ' finishes it.');
+                currentMatch.score2 += 1;
             }
+
+            const scoreVal = document.getElementById(`match-score-${idx}`);
+            if (scoreVal) {
+                if (currentMatch.stageId && TOURNAMENT_STAGES[tournamentState.stageIndex] && TOURNAMENT_STAGES[tournamentState.stageIndex].type === 'knockout' && currentMatch.leg === 2) {
+                    const tie = tournamentState.currentTie;
+                    if (tie) {
+                        const uScore = isUserHome ? currentMatch.score1 : currentMatch.score2;
+                        const aScore = isUserHome ? currentMatch.score2 : currentMatch.score1;
+                        const userTotal = tie.aggregateUser + uScore;
+                        const aiTotal = tie.aggregateAi + aScore;
+                        scoreVal.innerHTML = `${currentMatch.score1} - ${currentMatch.score2}<br><small style="font-size:10px;color:var(--ink-muted);font-weight:bold">AGG: ${userTotal} - ${aiTotal}</small>`;
+                    } else {
+                        scoreVal.textContent = `${currentMatch.score1} - ${currentMatch.score2}`;
+                    }
+                } else {
+                    scoreVal.textContent = `${currentMatch.score1} - ${currentMatch.score2}`;
+                }
+            }
+
+            const eventClass = isUserScoring ? 'goal-user' : 'goal-ai';
+            const teamDisplay = isUserScoring ? 'Dream Team' : goalScoringTeam.team_name;
+            addMatchEventDOM(idx, eventClass, currentMatch.minute, `GOL per ${teamDisplay}! Rete di ${scorer.name}.`);
+
             updateAggregateDisplay();
         }
 
@@ -2265,29 +2777,18 @@
             return pickWeighted(players, player => scorerWeight(getScorerPosition(player, isUser)) * clamp(getRating(player) / 80, 0.5, 1.4));
         }
 
-        function addSimEvent(type, minute, text) {
-            const row = document.createElement('div');
-            row.className = 'sim-event ' + type;
-            const min = document.createElement('div');
-            min.className = 'sim-event-minute';
-            min.textContent = minute > 0 ? minute + "'" : '--';
-            const body = document.createElement('div');
-            body.className = 'sim-event-text';
-            body.textContent = text;
-            row.appendChild(min);
-            row.appendChild(body);
-            simEventLog.prepend(row);
-        }
-
         function updateAggregateDisplay() {
-            if (!currentMatch || currentMatch.stage.type !== 'knockout' || currentMatch.leg !== 2) {
+            if (!currentMatch || currentMatch.type !== 'knockout' || currentMatch.leg !== 2) {
                 simAggregate.textContent = '';
                 simAggregate.classList.remove('visible');
                 return;
             }
             const tie = tournamentState.currentTie;
-            const userTotal = currentMatch.ended ? tie.aggregateUser : tie.aggregateUser + currentMatch.userScore;
-            const aiTotal = currentMatch.ended ? tie.aggregateAi : tie.aggregateAi + currentMatch.aiScore;
+            if (!tie) return;
+            const uScore = currentMatch.team1.isUser ? currentMatch.score1 : currentMatch.score2;
+            const aScore = currentMatch.team1.isUser ? currentMatch.score2 : currentMatch.score1;
+            const userTotal = currentMatch.ended ? tie.aggregateUser : tie.aggregateUser + uScore;
+            const aiTotal = currentMatch.ended ? tie.aggregateAi : tie.aggregateAi + aScore;
             simAggregate.textContent = 'AGG ' + userTotal + ' - ' + aiTotal;
             simAggregate.classList.add('visible');
         }
@@ -2296,92 +2797,143 @@
             clearTimeout(simTimeoutId);
             currentMatch.running = false;
             currentMatch.ended = true;
-            simClock.textContent = "90'";
-            addSimEvent('system', 90, 'Full time.');
 
-            const stage = currentMatch.stage;
+            const idx = tournamentState.currentMatchIndex;
+            const statusDiv = document.getElementById(`match-status-${idx}`);
+            if (statusDiv) statusDiv.textContent = 'FINALE';
+
+            const container = document.getElementById(`match-container-${idx}`);
+            if (container) container.classList.add('completed');
+
+            addMatchEventDOM(idx, 'system', 90, 'Fischio finale.');
+
+            const stage = TOURNAMENT_STAGES[tournamentState.stageIndex];
             if (stage.type === 'group') {
                 handleGroupResult();
-                return;
-            }
-            if (stage.type === 'final') {
-                if (currentMatch.userScore === currentMatch.aiScore) {
+            } else if (stage.type === 'final') {
+                if (currentMatch.score1 === currentMatch.score2) {
                     startPenaltyShootout('final');
                 } else {
-                    handleFinalResult(currentMatch.userScore > currentMatch.aiScore);
+                    const isUserHome = currentMatch.team1.isUser;
+                    const userWon = isUserHome ? (currentMatch.score1 > currentMatch.score2) : (currentMatch.score2 > currentMatch.score1);
+                    handleFinalResult(userWon);
                 }
-                return;
+            } else {
+                handleKnockoutResult();
             }
-            handleKnockoutResult();
         }
 
         function handleGroupResult() {
-            const user = currentMatch.userScore;
-            const ai = currentMatch.aiScore;
-            tournamentState.gf += user;
-            tournamentState.ga += ai;
-            if (user > ai) {
-                tournamentState.points += 3;
-                tournamentState.wins += 1;
-                setMatchResult('win', 'WIN');
-            } else if (user === ai) {
-                tournamentState.points += 1;
-                setMatchResult('draw', 'DRAW');
-            } else {
-                setMatchResult('loss', 'LOSS');
-            }
-            updateTournamentStats();
-            tournamentState.stageIndex += 1;
+            const idx = tournamentState.currentMatchIndex;
 
-            if (tournamentState.stageIndex === 3) {
-                const gd = tournamentState.gf - tournamentState.ga;
-                if (tournamentState.points >= 5 || (tournamentState.points === 4 && gd >= 0)) {
-                    addSimEvent('system', 90, 'Group stage complete. Dream Team qualifies for the Round of 16.');
-                    finishPostMatch(false);
+            renderGroupTable();
+            updateTournamentStats();
+
+            // Simulate the corresponding AI match of the matchday
+            const aiMatchIndex = idx + 1;
+            const aiMatch = tournamentState.matches[aiMatchIndex];
+            if (aiMatch) {
+                simulateAiMatch(aiMatch);
+
+                const scoreVal = document.getElementById(`match-score-${aiMatchIndex}`);
+                if (scoreVal) scoreVal.textContent = `${aiMatch.score1} - ${aiMatch.score2}`;
+
+                const statusDiv = document.getElementById(`match-status-${aiMatchIndex}`);
+                if (statusDiv) statusDiv.textContent = 'FINALE';
+
+                const container = document.getElementById(`match-container-${aiMatchIndex}`);
+                if (container) container.classList.add('completed');
+
+                const details = document.getElementById(`match-details-${aiMatchIndex}`);
+                if (details) {
+                    details.innerHTML = '';
+                    aiMatch.events.forEach(ev => {
+                        const row = document.createElement('div');
+                        row.className = `md-event ${ev.type}`;
+                        row.innerHTML = `<div class="md-min">${ev.minute}'</div><div class="md-text">${ev.text}</div>`;
+                        details.appendChild(row);
+                    });
+                }
+
+                // Update group standings live after both matches finished
+                renderGroupTable();
+                updateTournamentStats();
+            }
+
+            tournamentState.currentMatchIndex += 2;
+
+            if (tournamentState.currentMatchIndex === 6) {
+                const sorted = renderGroupTable();
+                const userQualified = sorted.slice(0, 2).some(t => t.isUser);
+                if (userQualified) {
+                    setMatchResult('win', 'QUALIFICATO');
                 } else {
-                    addSimEvent('system', 90, 'Group stage complete. Dream Team eliminated.');
-                    endTournament(false);
+                    setMatchResult('loss', 'ELIMINATO');
                 }
             } else {
-                finishPostMatch(false);
+                const userScore = currentMatch.team1.isUser ? currentMatch.score1 : currentMatch.score2;
+                const aiScore = currentMatch.team1.isUser ? currentMatch.score2 : currentMatch.score1;
+                const resType = userScore > aiScore ? 'win' : (userScore === aiScore ? 'draw' : 'loss');
+                setMatchResult(resType, userScore > aiScore ? 'VITTORIA' : (userScore === aiScore ? 'PAREGGIO' : 'SCONFITTA'));
             }
+
+            finishPostMatch(false);
         }
 
         function handleKnockoutResult() {
-            const tie = tournamentState.currentTie;
-            tie.aggregateUser += currentMatch.userScore;
-            tie.aggregateAi += currentMatch.aiScore;
-            updateAggregateDisplay();
+            const idx = tournamentState.currentMatchIndex;
+            const isUserHome = currentMatch.team1.isUser;
 
-            if (currentMatch.leg === 1) {
-                const legType = currentMatch.userScore > currentMatch.aiScore ? 'win' : (currentMatch.userScore === currentMatch.aiScore ? 'draw' : 'loss');
-                setMatchResult(legType, 'LEG 1 COMPLETE');
-                tie.leg = 2;
-                addSimEvent('system', 90, 'Leg 1 complete. Aggregate ' + tie.aggregateUser + ' - ' + tie.aggregateAi + '.');
-                finishPostMatch(false);
-                return;
-            }
+            if (!tournamentState.currentTie) {
+                // Leg 1 complete
+                const opp = currentMatch.team1.isUser ? currentMatch.team2 : currentMatch.team1;
+                tournamentState.currentTie = {
+                    opponent: opp,
+                    leg: 1,
+                    aggregateUser: isUserHome ? currentMatch.score1 : currentMatch.score2,
+                    aggregateAi: isUserHome ? currentMatch.score2 : currentMatch.score1
+                };
 
-            if (tie.aggregateUser > tie.aggregateAi) {
-                setMatchResult('win', 'ADVANCED');
-                tournamentState.currentTie = null;
-                tournamentState.stageIndex += 1;
+                const userScore = isUserHome ? currentMatch.score1 : currentMatch.score2;
+                const aiScore = isUserHome ? currentMatch.score2 : currentMatch.score1;
+                const resType = userScore > aiScore ? 'win' : (userScore === aiScore ? 'draw' : 'loss');
+                setMatchResult(resType, 'ANDATA TERMINATA');
+
+                tournamentState.currentMatchIndex += 1;
                 finishPostMatch(false);
-            } else if (tie.aggregateUser < tie.aggregateAi) {
-                setMatchResult('loss', 'ELIMINATED');
-                endTournament(false);
             } else {
-                addSimEvent('system', 90, 'Aggregate tied. Penalties will decide the tie.');
-                startPenaltyShootout('knockout');
+                // Leg 2 complete
+                const tie = tournamentState.currentTie;
+                const userScore = isUserHome ? currentMatch.score1 : currentMatch.score2;
+                const aiScore = isUserHome ? currentMatch.score2 : currentMatch.score1;
+
+                tie.aggregateUser += userScore;
+                tie.aggregateAi += aiScore;
+                tie.leg = 2;
+
+                updateAggregateDisplay();
+
+                if (tie.aggregateUser > tie.aggregateAi) {
+                    setMatchResult('win', 'QUALIFICATO');
+                    tournamentState.currentTie = null;
+                    tournamentState.currentMatchIndex += 1;
+                    finishPostMatch(false);
+                } else if (tie.aggregateUser < tie.aggregateAi) {
+                    setMatchResult('loss', 'ELIMINATO');
+                    endTournament(false);
+                } else {
+                    addMatchEventDOM(idx, 'system', 90, 'Aggregato in parità. Si deciderà ai rigori!');
+                    startPenaltyShootout('knockout');
+                }
             }
         }
 
         function handleFinalResult(userWon) {
             if (userWon) {
-                setMatchResult('win', 'CHAMPIONS');
+                setMatchResult('win', 'CAMPIONI');
                 endTournament(true);
             } else {
-                setMatchResult('loss', 'FINAL LOSS');
+                setMatchResult('loss', 'SCONFITTA IN FINALE');
                 endTournament(false);
             }
         }
@@ -2395,6 +2947,7 @@
             if (tournamentState.eliminated || tournamentState.champion) return;
             simStartBtn.style.display = 'none';
             simNextBtn.disabled = false;
+            
             if (autoProgress && !forceManual) {
                 simNextBtn.style.display = 'none';
                 simAutoTimeoutId = setTimeout(() => prepareNextMatch(true), 2000);
@@ -2410,43 +2963,43 @@
             simStartBtn.style.display = 'none';
             simNextBtn.style.display = 'none';
             if (champion) {
-                setMatchResult('win', 'TOURNAMENT WON');
-                addSimEvent('system', currentMatch ? currentMatch.minute : 90, 'Dream Team wins the tournament.');
+                setMatchResult('win', 'CAMPIONI D\'EUROPA');
+                addMatchEventDOM(tournamentState.currentMatchIndex, 'system', 90, 'Dream Team vince la Champions League!');
             } else {
-                if (!simResult.classList.contains('loss')) setMatchResult('loss', 'ELIMINATED');
-                addSimEvent('system', currentMatch ? currentMatch.minute : 90, 'The run is over.');
+                if (!simResult.classList.contains('loss')) setMatchResult('loss', 'ELIMINATO');
+                addMatchEventDOM(tournamentState.currentMatchIndex, 'system', 90, 'Il cammino termina qui.');
             }
             setTimeout(showShareOverlay, 2500);
         }
 
         function startPenaltyShootout(context) {
             currentMatch.penaltiesRunning = true;
-            simPenalties.classList.add('visible');
-            penaltyLog.innerHTML = '';
-            penaltyScore.textContent = '0-0';
-            setMatchResult('draw', 'PENALTIES');
+            setMatchResult('draw', 'RIGORI');
             runPenaltySequence(context);
         }
 
         function runPenaltySequence(context) {
             const state = {
-                context:context,
-                round:1,
-                userTaken:0,
-                aiTaken:0,
-                userGoals:0,
-                aiGoals:0,
-                userTakers:[],
-                aiTakers:[],
+                context: context,
+                round: 1,
+                userTaken: 0,
+                aiTaken: 0,
+                userGoals: 0,
+                aiGoals: 0,
+                userTakers: [],
+                aiTakers: []
             };
 
+            const opp = currentMatch.team1.isUser ? currentMatch.team2 : currentMatch.team1;
+
             const kick = side => {
-                const taker = nextPenaltyTaker(side === 'user' ? userXI : currentMatch.opponent.xi, side === 'user' ? state.userTakers : state.aiTakers, side === 'user');
-                const keeper = side === 'user' ? currentMatch.opponent.keeper : getUserKeeper();
-                const teamAvg = side === 'user' ? userAvg : currentMatch.opponent.avg;
-                const opponentAvg = side === 'user' ? currentMatch.opponent.avg : userAvg;
+                const taker = nextPenaltyTaker(side === 'user' ? userXI : opp.xi, side === 'user' ? state.userTakers : state.aiTakers, side === 'user');
+                const keeper = side === 'user' ? opp.keeper : getUserKeeper();
+                const teamAvg = side === 'user' ? userAvg : opp.avg;
+                const opponentAvg = side === 'user' ? opp.avg : userAvg;
                 const chance = clamp(0.72 + (teamAvg - opponentAvg) * 0.004 + (getRating(taker) - 80) * 0.002 - (getRating(keeper) - 80) * 0.0015, 0.55, 0.90);
                 const scored = Math.random() < chance;
+
                 if (side === 'user') {
                     state.userTaken += 1;
                     if (scored) state.userGoals += 1;
@@ -2454,8 +3007,14 @@
                     state.aiTaken += 1;
                     if (scored) state.aiGoals += 1;
                 }
+
                 appendPenaltyEvent(side, taker.name, scored, state.userGoals, state.aiGoals);
-                penaltyScore.textContent = state.userGoals + '-' + state.aiGoals;
+
+                // Update row score to display shootout progress
+                const scoreVal = document.getElementById(`match-score-${tournamentState.currentMatchIndex}`);
+                if (scoreVal) {
+                    scoreVal.innerHTML = `${currentMatch.score1} - ${currentMatch.score2}<br><small style="font-size:10px;color:var(--coral);font-weight:900">RIGORI: ${state.userGoals} - ${state.aiGoals}</small>`;
+                }
             };
 
             const step = () => {
@@ -2484,18 +3043,21 @@
 
         function finishPenaltyShootout(context, userWon) {
             currentMatch.penaltiesRunning = false;
-            addSimEvent('system', 90, 'Penalty shootout finished.');
+            const idx = tournamentState.currentMatchIndex;
+            addMatchEventDOM(idx, 'system', 90, `Calci di rigore terminati. Dream Team ${userWon ? 'vince' : 'perde'} la lotteria dei rigori.`);
+
             if (context === 'final') {
                 handleFinalResult(userWon);
                 return;
             }
+
             if (userWon) {
-                setMatchResult('win', 'ADVANCED ON PENS');
+                setMatchResult('win', 'QUALIFICATO AI RIGORI');
                 tournamentState.currentTie = null;
-                tournamentState.stageIndex += 1;
+                tournamentState.currentMatchIndex += 1;
                 finishPostMatch(false);
             } else {
-                setMatchResult('loss', 'OUT ON PENS');
+                setMatchResult('loss', 'ELIMINATO AI RIGORI');
                 endTournament(false);
             }
         }
@@ -2513,19 +3075,47 @@
         }
 
         function appendPenaltyEvent(side, name, scored, userGoals, aiGoals) {
-            const row = document.createElement('div');
-            row.textContent = (side === 'user' ? 'DREAM TEAM' : currentMatch.opponent.team_name) + ' - ' + name + ': ' + (scored ? 'scored' : 'missed') + ' (' + userGoals + '-' + aiGoals + ')';
-            penaltyLog.prepend(row);
+            const idx = tournamentState.currentMatchIndex;
+            const eventClass = scored ? (side === 'user' ? 'goal-user' : 'goal-ai') : 'system';
+            const teamDisplay = side === 'user' ? 'Dream Team' : currentMatch.team1.isUser ? currentMatch.team2.team_name : currentMatch.team1.team_name;
+            const outcomeText = scored ? 'SEGNATO' : 'SBAGLIATO';
+            addMatchEventDOM(idx, eventClass, 90, `RIGORE ${teamDisplay} - ${name}: ${outcomeText} (${userGoals}-${aiGoals})`);
         }
 
         function updateTournamentStats() {
             if (!tournamentState) return;
-            const gd = tournamentState.gf - tournamentState.ga;
-            simRunRecord.textContent = tournamentState.points + ' pts';
+            
+            // Calculate User's Group Stage stats dynamically from completed group matches
+            let gp = 0, w = 0, d = 0, l = 0, gf = 0, ga = 0, pts = 0;
+            
+            tournamentState.matches.forEach((m) => {
+                if (m.type === 'group' && m.ended) {
+                    const isUserHome = m.team1.isUser;
+                    const uScore = isUserHome ? m.score1 : m.score2;
+                    const aScore = isUserHome ? m.score2 : m.score1;
+                    
+                    gp++;
+                    gf += uScore;
+                    ga += aScore;
+                    if (uScore > aScore) {
+                        w++;
+                        pts += 3;
+                    } else if (uScore === aScore) {
+                        d++;
+                        pts += 1;
+                    } else {
+                        l++;
+                    }
+                }
+            });
+
+            const gd = gf - ga;
+            simRunRecord.textContent = pts + ' pts';
             simRunGd.textContent = 'GD ' + (gd > 0 ? '+' + gd : gd);
-            simPoints.textContent = tournamentState.points;
-            simGf.textContent = tournamentState.gf;
-            simGa.textContent = tournamentState.ga;
+            
+            if (simPoints) simPoints.textContent = pts;
+            if (simGf) simGf.textContent = gf;
+            if (simGa) simGa.textContent = ga;
         }
 
         function setSimSpeed(speed) {
